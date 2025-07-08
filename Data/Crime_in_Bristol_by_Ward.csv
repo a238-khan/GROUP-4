@@ -1,0 +1,2556 @@
+﻿OBJECTID,WARD_CODE,WARD_NAME,CRIME_TYPE,PERIOD,WARD_POP_MID_YEAR,WARD_NUMBER,WARD_STATISTIC
+1,E05010885,Ashley,All Crimes,2016/17,1419,3,164.6
+2,E05010886,Avonmouth & Lawrence Weston,All Crimes,2016/17,2254,7,113
+3,E05010887,Bedminster,All Crimes,2016/17,808,1,91.8
+4,E05010888,Bishopston & Ashley Down,All Crimes,2016/17,936,2,83.5
+5,E05010889,Bishopsworth,All Crimes,2016/17,1070,4,130.2
+6,E05010890,Brislington East,All Crimes,2016/17,924,5,76.7
+7,E05010891,Brislington West,All Crimes,2016/17,882,5,123.3
+8,E05010892,Central,All Crimes,2016/17,464,13,471.6
+9,E05010893,Clifton,All Crimes,2016/17,847,1,50.8
+10,E05010894,Clifton Down,All Crimes,2016/17,402,0,77.1
+11,E05010895,Cotham,All Crimes,2016/17,527,2,64.1
+12,E05010896,Easton,All Crimes,2016/17,980,5,108.2
+13,E05010897,Eastville,All Crimes,2016/17,1258,6,112.8
+14,E05010898,Filwood,All Crimes,2016/17,1724,6,126.9
+15,E05010899,Frome Vale,All Crimes,2016/17,1088,2,117.1
+16,E05010900,Hartcliffe & Withywood,All Crimes,2016/17,2223,8,130
+17,E05010901,Henbury & Brentry,All Crimes,2016/17,1230,7,93.4
+18,E05010902,Hengrove & Whitchurch Park,All Crimes,2016/17,1651,5,111.7
+19,E05010903,Hillfields,All Crimes,2016/17,1418,5,84
+20,E05010904,Horfield,All Crimes,2016/17,982,4,113.7
+21,E05010905,Hotwells & Harbourside,All Crimes,2016/17,155,6,421.6
+22,E05010906,Knowle,All Crimes,2016/17,1483,5,83.7
+23,E05010907,Lawrence Hill,All Crimes,2016/17,2020,3,187.9
+24,E05010908,Lockleaze,All Crimes,2016/17,1445,5,99.8
+25,E05010909,Redland,All Crimes,2016/17,1500,1,59.6
+26,E05010910,St George Central,All Crimes,2016/17,1068,3,96.9
+27,E05010911,St George Troopers Hill,All Crimes,2016/17,511,2,38.5
+28,E05010912,St George West,All Crimes,2016/17,435,5,106.4
+29,E05010913,Southmead,All Crimes,2016/17,1497,7,107.2
+30,E05010914,Southville,All Crimes,2016/17,736,1,172.1
+31,E05010915,Stockwood,All Crimes,2016/17,1018,6,85.6
+32,E05010916,Stoke Bishop,All Crimes,2016/17,1103,6,48.3
+33,E05010917,Westbury-on-Trym & Henleaze,All Crimes,2016/17,2187,1,71.6
+34,E05010918,Windmill Hill,All Crimes,2016/17,948,3,82.4
+35,E06000023,Bristol Average,All Crimes,2016/17,39193,4,121.5
+36,E05010885,Ashley,Anti-Social Behaviour incidents,2016/17,18949,835,44.1
+37,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour incidents,2016/17,21220,530,25
+38,E05010887,Bedminster,Anti-Social Behaviour incidents,2016/17,12336,150,12.2
+39,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour incidents,2016/17,13116,149,11.4
+40,E05010889,Bishopsworth,Anti-Social Behaviour incidents,2016/17,11553,247,21.4
+41,E05010890,Brislington East,Anti-Social Behaviour incidents,2016/17,11850,265,22.4
+42,E05010891,Brislington West,Anti-Social Behaviour incidents,2016/17,11212,228,20.3
+43,E05010892,Central,Anti-Social Behaviour incidents,2016/17,17151,2334,136.1
+44,E05010893,Clifton,Anti-Social Behaviour incidents,2016/17,13233,197,14.9
+45,E05010894,Clifton Down,Anti-Social Behaviour incidents,2016/17,11457,184,16.1
+46,E05010895,Cotham,Anti-Social Behaviour incidents,2016/17,11880,177,14.9
+47,E05010896,Easton,Anti-Social Behaviour incidents,2016/17,14105,374,26.5
+48,E05010897,Eastville,Anti-Social Behaviour incidents,2016/17,14460,313,21.6
+49,E05010898,Filwood,Anti-Social Behaviour incidents,2016/17,13830,437,31.6
+50,E05010899,Frome Vale,Anti-Social Behaviour incidents,2016/17,13002,300,23.1
+51,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour incidents,2016/17,18866,855,45.3
+52,E05010901,Henbury & Brentry,Anti-Social Behaviour incidents,2016/17,12275,253,20.6
+53,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour incidents,2016/17,17596,519,29.5
+54,E05010903,Hillfields,Anti-Social Behaviour incidents,2016/17,12673,268,21.1
+55,E05010904,Horfield,Anti-Social Behaviour incidents,2016/17,13435,310,23.1
+56,E05010905,Hotwells & Harbourside,Anti-Social Behaviour incidents,2016/17,5543,622,112.2
+57,E05010906,Knowle,Anti-Social Behaviour incidents,2016/17,13425,196,14.6
+58,E05010907,Lawrence Hill,Anti-Social Behaviour incidents,2016/17,18884,905,47.9
+59,E05010908,Lockleaze,Anti-Social Behaviour incidents,2016/17,13240,335,25.3
+60,E05010909,Redland,Anti-Social Behaviour incidents,2016/17,13251,156,11.8
+61,E05010910,St George Central,Anti-Social Behaviour incidents,2016/17,12955,191,14.7
+62,E05010911,St George Troopers Hill,Anti-Social Behaviour incidents,2016/17,5891,142,24.1
+63,E05010912,St George West,Anti-Social Behaviour incidents,2016/17,6588,126,19.1
+64,E05010913,Southmead,Anti-Social Behaviour incidents,2016/17,12841,346,26.9
+65,E05010914,Southville,Anti-Social Behaviour incidents,2016/17,12118,455,37.5
+66,E05010915,Stockwood,Anti-Social Behaviour incidents,2016/17,11793,237,20.1
+67,E05010916,Stoke Bishop,Anti-Social Behaviour incidents,2016/17,12103,101,8.3
+68,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour incidents,2016/17,19624,203,10.3
+69,E05010918,Windmill Hill,Anti-Social Behaviour incidents,2016/17,13511,267,19.8
+70,E06000023,Bristol Average,Anti-Social Behaviour incidents,2016/17,455966,13207,29
+71,E05010885,Ashley,Burglary,2016/17,18949,181,9.6
+72,E05010886,Avonmouth & Lawrence Weston,Burglary,2016/17,21220,182,8.6
+73,E05010887,Bedminster,Burglary,2016/17,12336,93,7.5
+74,E05010888,Bishopston & Ashley Down,Burglary,2016/17,13116,133,10.1
+75,E05010889,Bishopsworth,Burglary,2016/17,11553,116,10
+76,E05010890,Brislington East,Burglary,2016/17,11850,108,9.1
+77,E05010891,Brislington West,Burglary,2016/17,11212,125,11.1
+78,E05010892,Central,Burglary,2016/17,17151,399,23.3
+79,E05010893,Clifton,Burglary,2016/17,13233,72,5.4
+80,E05010894,Clifton Down,Burglary,2016/17,11457,83,7.2
+81,E05010895,Cotham,Burglary,2016/17,11880,111,9.3
+82,E05010896,Easton,Burglary,2016/17,14105,192,13.6
+83,E05010897,Eastville,Burglary,2016/17,14460,177,12.2
+84,E05010898,Filwood,Burglary,2016/17,13830,121,8.7
+85,E05010899,Frome Vale,Burglary,2016/17,13002,174,13.4
+86,E05010900,Hartcliffe & Withywood,Burglary,2016/17,18866,161,8.5
+87,E05010901,Henbury & Brentry,Burglary,2016/17,12275,115,9.4
+88,E05010902,Hengrove & Whitchurch Park,Burglary,2016/17,17596,169,9.6
+89,E05010903,Hillfields,Burglary,2016/17,12673,119,9.4
+90,E05010904,Horfield,Burglary,2016/17,13435,249,18.5
+91,E05010905,Hotwells & Harbourside,Burglary,2016/17,5543,124,22.4
+92,E05010906,Knowle,Burglary,2016/17,13425,91,6.8
+93,E05010907,Lawrence Hill,Burglary,2016/17,18884,243,12.9
+94,E05010908,Lockleaze,Burglary,2016/17,13240,127,9.6
+95,E05010909,Redland,Burglary,2016/17,13251,135,10.2
+96,E05010910,St George Central,Burglary,2016/17,12955,171,13.2
+97,E05010911,St George Troopers Hill,Burglary,2016/17,5891,24,4.1
+98,E05010912,St George West,Burglary,2016/17,6588,75,11.4
+99,E05010913,Southmead,Burglary,2016/17,12841,106,8.3
+100,E05010914,Southville,Burglary,2016/17,12118,170,14
+101,E05010915,Stockwood,Burglary,2016/17,11793,84,7.1
+102,E05010916,Stoke Bishop,Burglary,2016/17,12103,93,7.7
+103,E05010917,Westbury-on-Trym & Henleaze,Burglary,2016/17,19624,241,12.3
+104,E05010918,Windmill Hill,Burglary,2016/17,13511,96,7.1
+105,E06000023,Bristol Average,Burglary,2016/17,455966,4860,10.7
+106,E05010885,Ashley,Violent & Sexual Offences,2016/17,18949,859,45.3
+107,E05010886,Avonmouth & Lawrence Weston,Violent & Sexual Offences,2016/17,21220,826,38.9
+108,E05010887,Bedminster,Violent & Sexual Offences,2016/17,12336,332,26.9
+109,E05010888,Bishopston & Ashley Down,Violent & Sexual Offences,2016/17,13116,305,23.3
+110,E05010889,Bishopsworth,Violent & Sexual Offences,2016/17,11553,419,36.3
+111,E05010890,Brislington East,Violent & Sexual Offences,2016/17,11850,305,25.7
+112,E05010891,Brislington West,Violent & Sexual Offences,2016/17,11212,372,33.2
+113,E05010892,Central,Violent & Sexual Offences,2016/17,17151,1951,113.8
+114,E05010893,Clifton,Violent & Sexual Offences,2016/17,13233,111,8.4
+115,E05010894,Clifton Down,Violent & Sexual Offences,2016/17,11457,122,10.6
+116,E05010895,Cotham,Violent & Sexual Offences,2016/17,11880,132,11.1
+117,E05010896,Easton,Violent & Sexual Offences,2016/17,14105,529,37.5
+118,E05010897,Eastville,Violent & Sexual Offences,2016/17,14460,460,31.8
+119,E05010898,Filwood,Violent & Sexual Offences,2016/17,13830,639,46.2
+120,E05010899,Frome Vale,Violent & Sexual Offences,2016/17,13002,415,31.9
+121,E05010900,Hartcliffe & Withywood,Violent & Sexual Offences,2016/17,18866,945,50.1
+122,E05010901,Henbury & Brentry,Violent & Sexual Offences,2016/17,12275,416,33.9
+123,E05010902,Hengrove & Whitchurch Park,Violent & Sexual Offences,2016/17,17596,565,32.1
+124,E05010903,Hillfields,Violent & Sexual Offences,2016/17,12673,370,29.2
+125,E05010904,Horfield,Violent & Sexual Offences,2016/17,13435,445,33.1
+126,E05010905,Hotwells & Harbourside,Violent & Sexual Offences,2016/17,5543,737,133
+127,E05010906,Knowle,Violent & Sexual Offences,2016/17,13425,362,27
+128,E05010907,Lawrence Hill,Violent & Sexual Offences,2016/17,18884,1152,61
+129,E05010908,Lockleaze,Violent & Sexual Offences,2016/17,13240,438,33.1
+130,E05010909,Redland,Violent & Sexual Offences,2016/17,13251,159,12
+131,E05010910,St George Central,Violent & Sexual Offences,2016/17,12955,378,29.2
+132,E05010911,St George Troopers Hill,Violent & Sexual Offences,2016/17,5891,68,11.5
+133,E05010912,St George West,Violent & Sexual Offences,2016/17,6588,220,33.4
+134,E05010913,Southmead,Violent & Sexual Offences,2016/17,12841,478,37.2
+135,E05010914,Southville,Violent & Sexual Offences,2016/17,12118,484,39.9
+136,E05010915,Stockwood,Violent & Sexual Offences,2016/17,11793,310,26.3
+137,E05010916,Stoke Bishop,Violent & Sexual Offences,2016/17,12103,114,9.4
+138,E05010917,Westbury-on-Trym & Henleaze,Violent & Sexual Offences,2016/17,19624,180,9.2
+139,E05010918,Windmill Hill,Violent & Sexual Offences,2016/17,13511,351,26
+140,E06000023,Bristol Average,Violent & Sexual Offences,2016/17,455966,15951,35
+141,E05010885,Ashley,All Crimes,2017/18,19019,2889,151.9
+142,E05010886,Avonmouth & Lawrence Weston,All Crimes,2017/18,21191,2377,112.2
+143,E05010887,Bedminster,All Crimes,2017/18,12446,1121,90.1
+144,E05010888,Bishopston & Ashley Down,All Crimes,2017/18,13280,1120,84.3
+145,E05010889,Bishopsworth,All Crimes,2017/18,11463,1606,140.1
+146,E05010890,Brislington East,All Crimes,2017/18,11837,813,68.7
+147,E05010891,Brislington West,All Crimes,2017/18,11235,1344,119.6
+148,E05010892,Central,All Crimes,2017/18,18798,8490,451.6
+149,E05010893,Clifton,All Crimes,2017/18,13552,721,53.2
+150,E05010894,Clifton Down,All Crimes,2017/18,11356,1019,89.7
+151,E05010895,Cotham,All Crimes,2017/18,11756,897,76.3
+152,E05010896,Easton,All Crimes,2017/18,14026,1469,104.7
+153,E05010897,Eastville,All Crimes,2017/18,14621,1607,109.9
+154,E05010898,Filwood,All Crimes,2017/18,13801,1722,124.8
+155,E05010899,Frome Vale,All Crimes,2017/18,13281,1509,113.6
+156,E05010900,Hartcliffe & Withywood,All Crimes,2017/18,19030,2578,135.5
+157,E05010901,Henbury & Brentry,All Crimes,2017/18,12360,1197,96.8
+158,E05010902,Hengrove & Whitchurch Park,All Crimes,2017/18,17414,1920,110.3
+159,E05010903,Hillfields,All Crimes,2017/18,12889,1078,83.6
+160,E05010904,Horfield,All Crimes,2017/18,13347,1564,117.2
+161,E05010905,Hotwells & Harbourside,All Crimes,2017/18,6006,2218,369.3
+162,E05010906,Knowle,All Crimes,2017/18,13315,1063,79.8
+163,E05010907,Lawrence Hill,All Crimes,2017/18,19003,3722,195.9
+164,E05010908,Lockleaze,All Crimes,2017/18,13339,1405,105.3
+165,E05010909,Redland,All Crimes,2017/18,13146,892,67.9
+166,E05010910,St George Central,All Crimes,2017/18,12931,1099,85
+167,E05010911,St George Troopers Hill,All Crimes,2017/18,5826,215,36.9
+168,E05010912,St George West,All Crimes,2017/18,6520,678,104
+169,E05010913,Southmead,All Crimes,2017/18,12670,1412,111.4
+170,E05010914,Southville,All Crimes,2017/18,12384,2254,182
+171,E05010915,Stockwood,All Crimes,2017/18,11688,1064,91
+172,E05010916,Stoke Bishop,All Crimes,2017/18,12195,556,45.6
+173,E05010917,Westbury-on-Trym & Henleaze,All Crimes,2017/18,19854,1225,61.7
+174,E05010918,Windmill Hill,All Crimes,2017/18,13673,1071,78.3
+175,E06000023,Bristol Average,All Crimes,2017/18,459252,55916,121.8
+176,E05010885,Ashley,Anti-Social Behaviour incidents,2017/18,19019,791,41.6
+177,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour incidents,2017/18,21191,571,26.9
+178,E05010887,Bedminster,Anti-Social Behaviour incidents,2017/18,12446,158,12.7
+179,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour incidents,2017/18,13280,215,16.2
+180,E05010889,Bishopsworth,Anti-Social Behaviour incidents,2017/18,11463,308,26.9
+181,E05010890,Brislington East,Anti-Social Behaviour incidents,2017/18,11837,205,17.3
+182,E05010891,Brislington West,Anti-Social Behaviour incidents,2017/18,11235,311,27.7
+183,E05010892,Central,Anti-Social Behaviour incidents,2017/18,18798,2885,153.5
+184,E05010893,Clifton,Anti-Social Behaviour incidents,2017/18,13552,223,16.5
+185,E05010894,Clifton Down,Anti-Social Behaviour incidents,2017/18,11356,254,22.4
+186,E05010895,Cotham,Anti-Social Behaviour incidents,2017/18,11756,216,18.4
+187,E05010896,Easton,Anti-Social Behaviour incidents,2017/18,14026,366,26.1
+188,E05010897,Eastville,Anti-Social Behaviour incidents,2017/18,14621,394,26.9
+189,E05010898,Filwood,Anti-Social Behaviour incidents,2017/18,13801,567,41.1
+190,E05010899,Frome Vale,Anti-Social Behaviour incidents,2017/18,13281,372,28
+191,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour incidents,2017/18,19030,997,52.4
+192,E05010901,Henbury & Brentry,Anti-Social Behaviour incidents,2017/18,12360,285,23.1
+193,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour incidents,2017/18,17414,571,32.8
+194,E05010903,Hillfields,Anti-Social Behaviour incidents,2017/18,12889,185,14.4
+195,E05010904,Horfield,Anti-Social Behaviour incidents,2017/18,13347,304,22.8
+196,E05010905,Hotwells & Harbourside,Anti-Social Behaviour incidents,2017/18,6006,552,91.9
+197,E05010906,Knowle,Anti-Social Behaviour incidents,2017/18,13315,255,19.2
+198,E05010907,Lawrence Hill,Anti-Social Behaviour incidents,2017/18,19003,1267,66.7
+199,E05010908,Lockleaze,Anti-Social Behaviour incidents,2017/18,13339,341,25.6
+200,E05010909,Redland,Anti-Social Behaviour incidents,2017/18,13146,159,12.1
+201,E05010910,St George Central,Anti-Social Behaviour incidents,2017/18,12931,218,16.9
+202,E05010911,St George Troopers Hill,Anti-Social Behaviour incidents,2017/18,5826,76,13
+203,E05010912,St George West,Anti-Social Behaviour incidents,2017/18,6520,173,26.5
+204,E05010913,Southmead,Anti-Social Behaviour incidents,2017/18,12670,411,32.4
+205,E05010914,Southville,Anti-Social Behaviour incidents,2017/18,12384,514,41.5
+206,E05010915,Stockwood,Anti-Social Behaviour incidents,2017/18,11688,311,26.6
+207,E05010916,Stoke Bishop,Anti-Social Behaviour incidents,2017/18,12195,164,13.4
+208,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour incidents,2017/18,19854,151,7.6
+209,E05010918,Windmill Hill,Anti-Social Behaviour incidents,2017/18,13673,262,19.2
+210,E06000023,Bristol Average,Anti-Social Behaviour incidents,2017/18,459252,15032,32.7
+211,E05010885,Ashley,Burglary,2017/18,19019,183,9.6
+212,E05010886,Avonmouth & Lawrence Weston,Burglary,2017/18,21191,158,7.5
+213,E05010887,Bedminster,Burglary,2017/18,12446,107,8.6
+214,E05010888,Bishopston & Ashley Down,Burglary,2017/18,13280,153,11.5
+215,E05010889,Bishopsworth,Burglary,2017/18,11463,126,11
+216,E05010890,Brislington East,Burglary,2017/18,11837,80,6.8
+217,E05010891,Brislington West,Burglary,2017/18,11235,106,9.4
+218,E05010892,Central,Burglary,2017/18,18798,466,24.8
+219,E05010893,Clifton,Burglary,2017/18,13552,70,5.2
+220,E05010894,Clifton Down,Burglary,2017/18,11356,122,10.7
+221,E05010895,Cotham,Burglary,2017/18,11756,117,10
+222,E05010896,Easton,Burglary,2017/18,14026,131,9.3
+223,E05010897,Eastville,Burglary,2017/18,14621,159,10.9
+224,E05010898,Filwood,Burglary,2017/18,13801,92,6.7
+225,E05010899,Frome Vale,Burglary,2017/18,13281,134,10.1
+226,E05010900,Hartcliffe & Withywood,Burglary,2017/18,19030,161,8.5
+227,E05010901,Henbury & Brentry,Burglary,2017/18,12360,120,9.7
+228,E05010902,Hengrove & Whitchurch Park,Burglary,2017/18,17414,148,8.5
+229,E05010903,Hillfields,Burglary,2017/18,12889,116,9
+230,E05010904,Horfield,Burglary,2017/18,13347,323,24.2
+231,E05010905,Hotwells & Harbourside,Burglary,2017/18,6006,108,18
+232,E05010906,Knowle,Burglary,2017/18,13315,97,7.3
+233,E05010907,Lawrence Hill,Burglary,2017/18,19003,231,12.2
+234,E05010908,Lockleaze,Burglary,2017/18,13339,133,10
+235,E05010909,Redland,Burglary,2017/18,13146,123,9.4
+236,E05010910,St George Central,Burglary,2017/18,12931,128,9.9
+237,E05010911,St George Troopers Hill,Burglary,2017/18,5826,21,3.6
+238,E05010912,St George West,Burglary,2017/18,6520,68,10.4
+239,E05010913,Southmead,Burglary,2017/18,12670,126,9.9
+240,E05010914,Southville,Burglary,2017/18,12384,193,15.6
+241,E05010915,Stockwood,Burglary,2017/18,11688,88,7.5
+242,E05010916,Stoke Bishop,Burglary,2017/18,12195,69,5.7
+243,E05010917,Westbury-on-Trym & Henleaze,Burglary,2017/18,19854,297,15
+244,E05010918,Windmill Hill,Burglary,2017/18,13673,98,7.2
+245,E06000023,Bristol Average,Burglary,2017/18,459252,4852,10.6
+246,E05010885,Ashley,Violent & Sexual Offences,2017/18,19019,894,47
+247,E05010886,Avonmouth & Lawrence Weston,Violent & Sexual Offences,2017/18,21191,771,36.4
+248,E05010887,Bedminster,Violent & Sexual Offences,2017/18,12446,343,27.6
+249,E05010888,Bishopston & Ashley Down,Violent & Sexual Offences,2017/18,13280,257,19.4
+250,E05010889,Bishopsworth,Violent & Sexual Offences,2017/18,11463,464,40.5
+251,E05010890,Brislington East,Violent & Sexual Offences,2017/18,11837,287,24.2
+252,E05010891,Brislington West,Violent & Sexual Offences,2017/18,11235,382,34
+253,E05010892,Central,Violent & Sexual Offences,2017/18,18798,2142,113.9
+254,E05010893,Clifton,Violent & Sexual Offences,2017/18,13552,132,9.7
+255,E05010894,Clifton Down,Violent & Sexual Offences,2017/18,11356,130,11.4
+256,E05010895,Cotham,Violent & Sexual Offences,2017/18,11756,194,16.5
+257,E05010896,Easton,Violent & Sexual Offences,2017/18,14026,503,35.9
+258,E05010897,Eastville,Violent & Sexual Offences,2017/18,14621,503,34.4
+259,E05010898,Filwood,Violent & Sexual Offences,2017/18,13801,654,47.4
+260,E05010899,Frome Vale,Violent & Sexual Offences,2017/18,13281,462,34.8
+261,E05010900,Hartcliffe & Withywood,Violent & Sexual Offences,2017/18,19030,1036,54.4
+262,E05010901,Henbury & Brentry,Violent & Sexual Offences,2017/18,12360,399,32.3
+263,E05010902,Hengrove & Whitchurch Park,Violent & Sexual Offences,2017/18,17414,625,35.9
+264,E05010903,Hillfields,Violent & Sexual Offences,2017/18,12889,410,31.8
+265,E05010904,Horfield,Violent & Sexual Offences,2017/18,13347,461,34.5
+266,E05010905,Hotwells & Harbourside,Violent & Sexual Offences,2017/18,6006,754,125.5
+267,E05010906,Knowle,Violent & Sexual Offences,2017/18,13315,346,26
+268,E05010907,Lawrence Hill,Violent & Sexual Offences,2017/18,19003,1266,66.6
+269,E05010908,Lockleaze,Violent & Sexual Offences,2017/18,13339,447,33.5
+270,E05010909,Redland,Violent & Sexual Offences,2017/18,13146,156,11.9
+271,E05010910,St George Central,Violent & Sexual Offences,2017/18,12931,400,30.9
+272,E05010911,St George Troopers Hill,Violent & Sexual Offences,2017/18,5826,79,13.6
+273,E05010912,St George West,Violent & Sexual Offences,2017/18,6520,225,34.5
+274,E05010913,Southmead,Violent & Sexual Offences,2017/18,12670,454,35.8
+275,E05010914,Southville,Violent & Sexual Offences,2017/18,12384,565,45.6
+276,E05010915,Stockwood,Violent & Sexual Offences,2017/18,11688,338,28.9
+277,E05010916,Stoke Bishop,Violent & Sexual Offences,2017/18,12195,126,10.3
+278,E05010917,Westbury-on-Trym & Henleaze,Violent & Sexual Offences,2017/18,19854,155,7.8
+279,E05010918,Windmill Hill,Violent & Sexual Offences,2017/18,13673,355,26
+280,E06000023,Bristol Average,Violent & Sexual Offences,2017/18,459252,16716,36.4
+281,E05010885,Ashley,All Crimes,2018/19,19083,2675,140.2
+282,E05010886,Avonmouth & Lawrence Weston,All Crimes,2018/19,21375,2288,107
+283,E05010887,Bedminster,All Crimes,2018/19,12517,1036,82.8
+284,E05010888,Bishopston & Ashley Down,All Crimes,2018/19,13415,900,67.1
+285,E05010889,Bishopsworth,All Crimes,2018/19,11425,1391,121.8
+286,E05010890,Brislington East,All Crimes,2018/19,11892,751,63.2
+287,E05010891,Brislington West,All Crimes,2018/19,11336,1287,113.5
+288,E05010892,Central,All Crimes,2018/19,20656,8672,419.8
+289,E05010893,Clifton,All Crimes,2018/19,13581,781,57.5
+290,E05010894,Clifton Down,All Crimes,2018/19,11639,845,72.6
+291,E05010895,Cotham,All Crimes,2018/19,12110,773,63.8
+292,E05010896,Easton,All Crimes,2018/19,14169,1377,97.2
+293,E05010897,Eastville,All Crimes,2018/19,14696,1616,110
+294,E05010898,Filwood,All Crimes,2018/19,13750,1721,125.2
+295,E05010899,Frome Vale,All Crimes,2018/19,13477,1417,105.1
+296,E05010900,Hartcliffe & Withywood,All Crimes,2018/19,19005,2653,139.6
+297,E05010901,Henbury & Brentry,All Crimes,2018/19,12473,1150,92.2
+298,E05010902,Hengrove & Whitchurch Park,All Crimes,2018/19,17222,1633,94.8
+299,E05010903,Hillfields,All Crimes,2018/19,12898,1022,79.2
+300,E05010904,Horfield,All Crimes,2018/19,13415,1256,93.6
+301,E05010905,Hotwells & Harbourside,All Crimes,2018/19,6056,2181,360.1
+302,E05010906,Knowle,All Crimes,2018/19,13345,988,74
+303,E05010907,Lawrence Hill,All Crimes,2018/19,19473,3159,162.2
+304,E05010908,Lockleaze,All Crimes,2018/19,13398,1445,107.9
+305,E05010909,Redland,All Crimes,2018/19,13088,772,59
+306,E05010910,St George Central,All Crimes,2018/19,12902,1105,85.6
+307,E05010911,St George Troopers Hill,All Crimes,2018/19,5834,209,35.8
+308,E05010912,St George West,All Crimes,2018/19,6518,669,102.6
+309,E05010913,Southmead,All Crimes,2018/19,12632,1171,92.7
+310,E05010914,Southville,All Crimes,2018/19,12671,2105,166.1
+311,E05010915,Stockwood,All Crimes,2018/19,11580,820,70.8
+312,E05010916,Stoke Bishop,All Crimes,2018/19,12068,604,50
+313,E05010917,Westbury-on-Trym & Henleaze,All Crimes,2018/19,19971,827,41.4
+314,E05010918,Windmill Hill,All Crimes,2018/19,13735,904,65.8
+315,E06000023,Bristol Average,All Crimes,2018/19,463405,52203,112.7
+316,E05010885,Ashley,Anti-Social Behaviour incidents,2018/19,19083,721,37.8
+317,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour incidents,2018/19,21375,442,20.7
+318,E05010887,Bedminster,Anti-Social Behaviour incidents,2018/19,12517,233,18.6
+319,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour incidents,2018/19,13415,190,14.2
+320,E05010889,Bishopsworth,Anti-Social Behaviour incidents,2018/19,11425,282,24.7
+321,E05010890,Brislington East,Anti-Social Behaviour incidents,2018/19,11892,222,18.7
+322,E05010891,Brislington West,Anti-Social Behaviour incidents,2018/19,11336,314,27.7
+323,E05010892,Central,Anti-Social Behaviour incidents,2018/19,20656,3079,149.1
+324,E05010893,Clifton,Anti-Social Behaviour incidents,2018/19,13581,198,14.6
+325,E05010894,Clifton Down,Anti-Social Behaviour incidents,2018/19,11639,217,18.6
+326,E05010895,Cotham,Anti-Social Behaviour incidents,2018/19,12110,154,12.7
+327,E05010896,Easton,Anti-Social Behaviour incidents,2018/19,14169,401,28.3
+328,E05010897,Eastville,Anti-Social Behaviour incidents,2018/19,14696,449,30.6
+329,E05010898,Filwood,Anti-Social Behaviour incidents,2018/19,13750,552,40.1
+330,E05010899,Frome Vale,Anti-Social Behaviour incidents,2018/19,13477,562,41.7
+331,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour incidents,2018/19,19005,994,52.3
+332,E05010901,Henbury & Brentry,Anti-Social Behaviour incidents,2018/19,12473,311,24.9
+333,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour incidents,2018/19,17222,576,33.4
+334,E05010903,Hillfields,Anti-Social Behaviour incidents,2018/19,12898,241,18.7
+335,E05010904,Horfield,Anti-Social Behaviour incidents,2018/19,13415,291,21.7
+336,E05010905,Hotwells & Harbourside,Anti-Social Behaviour incidents,2018/19,6056,687,113.4
+337,E05010906,Knowle,Anti-Social Behaviour incidents,2018/19,13345,195,14.6
+338,E05010907,Lawrence Hill,Anti-Social Behaviour incidents,2018/19,19473,1004,51.6
+339,E05010908,Lockleaze,Anti-Social Behaviour incidents,2018/19,13398,356,26.6
+340,E05010909,Redland,Anti-Social Behaviour incidents,2018/19,13088,156,11.9
+341,E05010910,St George Central,Anti-Social Behaviour incidents,2018/19,12902,261,20.2
+342,E05010911,St George Troopers Hill,Anti-Social Behaviour incidents,2018/19,5834,73,12.5
+343,E05010912,St George West,Anti-Social Behaviour incidents,2018/19,6518,250,38.4
+344,E05010913,Southmead,Anti-Social Behaviour incidents,2018/19,12632,256,20.3
+345,E05010914,Southville,Anti-Social Behaviour incidents,2018/19,12671,471,37.2
+346,E05010915,Stockwood,Anti-Social Behaviour incidents,2018/19,11580,200,17.3
+347,E05010916,Stoke Bishop,Anti-Social Behaviour incidents,2018/19,12068,160,13.3
+348,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour incidents,2018/19,19971,153,7.7
+349,E05010918,Windmill Hill,Anti-Social Behaviour incidents,2018/19,13735,206,15
+350,E06000023,Bristol Average,Anti-Social Behaviour incidents,2018/19,463405,14857,32.1
+351,E05010885,Ashley,Burglary,2018/19,19083,178,9.3
+352,E05010886,Avonmouth & Lawrence Weston,Burglary,2018/19,21375,136,6.4
+353,E05010887,Bedminster,Burglary,2018/19,12517,69,5.5
+354,E05010888,Bishopston & Ashley Down,Burglary,2018/19,13415,96,7.2
+355,E05010889,Bishopsworth,Burglary,2018/19,11425,86,7.5
+356,E05010890,Brislington East,Burglary,2018/19,11892,59,5
+357,E05010891,Brislington West,Burglary,2018/19,11336,83,7.3
+358,E05010892,Central,Burglary,2018/19,20656,484,23.4
+359,E05010893,Clifton,Burglary,2018/19,13581,85,6.3
+360,E05010894,Clifton Down,Burglary,2018/19,11639,103,8.8
+361,E05010895,Cotham,Burglary,2018/19,12110,162,13.4
+362,E05010896,Easton,Burglary,2018/19,14169,71,5
+363,E05010897,Eastville,Burglary,2018/19,14696,98,6.7
+364,E05010898,Filwood,Burglary,2018/19,13750,78,5.7
+365,E05010899,Frome Vale,Burglary,2018/19,13477,74,5.5
+366,E05010900,Hartcliffe & Withywood,Burglary,2018/19,19005,115,6.1
+367,E05010901,Henbury & Brentry,Burglary,2018/19,12473,94,7.5
+368,E05010902,Hengrove & Whitchurch Park,Burglary,2018/19,17222,114,6.6
+369,E05010903,Hillfields,Burglary,2018/19,12898,86,6.7
+370,E05010904,Horfield,Burglary,2018/19,13415,111,8.3
+371,E05010905,Hotwells & Harbourside,Burglary,2018/19,6056,131,21.6
+372,E05010906,Knowle,Burglary,2018/19,13345,88,6.6
+373,E05010907,Lawrence Hill,Burglary,2018/19,19473,186,9.6
+374,E05010908,Lockleaze,Burglary,2018/19,13398,93,6.9
+375,E05010909,Redland,Burglary,2018/19,13088,97,7.4
+376,E05010910,St George Central,Burglary,2018/19,12902,118,9.1
+377,E05010911,St George Troopers Hill,Burglary,2018/19,5834,25,4.3
+378,E05010912,St George West,Burglary,2018/19,6518,68,10.4
+379,E05010913,Southmead,Burglary,2018/19,12632,88,7
+380,E05010914,Southville,Burglary,2018/19,12671,118,9.3
+381,E05010915,Stockwood,Burglary,2018/19,11580,59,5.1
+382,E05010916,Stoke Bishop,Burglary,2018/19,12068,68,5.6
+383,E05010917,Westbury-on-Trym & Henleaze,Burglary,2018/19,19971,125,6.3
+384,E05010918,Windmill Hill,Burglary,2018/19,13735,63,4.6
+385,E06000023,Bristol Average,Burglary,2018/19,463405,3709,8
+386,E05010885,Ashley,Violent & Sexual Offences,2018/19,19083,787,41.2
+387,E05010886,Avonmouth & Lawrence Weston,Violent & Sexual Offences,2018/19,21375,887,41.5
+388,E05010887,Bedminster,Violent & Sexual Offences,2018/19,12517,325,26
+389,E05010888,Bishopston & Ashley Down,Violent & Sexual Offences,2018/19,13415,238,17.7
+390,E05010889,Bishopsworth,Violent & Sexual Offences,2018/19,11425,400,35
+391,E05010890,Brislington East,Violent & Sexual Offences,2018/19,11892,279,23.5
+392,E05010891,Brislington West,Violent & Sexual Offences,2018/19,11336,431,38
+393,E05010892,Central,Violent & Sexual Offences,2018/19,20656,2166,104.9
+394,E05010893,Clifton,Violent & Sexual Offences,2018/19,13581,181,13.3
+395,E05010894,Clifton Down,Violent & Sexual Offences,2018/19,11639,182,15.6
+396,E05010895,Cotham,Violent & Sexual Offences,2018/19,12110,179,14.8
+397,E05010896,Easton,Violent & Sexual Offences,2018/19,14169,502,35.4
+398,E05010897,Eastville,Violent & Sexual Offences,2018/19,14696,577,39.3
+399,E05010898,Filwood,Violent & Sexual Offences,2018/19,13750,677,49.2
+400,E05010899,Frome Vale,Violent & Sexual Offences,2018/19,13477,541,40.1
+401,E05010900,Hartcliffe & Withywood,Violent & Sexual Offences,2018/19,19005,1114,58.6
+402,E05010901,Henbury & Brentry,Violent & Sexual Offences,2018/19,12473,449,36
+403,E05010902,Hengrove & Whitchurch Park,Violent & Sexual Offences,2018/19,17222,616,35.8
+404,E05010903,Hillfields,Violent & Sexual Offences,2018/19,12898,395,30.6
+405,E05010904,Horfield,Violent & Sexual Offences,2018/19,13415,451,33.6
+406,E05010905,Hotwells & Harbourside,Violent & Sexual Offences,2018/19,6056,692,114.3
+407,E05010906,Knowle,Violent & Sexual Offences,2018/19,13345,331,24.8
+408,E05010907,Lawrence Hill,Violent & Sexual Offences,2018/19,19473,1041,53.5
+409,E05010908,Lockleaze,Violent & Sexual Offences,2018/19,13398,466,34.8
+410,E05010909,Redland,Violent & Sexual Offences,2018/19,13088,185,14.1
+411,E05010910,St George Central,Violent & Sexual Offences,2018/19,12902,459,35.6
+412,E05010911,St George Troopers Hill,Violent & Sexual Offences,2018/19,5834,72,12.3
+413,E05010912,St George West,Violent & Sexual Offences,2018/19,6518,240,36.8
+414,E05010913,Southmead,Violent & Sexual Offences,2018/19,12632,477,37.8
+415,E05010914,Southville,Violent & Sexual Offences,2018/19,12671,519,41
+416,E05010915,Stockwood,Violent & Sexual Offences,2018/19,11580,290,25
+417,E05010916,Stoke Bishop,Violent & Sexual Offences,2018/19,12068,143,11.8
+418,E05010917,Westbury-on-Trym & Henleaze,Violent & Sexual Offences,2018/19,19971,174,8.7
+419,E05010918,Windmill Hill,Violent & Sexual Offences,2018/19,13735,310,22.6
+420,E06000023,Bristol Average,Violent & Sexual Offences,2018/19,463405,16776,36.2
+421,E05010885,Ashley,All Crimes,2019/20,19083,2733,143.2
+422,E05010886,Avonmouth & Lawrence Weston,All Crimes,2019/20,21375,2322,108.6
+423,E05010887,Bedminster,All Crimes,2019/20,12517,1202,96
+424,E05010888,Bishopston & Ashley Down,All Crimes,2019/20,13415,887,66.1
+425,E05010889,Bishopsworth,All Crimes,2019/20,11425,1296,113.4
+426,E05010890,Brislington East,All Crimes,2019/20,11892,835,70.2
+427,E05010891,Brislington West,All Crimes,2019/20,11336,1219,107.5
+428,E05010892,Central,All Crimes,2019/20,20656,8570,414.9
+429,E05010893,Clifton,All Crimes,2019/20,13581,837,61.6
+430,E05010894,Clifton Down,All Crimes,2019/20,11639,776,66.7
+431,E05010895,Cotham,All Crimes,2019/20,12110,688,56.8
+432,E05010896,Easton,All Crimes,2019/20,14169,1377,97.2
+433,E05010897,Eastville,All Crimes,2019/20,14696,1669,113.6
+434,E05010898,Filwood,All Crimes,2019/20,13750,1571,114.3
+435,E05010899,Frome Vale,All Crimes,2019/20,13477,1393,103.4
+436,E05010900,Hartcliffe & Withywood,All Crimes,2019/20,19005,2445,128.7
+437,E05010901,Henbury & Brentry,All Crimes,2019/20,12473,1273,102.1
+438,E05010902,Hengrove & Whitchurch Park,All Crimes,2019/20,17222,1572,91.3
+439,E05010903,Hillfields,All Crimes,2019/20,12898,987,76.5
+440,E05010904,Horfield,All Crimes,2019/20,13415,1565,116.7
+441,E05010905,Hotwells & Harbourside,All Crimes,2019/20,6056,2115,349.2
+442,E05010906,Knowle,All Crimes,2019/20,13345,990,74.2
+443,E05010907,Lawrence Hill,All Crimes,2019/20,19473,3481,178.8
+444,E05010908,Lockleaze,All Crimes,2019/20,13398,1404,104.8
+445,E05010909,Redland,All Crimes,2019/20,13088,700,53.5
+446,E05010910,St George Central,All Crimes,2019/20,6518,1061,162.8
+447,E05010911,St George Troopers Hill,All Crimes,2019/20,12632,293,23.2
+448,E05010912,St George West,All Crimes,2019/20,12671,673,53.1
+449,E05010913,Southmead,All Crimes,2019/20,12902,1126,87.3
+450,E05010914,Southville,All Crimes,2019/20,5834,2283,391.3
+451,E05010915,Stockwood,All Crimes,2019/20,11580,889,76.8
+452,E05010916,Stoke Bishop,All Crimes,2019/20,12068,537,44.5
+453,E05010917,Westbury-on-Trym & Henleaze,All Crimes,2019/20,19971,867,43.4
+454,E05010918,Windmill Hill,All Crimes,2019/20,13735,955,69.5
+455,E06000023,Bristol Average,All Crimes,2019/20,463405,52601,113.5
+456,E05010885,Ashley,Anti-Social Behaviour incidents,2019/20,19083,631,33.1
+457,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour incidents,2019/20,21375,429,20.1
+458,E05010887,Bedminster,Anti-Social Behaviour incidents,2019/20,12517,222,17.7
+459,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour incidents,2019/20,13415,128,9.5
+460,E05010889,Bishopsworth,Anti-Social Behaviour incidents,2019/20,11425,248,21.7
+461,E05010890,Brislington East,Anti-Social Behaviour incidents,2019/20,11892,223,18.8
+462,E05010891,Brislington West,Anti-Social Behaviour incidents,2019/20,11336,246,21.7
+463,E05010892,Central,Anti-Social Behaviour incidents,2019/20,20656,2859,138.4
+464,E05010893,Clifton,Anti-Social Behaviour incidents,2019/20,13581,211,15.5
+465,E05010894,Clifton Down,Anti-Social Behaviour incidents,2019/20,11639,174,14.9
+466,E05010895,Cotham,Anti-Social Behaviour incidents,2019/20,12110,94,7.8
+467,E05010896,Easton,Anti-Social Behaviour incidents,2019/20,14169,439,31
+468,E05010897,Eastville,Anti-Social Behaviour incidents,2019/20,14696,267,18.2
+469,E05010898,Filwood,Anti-Social Behaviour incidents,2019/20,13750,572,41.6
+470,E05010899,Frome Vale,Anti-Social Behaviour incidents,2019/20,13477,395,29.3
+471,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour incidents,2019/20,19005,924,48.6
+472,E05010901,Henbury & Brentry,Anti-Social Behaviour incidents,2019/20,12473,310,24.9
+473,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour incidents,2019/20,17222,450,26.1
+474,E05010903,Hillfields,Anti-Social Behaviour incidents,2019/20,12898,280,21.7
+475,E05010904,Horfield,Anti-Social Behaviour incidents,2019/20,13415,233,17.4
+476,E05010905,Hotwells & Harbourside,Anti-Social Behaviour incidents,2019/20,6056,654,108
+477,E05010906,Knowle,Anti-Social Behaviour incidents,2019/20,13345,273,20.5
+478,E05010907,Lawrence Hill,Anti-Social Behaviour incidents,2019/20,19473,911,46.8
+479,E05010908,Lockleaze,Anti-Social Behaviour incidents,2019/20,13398,341,25.5
+480,E05010909,Redland,Anti-Social Behaviour incidents,2019/20,13088,139,10.6
+481,E05010910,St George Central,Anti-Social Behaviour incidents,2019/20,6518,211,32.4
+482,E05010911,St George Troopers Hill,Anti-Social Behaviour incidents,2019/20,12632,60,4.7
+483,E05010912,St George West,Anti-Social Behaviour incidents,2019/20,12671,184,14.5
+484,E05010913,Southmead,Anti-Social Behaviour incidents,2019/20,12902,234,18.1
+485,E05010914,Southville,Anti-Social Behaviour incidents,2019/20,5834,594,101.8
+486,E05010915,Stockwood,Anti-Social Behaviour incidents,2019/20,11580,275,23.7
+487,E05010916,Stoke Bishop,Anti-Social Behaviour incidents,2019/20,12068,123,10.2
+488,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour incidents,2019/20,19971,168,8.4
+489,E05010918,Windmill Hill,Anti-Social Behaviour incidents,2019/20,13735,278,20.2
+490,E06000023,Bristol Average,Anti-Social Behaviour incidents,2019/20,463405,13780,29.7
+491,E05010885,Ashley,Burglary,2019/20,19083,164,8.6
+492,E05010886,Avonmouth & Lawrence Weston,Burglary,2019/20,21375,128,6
+493,E05010887,Bedminster,Burglary,2019/20,12517,103,8.2
+494,E05010888,Bishopston & Ashley Down,Burglary,2019/20,13415,51,3.8
+495,E05010889,Bishopsworth,Burglary,2019/20,11425,86,7.5
+496,E05010890,Brislington East,Burglary,2019/20,11892,72,6.1
+497,E05010891,Brislington West,Burglary,2019/20,11336,70,6.2
+498,E05010892,Central,Burglary,2019/20,20656,337,16.3
+499,E05010893,Clifton,Burglary,2019/20,13581,70,5.2
+500,E05010894,Clifton Down,Burglary,2019/20,11639,53,4.6
+501,E05010895,Cotham,Burglary,2019/20,12110,62,5.1
+502,E05010896,Easton,Burglary,2019/20,14169,70,4.9
+503,E05010897,Eastville,Burglary,2019/20,14696,98,6.7
+504,E05010898,Filwood,Burglary,2019/20,13750,99,7.2
+505,E05010899,Frome Vale,Burglary,2019/20,13477,72,5.3
+506,E05010900,Hartcliffe & Withywood,Burglary,2019/20,19005,106,5.6
+507,E05010901,Henbury & Brentry,Burglary,2019/20,12473,67,5.4
+508,E05010902,Hengrove & Whitchurch Park,Burglary,2019/20,17222,109,6.3
+509,E05010903,Hillfields,Burglary,2019/20,12898,61,4.7
+510,E05010904,Horfield,Burglary,2019/20,13415,118,8.8
+511,E05010905,Hotwells & Harbourside,Burglary,2019/20,6056,99,16.3
+512,E05010906,Knowle,Burglary,2019/20,13345,60,4.5
+513,E05010907,Lawrence Hill,Burglary,2019/20,19473,155,8
+514,E05010908,Lockleaze,Burglary,2019/20,13398,67,5
+515,E05010909,Redland,Burglary,2019/20,13088,61,4.7
+516,E05010910,St George Central,Burglary,2019/20,6518,114,17.5
+517,E05010911,St George Troopers Hill,Burglary,2019/20,12632,24,1.9
+518,E05010912,St George West,Burglary,2019/20,12671,47,3.7
+519,E05010913,Southmead,Burglary,2019/20,12902,76,5.9
+520,E05010914,Southville,Burglary,2019/20,5834,120,20.6
+521,E05010915,Stockwood,Burglary,2019/20,11580,53,4.6
+522,E05010916,Stoke Bishop,Burglary,2019/20,12068,57,4.7
+523,E05010917,Westbury-on-Trym & Henleaze,Burglary,2019/20,19971,124,6.2
+524,E05010918,Windmill Hill,Burglary,2019/20,13735,69,5
+525,E06000023,Bristol Average,Burglary,2019/20,463405,3122,6.7
+526,E05010885,Ashley,Violent & Sexual Offences,2019/20,19083,890,46.6
+527,E05010886,Avonmouth & Lawrence Weston,Violent & Sexual Offences,2019/20,21375,967,45.2
+528,E05010887,Bedminster,Violent & Sexual Offences,2019/20,12517,353,28.2
+529,E05010888,Bishopston & Ashley Down,Violent & Sexual Offences,2019/20,13415,301,22.4
+530,E05010889,Bishopsworth,Violent & Sexual Offences,2019/20,11425,470,41.1
+531,E05010890,Brislington East,Violent & Sexual Offences,2019/20,11892,312,26.2
+532,E05010891,Brislington West,Violent & Sexual Offences,2019/20,11336,420,37.1
+533,E05010892,Central,Violent & Sexual Offences,2019/20,20656,2129,103.1
+534,E05010893,Clifton,Violent & Sexual Offences,2019/20,13581,166,12.2
+535,E05010894,Clifton Down,Violent & Sexual Offences,2019/20,11639,152,13.1
+536,E05010895,Cotham,Violent & Sexual Offences,2019/20,12110,152,12.6
+537,E05010896,Easton,Violent & Sexual Offences,2019/20,14169,521,36.8
+538,E05010897,Eastville,Violent & Sexual Offences,2019/20,14696,590,40.1
+539,E05010898,Filwood,Violent & Sexual Offences,2019/20,13750,640,46.5
+540,E05010899,Frome Vale,Violent & Sexual Offences,2019/20,13477,449,33.3
+541,E05010900,Hartcliffe & Withywood,Violent & Sexual Offences,2019/20,19005,1050,55.2
+542,E05010901,Henbury & Brentry,Violent & Sexual Offences,2019/20,12473,549,44
+543,E05010902,Hengrove & Whitchurch Park,Violent & Sexual Offences,2019/20,17222,589,34.2
+544,E05010903,Hillfields,Violent & Sexual Offences,2019/20,12898,404,31.3
+545,E05010904,Horfield,Violent & Sexual Offences,2019/20,13415,617,46
+546,E05010905,Hotwells & Harbourside,Violent & Sexual Offences,2019/20,6056,734,121.2
+547,E05010906,Knowle,Violent & Sexual Offences,2019/20,13345,379,28.4
+548,E05010907,Lawrence Hill,Violent & Sexual Offences,2019/20,19473,1175,60.3
+549,E05010908,Lockleaze,Violent & Sexual Offences,2019/20,13398,473,35.3
+550,E05010909,Redland,Violent & Sexual Offences,2019/20,13088,160,12.2
+551,E05010910,St George Central,Violent & Sexual Offences,2019/20,6518,387,59.4
+552,E05010911,St George Troopers Hill,Violent & Sexual Offences,2019/20,12632,90,7.1
+553,E05010912,St George West,Violent & Sexual Offences,2019/20,12671,219,17.3
+554,E05010913,Southmead,Violent & Sexual Offences,2019/20,12902,435,33.7
+555,E05010914,Southville,Violent & Sexual Offences,2019/20,5834,634,108.7
+556,E05010915,Stockwood,Violent & Sexual Offences,2019/20,11580,349,30.1
+557,E05010916,Stoke Bishop,Violent & Sexual Offences,2019/20,12068,155,12.8
+558,E05010917,Westbury-on-Trym & Henleaze,Violent & Sexual Offences,2019/20,19971,190,9.5
+559,E05010918,Windmill Hill,Violent & Sexual Offences,2019/20,13735,292,21.3
+560,E06000023,Bristol Average,Violent & Sexual Offences,2019/20,463405,17400,37.5
+561,E05010885,Ashley,All Crimes,2020/21,19075,2494,130.7
+562,E05010886,Avonmouth & Lawrence Weston,All Crimes,2020/21,21408,2204,103
+563,E05010887,Bedminster,All Crimes,2020/21,12517,1035,82.7
+564,E05010888,Bishopston & Ashley Down,All Crimes,2020/21,13338,889,66.7
+565,E05010889,Bishopsworth,All Crimes,2020/21,11415,1116,97.8
+566,E05010890,Brislington East,All Crimes,2020/21,11785,796,67.5
+567,E05010891,Brislington West,All Crimes,2020/21,11456,1117,97.5
+568,E05010892,Central,All Crimes,2020/21,21762,5109,234.8
+569,E05010893,Clifton,All Crimes,2020/21,13454,689,51.2
+570,E05010894,Clifton Down,All Crimes,2020/21,11507,616,53.5
+571,E05010895,Cotham,All Crimes,2020/21,11693,574,49.1
+572,E05010896,Easton,All Crimes,2020/21,14153,1476,104.3
+573,E05010897,Eastville,All Crimes,2020/21,14561,1706,117.2
+574,E05010898,Filwood,All Crimes,2020/21,13855,1749,126.2
+575,E05010899,Frome Vale,All Crimes,2020/21,13592,1394,102.6
+576,E05010900,Hartcliffe & Withywood,All Crimes,2020/21,18883,2575,136.4
+577,E05010901,Henbury & Brentry,All Crimes,2020/21,12470,1248,100.1
+578,E05010902,Hengrove & Whitchurch Park,All Crimes,2020/21,17003,1463,86
+579,E05010903,Hillfields,All Crimes,2020/21,12830,1106,86.2
+580,E05010904,Horfield,All Crimes,2020/21,13375,1438,107.5
+581,E05010905,Hotwells & Harbourside,All Crimes,2020/21,6392,1219,190.7
+582,E05010906,Knowle,All Crimes,2020/21,13276,988,74.4
+583,E05010907,Lawrence Hill,All Crimes,2020/21,19626,3291,167.7
+584,E05010908,Lockleaze,All Crimes,2020/21,13324,1283,96.3
+585,E05010909,Redland,All Crimes,2020/21,13036,614,47.1
+586,E05010910,St George Central,All Crimes,2020/21,12865,1059,82.3
+587,E05010911,St George Troopers Hill,All Crimes,2020/21,5773,284,49.2
+588,E05010912,St George West,All Crimes,2020/21,6593,740,112.2
+589,E05010913,Southmead,All Crimes,2020/21,12583,1309,104
+590,E05010914,Southville,All Crimes,2020/21,12869,1784,138.6
+591,E05010915,Stockwood,All Crimes,2020/21,11350,889,78.3
+592,E05010916,Stoke Bishop,All Crimes,2020/21,12001,633,52.7
+593,E05010917,Westbury-on-Trym & Henleaze,All Crimes,2020/21,19806,871,44
+594,E05010918,Windmill Hill,All Crimes,2020/21,13751,1060,77.1
+595,E06000023,Bristol Average,All Crimes,2020/21,463377,46821,101
+596,E05010885,Ashley,Anti-Social Behaviour incidents (total),2020/21,19075,716,37.5
+597,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour incidents (total),2020/21,21408,588,27.5
+598,E05010887,Bedminster,Anti-Social Behaviour incidents (total),2020/21,12517,189,15.1
+599,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour incidents (total),2020/21,13338,148,11.1
+600,E05010889,Bishopsworth,Anti-Social Behaviour incidents (total),2020/21,11415,244,21.4
+601,E05010890,Brislington East,Anti-Social Behaviour incidents (total),2020/21,11785,236,20
+602,E05010891,Brislington West,Anti-Social Behaviour incidents (total),2020/21,11456,244,21.3
+603,E05010892,Central,Anti-Social Behaviour incidents (total),2020/21,21762,2048,94.1
+604,E05010893,Clifton,Anti-Social Behaviour incidents (total),2020/21,13454,227,16.9
+605,E05010894,Clifton Down,Anti-Social Behaviour incidents (total),2020/21,11507,235,20.4
+606,E05010895,Cotham,Anti-Social Behaviour incidents (total),2020/21,11693,151,12.9
+607,E05010896,Easton,Anti-Social Behaviour incidents (total),2020/21,14153,463,32.7
+608,E05010897,Eastville,Anti-Social Behaviour incidents (total),2020/21,14561,369,25.3
+609,E05010898,Filwood,Anti-Social Behaviour incidents (total),2020/21,13855,625,45.1
+610,E05010899,Frome Vale,Anti-Social Behaviour incidents (total),2020/21,13592,388,28.5
+611,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour incidents (total),2020/21,18883,793,42
+612,E05010901,Henbury & Brentry,Anti-Social Behaviour incidents (total),2020/21,12470,368,29.5
+613,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour incidents (total),2020/21,17003,446,26.2
+614,E05010903,Hillfields,Anti-Social Behaviour incidents (total),2020/21,12830,198,15.4
+615,E05010904,Horfield,Anti-Social Behaviour incidents (total),2020/21,13375,273,20.4
+616,E05010905,Hotwells & Harbourside,Anti-Social Behaviour incidents (total),2020/21,6392,664,103.9
+617,E05010906,Knowle,Anti-Social Behaviour incidents (total),2020/21,13276,281,21.2
+618,E05010907,Lawrence Hill,Anti-Social Behaviour incidents (total),2020/21,19626,922,47
+619,E05010908,Lockleaze,Anti-Social Behaviour incidents (total),2020/21,13324,393,29.5
+620,E05010909,Redland,Anti-Social Behaviour incidents (total),2020/21,13036,120,9.2
+621,E05010910,St George Central,Anti-Social Behaviour incidents (total),2020/21,12865,287,22.3
+622,E05010911,St George Troopers Hill,Anti-Social Behaviour incidents (total),2020/21,5773,89,15.4
+623,E05010912,St George West,Anti-Social Behaviour incidents (total),2020/21,6593,198,30
+624,E05010913,Southmead,Anti-Social Behaviour incidents (total),2020/21,12583,325,25.8
+625,E05010914,Southville,Anti-Social Behaviour incidents (total),2020/21,12869,468,36.4
+626,E05010915,Stockwood,Anti-Social Behaviour incidents (total),2020/21,11350,292,25.7
+627,E05010916,Stoke Bishop,Anti-Social Behaviour incidents (total),2020/21,12001,225,18.7
+628,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour incidents (total),2020/21,19806,219,11.1
+629,E05010918,Windmill Hill,Anti-Social Behaviour incidents (total),2020/21,13751,239,17.4
+630,E06000023,Bristol Average,Anti-Social Behaviour incidents (total),2020/21,463377,13671,29.5
+631,E05010885,Ashley,Anti-Social Behaviour - Environmental incidents,2020/21,19075,28,1.5
+632,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Environmental incidents,2020/21,21408,26,1.2
+633,E05010887,Bedminster,Anti-Social Behaviour - Environmental incidents,2020/21,12517,3,0.2
+634,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Environmental incidents,2020/21,13338,8,0.6
+635,E05010889,Bishopsworth,Anti-Social Behaviour - Environmental incidents,2020/21,11415,20,1.8
+636,E05010890,Brislington East,Anti-Social Behaviour - Environmental incidents,2020/21,11785,5,0.4
+637,E05010891,Brislington West,Anti-Social Behaviour - Environmental incidents,2020/21,11456,9,0.8
+638,E05010892,Central,Anti-Social Behaviour - Environmental incidents,2020/21,21762,51,2.3
+639,E05010893,Clifton,Anti-Social Behaviour - Environmental incidents,2020/21,13454,11,0.8
+640,E05010894,Clifton Down,Anti-Social Behaviour - Environmental incidents,2020/21,11507,7,0.6
+641,E05010895,Cotham,Anti-Social Behaviour - Environmental incidents,2020/21,11693,5,0.4
+642,E05010896,Easton,Anti-Social Behaviour - Environmental incidents,2020/21,14153,12,0.8
+643,E05010897,Eastville,Anti-Social Behaviour - Environmental incidents,2020/21,14561,16,1.1
+644,E05010898,Filwood,Anti-Social Behaviour - Environmental incidents,2020/21,13855,16,1.2
+645,E05010899,Frome Vale,Anti-Social Behaviour - Environmental incidents,2020/21,13592,17,1.3
+646,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Environmental incidents,2020/21,18883,24,1.3
+647,E05010901,Henbury & Brentry,Anti-Social Behaviour - Environmental incidents,2020/21,12470,19,1.5
+648,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Environmental incidents,2020/21,17003,20,1.2
+649,E05010903,Hillfields,Anti-Social Behaviour - Environmental incidents,2020/21,12830,10,0.8
+650,E05010904,Horfield,Anti-Social Behaviour - Environmental incidents,2020/21,13375,9,0.7
+651,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Environmental incidents,2020/21,6392,12,1.9
+652,E05010906,Knowle,Anti-Social Behaviour - Environmental incidents,2020/21,13276,7,0.5
+653,E05010907,Lawrence Hill,Anti-Social Behaviour - Environmental incidents,2020/21,19626,30,1.5
+654,E05010908,Lockleaze,Anti-Social Behaviour - Environmental incidents,2020/21,13324,21,1.6
+655,E05010909,Redland,Anti-Social Behaviour - Environmental incidents,2020/21,13036,4,0.3
+656,E05010910,St George Central,Anti-Social Behaviour - Environmental incidents,2020/21,12865,16,1.2
+657,E05010911,St George Troopers Hill,Anti-Social Behaviour - Environmental incidents,2020/21,5773,5,0.9
+658,E05010912,St George West,Anti-Social Behaviour - Environmental incidents,2020/21,6593,5,0.8
+659,E05010913,Southmead,Anti-Social Behaviour - Environmental incidents,2020/21,12583,12,1
+660,E05010914,Southville,Anti-Social Behaviour - Environmental incidents,2020/21,12869,15,1.2
+661,E05010915,Stockwood,Anti-Social Behaviour - Environmental incidents,2020/21,11350,13,1.1
+662,E05010916,Stoke Bishop,Anti-Social Behaviour - Environmental incidents,2020/21,12001,12,1
+663,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Environmental incidents,2020/21,19806,8,0.4
+664,E05010918,Windmill Hill,Anti-Social Behaviour - Environmental incidents,2020/21,13751,11,0.8
+665,E06000023,Bristol Average,Anti-Social Behaviour - Environmental incidents,2020/21,463377,487,1.1
+666,E05010885,Ashley,Anti-Social Behaviour - Nuisance incidents,2020/21,19075,648,34
+667,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Nuisance incidents,2020/21,21408,513,24
+668,E05010887,Bedminster,Anti-Social Behaviour - Nuisance incidents,2020/21,12517,167,13.3
+669,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Nuisance incidents,2020/21,13338,134,10
+670,E05010889,Bishopsworth,Anti-Social Behaviour - Nuisance incidents,2020/21,11415,207,18.1
+671,E05010890,Brislington East,Anti-Social Behaviour - Nuisance incidents,2020/21,11785,207,17.6
+672,E05010891,Brislington West,Anti-Social Behaviour - Nuisance incidents,2020/21,11456,200,17.5
+673,E05010892,Central,Anti-Social Behaviour - Nuisance incidents,2020/21,21762,1936,89
+674,E05010893,Clifton,Anti-Social Behaviour - Nuisance incidents,2020/21,13454,206,15.3
+675,E05010894,Clifton Down,Anti-Social Behaviour - Nuisance incidents,2020/21,11507,210,18.2
+676,E05010895,Cotham,Anti-Social Behaviour - Nuisance incidents,2020/21,11693,139,11.9
+677,E05010896,Easton,Anti-Social Behaviour - Nuisance incidents,2020/21,14153,426,30.1
+678,E05010897,Eastville,Anti-Social Behaviour - Nuisance incidents,2020/21,14561,328,22.5
+679,E05010898,Filwood,Anti-Social Behaviour - Nuisance incidents,2020/21,13855,565,40.8
+680,E05010899,Frome Vale,Anti-Social Behaviour - Nuisance incidents,2020/21,13592,337,24.8
+681,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Nuisance incidents,2020/21,18883,692,36.6
+682,E05010901,Henbury & Brentry,Anti-Social Behaviour - Nuisance incidents,2020/21,12470,323,25.9
+683,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Nuisance incidents,2020/21,17003,397,23.3
+684,E05010903,Hillfields,Anti-Social Behaviour - Nuisance incidents,2020/21,12830,173,13.5
+685,E05010904,Horfield,Anti-Social Behaviour - Nuisance incidents,2020/21,13375,239,17.9
+686,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Nuisance incidents,2020/21,6392,646,101.1
+687,E05010906,Knowle,Anti-Social Behaviour - Nuisance incidents,2020/21,13276,238,17.9
+688,E05010907,Lawrence Hill,Anti-Social Behaviour - Nuisance incidents,2020/21,19626,843,43
+689,E05010908,Lockleaze,Anti-Social Behaviour - Nuisance incidents,2020/21,13324,337,25.3
+690,E05010909,Redland,Anti-Social Behaviour - Nuisance incidents,2020/21,13036,106,8.1
+691,E05010910,St George Central,Anti-Social Behaviour - Nuisance incidents,2020/21,12865,244,19
+692,E05010911,St George Troopers Hill,Anti-Social Behaviour - Nuisance incidents,2020/21,5773,77,13.3
+693,E05010912,St George West,Anti-Social Behaviour - Nuisance incidents,2020/21,6593,182,27.6
+694,E05010913,Southmead,Anti-Social Behaviour - Nuisance incidents,2020/21,12583,284,22.6
+695,E05010914,Southville,Anti-Social Behaviour - Nuisance incidents,2020/21,12869,429,33.3
+696,E05010915,Stockwood,Anti-Social Behaviour - Nuisance incidents,2020/21,11350,263,23.2
+697,E05010916,Stoke Bishop,Anti-Social Behaviour - Nuisance incidents,2020/21,12001,206,17.2
+698,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Nuisance incidents,2020/21,19806,195,9.8
+699,E05010918,Windmill Hill,Anti-Social Behaviour - Nuisance incidents,2020/21,13751,214,15.6
+700,E06000023,Bristol Average,Anti-Social Behaviour - Nuisance incidents,2020/21,463377,12311,26.6
+701,E05010885,Ashley,Anti-Social Behaviour - Personal incidents,2020/21,19075,39,2
+702,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Personal incidents,2020/21,21408,48,2.2
+703,E05010887,Bedminster,Anti-Social Behaviour - Personal incidents,2020/21,12517,19,1.5
+704,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Personal incidents,2020/21,13338,5,0.4
+705,E05010889,Bishopsworth,Anti-Social Behaviour - Personal incidents,2020/21,11415,17,1.5
+706,E05010890,Brislington East,Anti-Social Behaviour - Personal incidents,2020/21,11785,23,2
+707,E05010891,Brislington West,Anti-Social Behaviour - Personal incidents,2020/21,11456,35,3.1
+708,E05010892,Central,Anti-Social Behaviour - Personal incidents,2020/21,21762,59,2.7
+709,E05010893,Clifton,Anti-Social Behaviour - Personal incidents,2020/21,13454,8,0.6
+710,E05010894,Clifton Down,Anti-Social Behaviour - Personal incidents,2020/21,11507,17,1.5
+711,E05010895,Cotham,Anti-Social Behaviour - Personal incidents,2020/21,11693,5,0.4
+712,E05010896,Easton,Anti-Social Behaviour - Personal incidents,2020/21,14153,25,1.8
+713,E05010897,Eastville,Anti-Social Behaviour - Personal incidents,2020/21,14561,24,1.6
+714,E05010898,Filwood,Anti-Social Behaviour - Personal incidents,2020/21,13855,44,3.2
+715,E05010899,Frome Vale,Anti-Social Behaviour - Personal incidents,2020/21,13592,34,2.5
+716,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Personal incidents,2020/21,18883,77,4.1
+717,E05010901,Henbury & Brentry,Anti-Social Behaviour - Personal incidents,2020/21,12470,25,2
+718,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Personal incidents,2020/21,17003,29,1.7
+719,E05010903,Hillfields,Anti-Social Behaviour - Personal incidents,2020/21,12830,15,1.2
+720,E05010904,Horfield,Anti-Social Behaviour - Personal incidents,2020/21,13375,25,1.9
+721,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Personal incidents,2020/21,6392,6,0.9
+722,E05010906,Knowle,Anti-Social Behaviour - Personal incidents,2020/21,13276,35,2.6
+723,E05010907,Lawrence Hill,Anti-Social Behaviour - Personal incidents,2020/21,19626,48,2.4
+724,E05010908,Lockleaze,Anti-Social Behaviour - Personal incidents,2020/21,13324,35,2.6
+725,E05010909,Redland,Anti-Social Behaviour - Personal incidents,2020/21,13036,10,0.8
+726,E05010910,St George Central,Anti-Social Behaviour - Personal incidents,2020/21,12865,26,2
+727,E05010911,St George Troopers Hill,Anti-Social Behaviour - Personal incidents,2020/21,5773,7,1.2
+728,E05010912,St George West,Anti-Social Behaviour - Personal incidents,2020/21,6593,9,1.4
+729,E05010913,Southmead,Anti-Social Behaviour - Personal incidents,2020/21,12583,29,2.3
+730,E05010914,Southville,Anti-Social Behaviour - Personal incidents,2020/21,12869,24,1.9
+731,E05010915,Stockwood,Anti-Social Behaviour - Personal incidents,2020/21,11350,16,1.4
+732,E05010916,Stoke Bishop,Anti-Social Behaviour - Personal incidents,2020/21,12001,7,0.6
+733,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Personal incidents,2020/21,19806,16,0.8
+734,E05010918,Windmill Hill,Anti-Social Behaviour - Personal incidents,2020/21,13751,14,1
+735,E06000023,Bristol Average,Anti-Social Behaviour - Personal incidents,2020/21,463377,855,1.8
+736,E05010885,Ashley,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,19075,1,0.1
+737,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,21408,1,0
+738,E05010887,Bedminster,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,12517,0,0
+739,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13338,1,0.1
+740,E05010889,Bishopsworth,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,11415,0,0
+741,E05010890,Brislington East,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,11785,1,0.1
+742,E05010891,Brislington West,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,11456,0,0
+743,E05010892,Central,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,21762,2,0.1
+744,E05010893,Clifton,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13454,2,0.1
+745,E05010894,Clifton Down,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,11507,1,0.1
+746,E05010895,Cotham,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,11693,2,0.2
+747,E05010896,Easton,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,14153,0,0
+748,E05010897,Eastville,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,14561,1,0.1
+749,E05010898,Filwood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13855,0,0
+750,E05010899,Frome Vale,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13592,0,0
+751,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,18883,0,0
+752,E05010901,Henbury & Brentry,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,12470,1,0.1
+753,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,17003,0,0
+754,E05010903,Hillfields,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,12830,0,0
+755,E05010904,Horfield,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13375,0,0
+756,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,6392,0,0
+757,E05010906,Knowle,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13276,1,0.1
+758,E05010907,Lawrence Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,19626,1,0.1
+759,E05010908,Lockleaze,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13324,0,0
+760,E05010909,Redland,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13036,0,0
+761,E05010910,St George Central,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,12865,1,0.1
+762,E05010911,St George Troopers Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,5773,0,0
+763,E05010912,St George West,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,6593,2,0.3
+764,E05010913,Southmead,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,12583,0,0
+765,E05010914,Southville,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,12869,0,0
+766,E05010915,Stockwood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,11350,0,0
+767,E05010916,Stoke Bishop,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,12001,0,0
+768,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,19806,0,0
+769,E05010918,Windmill Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,13751,0,0
+770,E06000023,Bristol Average,Anti-Social Behaviour - Hoax Calls to Emergency Services,2020/21,463377,18,0
+771,E05010885,Ashley,Arson and Criminal Damage,2020/21,19075,309,16.2
+772,E05010886,Avonmouth & Lawrence Weston,Arson and Criminal Damage,2020/21,21408,291,13.6
+773,E05010887,Bedminster,Arson and Criminal Damage,2020/21,12517,111,8.9
+774,E05010888,Bishopston & Ashley Down,Arson and Criminal Damage,2020/21,13338,122,9.1
+775,E05010889,Bishopsworth,Arson and Criminal Damage,2020/21,11415,133,11.7
+776,E05010890,Brislington East,Arson and Criminal Damage,2020/21,11785,103,8.7
+777,E05010891,Brislington West,Arson and Criminal Damage,2020/21,11456,87,7.6
+778,E05010892,Central,Arson and Criminal Damage,2020/21,21762,415,19.1
+779,E05010893,Clifton,Arson and Criminal Damage,2020/21,13454,92,6.8
+780,E05010894,Clifton Down,Arson and Criminal Damage,2020/21,11507,61,5.3
+781,E05010895,Cotham,Arson and Criminal Damage,2020/21,11693,82,7
+782,E05010896,Easton,Arson and Criminal Damage,2020/21,14153,116,8.2
+783,E05010897,Eastville,Arson and Criminal Damage,2020/21,14561,150,10.3
+784,E05010898,Filwood,Arson and Criminal Damage,2020/21,13855,309,22.3
+785,E05010899,Frome Vale,Arson and Criminal Damage,2020/21,13592,136,10
+786,E05010900,Hartcliffe & Withywood,Arson and Criminal Damage,2020/21,18883,384,20.3
+787,E05010901,Henbury & Brentry,Arson and Criminal Damage,2020/21,12470,154,12.3
+788,E05010902,Hengrove & Whitchurch Park,Arson and Criminal Damage,2020/21,17003,172,10.1
+789,E05010903,Hillfields,Arson and Criminal Damage,2020/21,12830,139,10.8
+790,E05010904,Horfield,Arson and Criminal Damage,2020/21,13375,165,12.3
+791,E05010905,Hotwells & Harbourside,Arson and Criminal Damage,2020/21,6392,144,22.5
+792,E05010906,Knowle,Arson and Criminal Damage,2020/21,13276,134,10.1
+793,E05010907,Lawrence Hill,Arson and Criminal Damage,2020/21,19626,322,16.4
+794,E05010908,Lockleaze,Arson and Criminal Damage,2020/21,13324,133,10
+795,E05010909,Redland,Arson and Criminal Damage,2020/21,13036,81,6.2
+796,E05010910,St George Central,Arson and Criminal Damage,2020/21,12865,110,8.6
+797,E05010911,St George Troopers Hill,Arson and Criminal Damage,2020/21,5773,20,3.5
+798,E05010912,St George West,Arson and Criminal Damage,2020/21,6593,61,9.3
+799,E05010913,Southmead,Arson and Criminal Damage,2020/21,12583,182,14.5
+800,E05010914,Southville,Arson and Criminal Damage,2020/21,12869,146,11.3
+801,E05010915,Stockwood,Arson and Criminal Damage,2020/21,11350,99,8.7
+802,E05010916,Stoke Bishop,Arson and Criminal Damage,2020/21,12001,91,7.6
+803,E05010917,Westbury-on-Trym & Henleaze,Arson and Criminal Damage,2020/21,19806,80,4
+804,E05010918,Windmill Hill,Arson and Criminal Damage,2020/21,13751,156,11.3
+805,E06000023,Bristol Average,Arson and Criminal Damage,2020/21,463377,5290,11.4
+806,E05010885,Ashley,Burglary,2020/21,19075,143,7.5
+807,E05010886,Avonmouth & Lawrence Weston,Burglary,2020/21,21408,120,5.6
+808,E05010887,Bedminster,Burglary,2020/21,12517,69,5.5
+809,E05010888,Bishopston & Ashley Down,Burglary,2020/21,13338,64,4.8
+810,E05010889,Bishopsworth,Burglary,2020/21,11415,55,4.8
+811,E05010890,Brislington East,Burglary,2020/21,11785,50,4.2
+812,E05010891,Brislington West,Burglary,2020/21,11456,47,4.1
+813,E05010892,Central,Burglary,2020/21,21762,207,9.5
+814,E05010893,Clifton,Burglary,2020/21,13454,59,4.4
+815,E05010894,Clifton Down,Burglary,2020/21,11507,34,3
+816,E05010895,Cotham,Burglary,2020/21,11693,51,4.4
+817,E05010896,Easton,Burglary,2020/21,14153,80,5.7
+818,E05010897,Eastville,Burglary,2020/21,14561,90,6.2
+819,E05010898,Filwood,Burglary,2020/21,13855,57,4.1
+820,E05010899,Frome Vale,Burglary,2020/21,13592,88,6.5
+821,E05010900,Hartcliffe & Withywood,Burglary,2020/21,18883,91,4.8
+822,E05010901,Henbury & Brentry,Burglary,2020/21,12470,75,6
+823,E05010902,Hengrove & Whitchurch Park,Burglary,2020/21,17003,118,6.9
+824,E05010903,Hillfields,Burglary,2020/21,12830,58,4.5
+825,E05010904,Horfield,Burglary,2020/21,13375,80,6
+826,E05010905,Hotwells & Harbourside,Burglary,2020/21,6392,62,9.7
+827,E05010906,Knowle,Burglary,2020/21,13276,53,4
+828,E05010907,Lawrence Hill,Burglary,2020/21,19626,140,7.1
+829,E05010908,Lockleaze,Burglary,2020/21,13324,64,4.8
+830,E05010909,Redland,Burglary,2020/21,13036,101,7.7
+831,E05010910,St George Central,Burglary,2020/21,12865,62,4.8
+832,E05010911,St George Troopers Hill,Burglary,2020/21,5773,15,2.6
+833,E05010912,St George West,Burglary,2020/21,6593,33,5
+834,E05010913,Southmead,Burglary,2020/21,12583,72,5.7
+835,E05010914,Southville,Burglary,2020/21,12869,120,9.3
+836,E05010915,Stockwood,Burglary,2020/21,11350,34,3
+837,E05010916,Stoke Bishop,Burglary,2020/21,12001,57,4.7
+838,E05010917,Westbury-on-Trym & Henleaze,Burglary,2020/21,19806,116,5.9
+839,E05010918,Windmill Hill,Burglary,2020/21,13751,45,3.3
+840,E06000023,Bristol Average,Burglary,2020/21,463377,2610,5.6
+841,E05010885,Ashley,Drug Offences,2020/21,19075,122,6.4
+842,E05010886,Avonmouth & Lawrence Weston,Drug Offences,2020/21,21408,57,2.7
+843,E05010887,Bedminster,Drug Offences,2020/21,12517,17,1.4
+844,E05010888,Bishopston & Ashley Down,Drug Offences,2020/21,13338,22,1.6
+845,E05010889,Bishopsworth,Drug Offences,2020/21,11415,30,2.6
+846,E05010890,Brislington East,Drug Offences,2020/21,11785,20,1.7
+847,E05010891,Brislington West,Drug Offences,2020/21,11456,26,2.3
+848,E05010892,Central,Drug Offences,2020/21,21762,168,7.7
+849,E05010893,Clifton,Drug Offences,2020/21,13454,6,0.4
+850,E05010894,Clifton Down,Drug Offences,2020/21,11507,8,0.7
+851,E05010895,Cotham,Drug Offences,2020/21,11693,19,1.6
+852,E05010896,Easton,Drug Offences,2020/21,14153,57,4
+853,E05010897,Eastville,Drug Offences,2020/21,14561,70,4.8
+854,E05010898,Filwood,Drug Offences,2020/21,13855,61,4.4
+855,E05010899,Frome Vale,Drug Offences,2020/21,13592,31,2.3
+856,E05010900,Hartcliffe & Withywood,Drug Offences,2020/21,18883,85,4.5
+857,E05010901,Henbury & Brentry,Drug Offences,2020/21,12470,42,3.4
+858,E05010902,Hengrove & Whitchurch Park,Drug Offences,2020/21,17003,42,2.5
+859,E05010903,Hillfields,Drug Offences,2020/21,12830,23,1.8
+860,E05010904,Horfield,Drug Offences,2020/21,13375,32,2.4
+861,E05010905,Hotwells & Harbourside,Drug Offences,2020/21,6392,33,5.2
+862,E05010906,Knowle,Drug Offences,2020/21,13276,18,1.4
+863,E05010907,Lawrence Hill,Drug Offences,2020/21,19626,198,10.1
+864,E05010908,Lockleaze,Drug Offences,2020/21,13324,28,2.1
+865,E05010909,Redland,Drug Offences,2020/21,13036,5,0.4
+866,E05010910,St George Central,Drug Offences,2020/21,12865,31,2.4
+867,E05010911,St George Troopers Hill,Drug Offences,2020/21,5773,9,1.6
+868,E05010912,St George West,Drug Offences,2020/21,6593,22,3.3
+869,E05010913,Southmead,Drug Offences,2020/21,12583,39,3.1
+870,E05010914,Southville,Drug Offences,2020/21,12869,33,2.6
+871,E05010915,Stockwood,Drug Offences,2020/21,11350,28,2.5
+872,E05010916,Stoke Bishop,Drug Offences,2020/21,12001,29,2.4
+873,E05010917,Westbury-on-Trym & Henleaze,Drug Offences,2020/21,19806,20,1
+874,E05010918,Windmill Hill,Drug Offences,2020/21,13751,34,2.5
+875,E06000023,Bristol Average,Drug Offences,2020/21,463377,1465,3.2
+876,E05010885,Ashley,Fraud,2020/21,19075,0,0
+877,E05010886,Avonmouth & Lawrence Weston,Fraud,2020/21,21408,1,0
+878,E05010887,Bedminster,Fraud,2020/21,12517,0,0
+879,E05010888,Bishopston & Ashley Down,Fraud,2020/21,13338,0,0
+880,E05010889,Bishopsworth,Fraud,2020/21,11415,0,0
+881,E05010890,Brislington East,Fraud,2020/21,11785,0,0
+882,E05010891,Brislington West,Fraud,2020/21,11456,0,0
+883,E05010892,Central,Fraud,2020/21,21762,0,0
+884,E05010893,Clifton,Fraud,2020/21,13454,0,0
+885,E05010894,Clifton Down,Fraud,2020/21,11507,0,0
+886,E05010895,Cotham,Fraud,2020/21,11693,0,0
+887,E05010896,Easton,Fraud,2020/21,14153,0,0
+888,E05010897,Eastville,Fraud,2020/21,14561,0,0
+889,E05010898,Filwood,Fraud,2020/21,13855,0,0
+890,E05010899,Frome Vale,Fraud,2020/21,13592,0,0
+891,E05010900,Hartcliffe & Withywood,Fraud,2020/21,18883,0,0
+892,E05010901,Henbury & Brentry,Fraud,2020/21,12470,0,0
+893,E05010902,Hengrove & Whitchurch Park,Fraud,2020/21,17003,0,0
+894,E05010903,Hillfields,Fraud,2020/21,12830,0,0
+895,E05010904,Horfield,Fraud,2020/21,13375,0,0
+896,E05010905,Hotwells & Harbourside,Fraud,2020/21,6392,0,0
+897,E05010906,Knowle,Fraud,2020/21,13276,0,0
+898,E05010907,Lawrence Hill,Fraud,2020/21,19626,0,0
+899,E05010908,Lockleaze,Fraud,2020/21,13324,0,0
+900,E05010909,Redland,Fraud,2020/21,13036,0,0
+901,E05010910,St George Central,Fraud,2020/21,12865,0,0
+902,E05010911,St George Troopers Hill,Fraud,2020/21,5773,0,0
+903,E05010912,St George West,Fraud,2020/21,6593,0,0
+904,E05010913,Southmead,Fraud,2020/21,12583,0,0
+905,E05010914,Southville,Fraud,2020/21,12869,0,0
+906,E05010915,Stockwood,Fraud,2020/21,11350,0,0
+907,E05010916,Stoke Bishop,Fraud,2020/21,12001,0,0
+908,E05010917,Westbury-on-Trym & Henleaze,Fraud,2020/21,19806,0,0
+909,E05010918,Windmill Hill,Fraud,2020/21,13751,0,0
+910,E06000023,Bristol Average,Fraud,2020/21,463377,1,0
+911,E05010885,Ashley,Miscellaneous Crimes Against Society,2020/21,19075,28,1.5
+912,E05010886,Avonmouth & Lawrence Weston,Miscellaneous Crimes Against Society,2020/21,21408,42,2
+913,E05010887,Bedminster,Miscellaneous Crimes Against Society,2020/21,12517,14,1.1
+914,E05010888,Bishopston & Ashley Down,Miscellaneous Crimes Against Society,2020/21,13338,63,4.7
+915,E05010889,Bishopsworth,Miscellaneous Crimes Against Society,2020/21,11415,20,1.8
+916,E05010890,Brislington East,Miscellaneous Crimes Against Society,2020/21,11785,18,1.5
+917,E05010891,Brislington West,Miscellaneous Crimes Against Society,2020/21,11456,15,1.3
+918,E05010892,Central,Miscellaneous Crimes Against Society,2020/21,21762,35,1.6
+919,E05010893,Clifton,Miscellaneous Crimes Against Society,2020/21,13454,7,0.5
+920,E05010894,Clifton Down,Miscellaneous Crimes Against Society,2020/21,11507,9,0.8
+921,E05010895,Cotham,Miscellaneous Crimes Against Society,2020/21,11693,5,0.4
+922,E05010896,Easton,Miscellaneous Crimes Against Society,2020/21,14153,23,1.6
+923,E05010897,Eastville,Miscellaneous Crimes Against Society,2020/21,14561,53,3.6
+924,E05010898,Filwood,Miscellaneous Crimes Against Society,2020/21,13855,38,2.7
+925,E05010899,Frome Vale,Miscellaneous Crimes Against Society,2020/21,13592,13,1
+926,E05010900,Hartcliffe & Withywood,Miscellaneous Crimes Against Society,2020/21,18883,54,2.9
+927,E05010901,Henbury & Brentry,Miscellaneous Crimes Against Society,2020/21,12470,18,1.4
+928,E05010902,Hengrove & Whitchurch Park,Miscellaneous Crimes Against Society,2020/21,17003,36,2.1
+929,E05010903,Hillfields,Miscellaneous Crimes Against Society,2020/21,12830,28,2.2
+930,E05010904,Horfield,Miscellaneous Crimes Against Society,2020/21,13375,25,1.9
+931,E05010905,Hotwells & Harbourside,Miscellaneous Crimes Against Society,2020/21,6392,9,1.4
+932,E05010906,Knowle,Miscellaneous Crimes Against Society,2020/21,13276,22,1.7
+933,E05010907,Lawrence Hill,Miscellaneous Crimes Against Society,2020/21,19626,60,3.1
+934,E05010908,Lockleaze,Miscellaneous Crimes Against Society,2020/21,13324,26,2
+935,E05010909,Redland,Miscellaneous Crimes Against Society,2020/21,13036,2,0.2
+936,E05010910,St George Central,Miscellaneous Crimes Against Society,2020/21,12865,21,1.6
+937,E05010911,St George Troopers Hill,Miscellaneous Crimes Against Society,2020/21,5773,6,1
+938,E05010912,St George West,Miscellaneous Crimes Against Society,2020/21,6593,15,2.3
+939,E05010913,Southmead,Miscellaneous Crimes Against Society,2020/21,12583,30,2.4
+940,E05010914,Southville,Miscellaneous Crimes Against Society,2020/21,12869,21,1.6
+941,E05010915,Stockwood,Miscellaneous Crimes Against Society,2020/21,11350,19,1.7
+942,E05010916,Stoke Bishop,Miscellaneous Crimes Against Society,2020/21,12001,3,0.2
+943,E05010917,Westbury-on-Trym & Henleaze,Miscellaneous Crimes Against Society,2020/21,19806,8,0.4
+944,E05010918,Windmill Hill,Miscellaneous Crimes Against Society,2020/21,13751,19,1.4
+945,E06000023,Bristol Average,Miscellaneous Crimes Against Society,2020/21,463377,805,1.7
+946,E05010885,Ashley,Possession of Weapons,2020/21,19075,15,0.8
+947,E05010886,Avonmouth & Lawrence Weston,Possession of Weapons,2020/21,21408,19,0.9
+948,E05010887,Bedminster,Possession of Weapons,2020/21,12517,10,0.8
+949,E05010888,Bishopston & Ashley Down,Possession of Weapons,2020/21,13338,4,0.3
+950,E05010889,Bishopsworth,Possession of Weapons,2020/21,11415,8,0.7
+951,E05010890,Brislington East,Possession of Weapons,2020/21,11785,4,0.3
+952,E05010891,Brislington West,Possession of Weapons,2020/21,11456,6,0.5
+953,E05010892,Central,Possession of Weapons,2020/21,21762,46,2.1
+954,E05010893,Clifton,Possession of Weapons,2020/21,13454,5,0.4
+955,E05010894,Clifton Down,Possession of Weapons,2020/21,11507,3,0.3
+956,E05010895,Cotham,Possession of Weapons,2020/21,11693,4,0.3
+957,E05010896,Easton,Possession of Weapons,2020/21,14153,22,1.6
+958,E05010897,Eastville,Possession of Weapons,2020/21,14561,11,0.8
+959,E05010898,Filwood,Possession of Weapons,2020/21,13855,14,1
+960,E05010899,Frome Vale,Possession of Weapons,2020/21,13592,11,0.8
+961,E05010900,Hartcliffe & Withywood,Possession of Weapons,2020/21,18883,16,0.8
+962,E05010901,Henbury & Brentry,Possession of Weapons,2020/21,12470,15,1.2
+963,E05010902,Hengrove & Whitchurch Park,Possession of Weapons,2020/21,17003,10,0.6
+964,E05010903,Hillfields,Possession of Weapons,2020/21,12830,8,0.6
+965,E05010904,Horfield,Possession of Weapons,2020/21,13375,13,1
+966,E05010905,Hotwells & Harbourside,Possession of Weapons,2020/21,6392,6,0.9
+967,E05010906,Knowle,Possession of Weapons,2020/21,13276,4,0.3
+968,E05010907,Lawrence Hill,Possession of Weapons,2020/21,19626,37,1.9
+969,E05010908,Lockleaze,Possession of Weapons,2020/21,13324,10,0.8
+970,E05010909,Redland,Possession of Weapons,2020/21,13036,3,0.2
+971,E05010910,St George Central,Possession of Weapons,2020/21,12865,5,0.4
+972,E05010911,St George Troopers Hill,Possession of Weapons,2020/21,5773,0,0
+973,E05010912,St George West,Possession of Weapons,2020/21,6593,5,0.8
+974,E05010913,Southmead,Possession of Weapons,2020/21,12583,10,0.8
+975,E05010914,Southville,Possession of Weapons,2020/21,12869,12,0.9
+976,E05010915,Stockwood,Possession of Weapons,2020/21,11350,1,0.1
+977,E05010916,Stoke Bishop,Possession of Weapons,2020/21,12001,2,0.2
+978,E05010917,Westbury-on-Trym & Henleaze,Possession of Weapons,2020/21,19806,4,0.2
+979,E05010918,Windmill Hill,Possession of Weapons,2020/21,13751,7,0.5
+980,E06000023,Bristol Average,Possession of Weapons,2020/21,463377,350,0.8
+981,E05010885,Ashley,Public Order Offences,2020/21,19075,441,23.1
+982,E05010886,Avonmouth & Lawrence Weston,Public Order Offences,2020/21,21408,287,13.4
+983,E05010887,Bedminster,Public Order Offences,2020/21,12517,142,11.3
+984,E05010888,Bishopston & Ashley Down,Public Order Offences,2020/21,13338,103,7.7
+985,E05010889,Bishopsworth,Public Order Offences,2020/21,11415,148,13
+986,E05010890,Brislington East,Public Order Offences,2020/21,11785,116,9.8
+987,E05010891,Brislington West,Public Order Offences,2020/21,11456,194,16.9
+988,E05010892,Central,Public Order Offences,2020/21,21762,940,43.2
+989,E05010893,Clifton,Public Order Offences,2020/21,13454,63,4.7
+990,E05010894,Clifton Down,Public Order Offences,2020/21,11507,120,10.4
+991,E05010895,Cotham,Public Order Offences,2020/21,11693,65,5.6
+992,E05010896,Easton,Public Order Offences,2020/21,14153,256,18.1
+993,E05010897,Eastville,Public Order Offences,2020/21,14561,266,18.3
+994,E05010898,Filwood,Public Order Offences,2020/21,13855,269,19.4
+995,E05010899,Frome Vale,Public Order Offences,2020/21,13592,233,17.1
+996,E05010900,Hartcliffe & Withywood,Public Order Offences,2020/21,18883,409,21.7
+997,E05010901,Henbury & Brentry,Public Order Offences,2020/21,12470,194,15.6
+998,E05010902,Hengrove & Whitchurch Park,Public Order Offences,2020/21,17003,179,10.5
+999,E05010903,Hillfields,Public Order Offences,2020/21,12830,198,15.4
+1000,E05010904,Horfield,Public Order Offences,2020/21,13375,211,15.8
+1001,E05010905,Hotwells & Harbourside,Public Order Offences,2020/21,6392,218,34.1
+1002,E05010906,Knowle,Public Order Offences,2020/21,13276,141,10.6
+1003,E05010907,Lawrence Hill,Public Order Offences,2020/21,19626,568,28.9
+1004,E05010908,Lockleaze,Public Order Offences,2020/21,13324,175,13.1
+1005,E05010909,Redland,Public Order Offences,2020/21,13036,64,4.9
+1006,E05010910,St George Central,Public Order Offences,2020/21,12865,168,13.1
+1007,E05010911,St George Troopers Hill,Public Order Offences,2020/21,5773,28,4.9
+1008,E05010912,St George West,Public Order Offences,2020/21,6593,126,19.1
+1009,E05010913,Southmead,Public Order Offences,2020/21,12583,171,13.6
+1010,E05010914,Southville,Public Order Offences,2020/21,12869,295,22.9
+1011,E05010915,Stockwood,Public Order Offences,2020/21,11350,151,13.3
+1012,E05010916,Stoke Bishop,Public Order Offences,2020/21,12001,84,7
+1013,E05010917,Westbury-on-Trym & Henleaze,Public Order Offences,2020/21,19806,104,5.3
+1014,E05010918,Windmill Hill,Public Order Offences,2020/21,13751,140,10.2
+1015,E06000023,Bristol Average,Public Order Offences,2020/21,463377,7267,15.7
+1016,E05010885,Ashley,Robbery,2020/21,19075,61,3.2
+1017,E05010886,Avonmouth & Lawrence Weston,Robbery,2020/21,21408,25,1.2
+1018,E05010887,Bedminster,Robbery,2020/21,12517,8,0.6
+1019,E05010888,Bishopston & Ashley Down,Robbery,2020/21,13338,11,0.8
+1020,E05010889,Bishopsworth,Robbery,2020/21,11415,19,1.7
+1021,E05010890,Brislington East,Robbery,2020/21,11785,11,0.9
+1022,E05010891,Brislington West,Robbery,2020/21,11456,19,1.7
+1023,E05010892,Central,Robbery,2020/21,21762,140,6.4
+1024,E05010893,Clifton,Robbery,2020/21,13454,5,0.4
+1025,E05010894,Clifton Down,Robbery,2020/21,11507,10,0.9
+1026,E05010895,Cotham,Robbery,2020/21,11693,11,0.9
+1027,E05010896,Easton,Robbery,2020/21,14153,38,2.7
+1028,E05010897,Eastville,Robbery,2020/21,14561,37,2.5
+1029,E05010898,Filwood,Robbery,2020/21,13855,15,1.1
+1030,E05010899,Frome Vale,Robbery,2020/21,13592,38,2.8
+1031,E05010900,Hartcliffe & Withywood,Robbery,2020/21,18883,29,1.5
+1032,E05010901,Henbury & Brentry,Robbery,2020/21,12470,13,1
+1033,E05010902,Hengrove & Whitchurch Park,Robbery,2020/21,17003,10,0.6
+1034,E05010903,Hillfields,Robbery,2020/21,12830,12,0.9
+1035,E05010904,Horfield,Robbery,2020/21,13375,13,1
+1036,E05010905,Hotwells & Harbourside,Robbery,2020/21,6392,45,7
+1037,E05010906,Knowle,Robbery,2020/21,13276,13,1
+1038,E05010907,Lawrence Hill,Robbery,2020/21,19626,81,4.1
+1039,E05010908,Lockleaze,Robbery,2020/21,13324,23,1.7
+1040,E05010909,Redland,Robbery,2020/21,13036,10,0.8
+1041,E05010910,St George Central,Robbery,2020/21,12865,12,0.9
+1042,E05010911,St George Troopers Hill,Robbery,2020/21,5773,2,0.3
+1043,E05010912,St George West,Robbery,2020/21,6593,18,2.7
+1044,E05010913,Southmead,Robbery,2020/21,12583,19,1.5
+1045,E05010914,Southville,Robbery,2020/21,12869,30,2.3
+1046,E05010915,Stockwood,Robbery,2020/21,11350,11,1
+1047,E05010916,Stoke Bishop,Robbery,2020/21,12001,15,1.2
+1048,E05010917,Westbury-on-Trym & Henleaze,Robbery,2020/21,19806,6,0.3
+1049,E05010918,Windmill Hill,Robbery,2020/21,13751,16,1.2
+1050,E06000023,Bristol Average,Robbery,2020/21,463377,826,1.8
+1051,E05010885,Ashley,Sexual Offences,2020/21,19075,86,4.5
+1052,E05010886,Avonmouth & Lawrence Weston,Sexual Offences,2020/21,21408,75,3.5
+1053,E05010887,Bedminster,Sexual Offences,2020/21,12517,22,1.8
+1054,E05010888,Bishopston & Ashley Down,Sexual Offences,2020/21,13338,12,0.9
+1055,E05010889,Bishopsworth,Sexual Offences,2020/21,11415,26,2.3
+1056,E05010890,Brislington East,Sexual Offences,2020/21,11785,18,1.5
+1057,E05010891,Brislington West,Sexual Offences,2020/21,11456,29,2.5
+1058,E05010892,Central,Sexual Offences,2020/21,21762,126,5.8
+1059,E05010893,Clifton,Sexual Offences,2020/21,13454,15,1.1
+1060,E05010894,Clifton Down,Sexual Offences,2020/21,11507,12,1
+1061,E05010895,Cotham,Sexual Offences,2020/21,11693,14,1.2
+1062,E05010896,Easton,Sexual Offences,2020/21,14153,42,3
+1063,E05010897,Eastville,Sexual Offences,2020/21,14561,66,4.5
+1064,E05010898,Filwood,Sexual Offences,2020/21,13855,41,3
+1065,E05010899,Frome Vale,Sexual Offences,2020/21,13592,47,3.5
+1066,E05010900,Hartcliffe & Withywood,Sexual Offences,2020/21,18883,66,3.5
+1067,E05010901,Henbury & Brentry,Sexual Offences,2020/21,12470,34,2.7
+1068,E05010902,Hengrove & Whitchurch Park,Sexual Offences,2020/21,17003,52,3.1
+1069,E05010903,Hillfields,Sexual Offences,2020/21,12830,39,3
+1070,E05010904,Horfield,Sexual Offences,2020/21,13375,40,3
+1071,E05010905,Hotwells & Harbourside,Sexual Offences,2020/21,6392,37,5.8
+1072,E05010906,Knowle,Sexual Offences,2020/21,13276,37,2.8
+1073,E05010907,Lawrence Hill,Sexual Offences,2020/21,19626,88,4.5
+1074,E05010908,Lockleaze,Sexual Offences,2020/21,13324,28,2.1
+1075,E05010909,Redland,Sexual Offences,2020/21,13036,19,1.5
+1076,E05010910,St George Central,Sexual Offences,2020/21,12865,44,3.4
+1077,E05010911,St George Troopers Hill,Sexual Offences,2020/21,5773,7,1.2
+1078,E05010912,St George West,Sexual Offences,2020/21,6593,26,3.9
+1079,E05010913,Southmead,Sexual Offences,2020/21,12583,37,2.9
+1080,E05010914,Southville,Sexual Offences,2020/21,12869,48,3.7
+1081,E05010915,Stockwood,Sexual Offences,2020/21,11350,28,2.5
+1082,E05010916,Stoke Bishop,Sexual Offences,2020/21,12001,26,2.2
+1083,E05010917,Westbury-on-Trym & Henleaze,Sexual Offences,2020/21,19806,10,0.5
+1084,E05010918,Windmill Hill,Sexual Offences,2020/21,13751,26,1.9
+1085,E06000023,Bristol Average,Sexual Offences,2020/21,463377,1323,2.9
+1086,E05010885,Ashley,Theft,2020/21,19075,316,16.6
+1087,E05010886,Avonmouth & Lawrence Weston,Theft,2020/21,21408,318,14.9
+1088,E05010887,Bedminster,Theft,2020/21,12517,235,18.8
+1089,E05010888,Bishopston & Ashley Down,Theft,2020/21,13338,116,8.7
+1090,E05010889,Bishopsworth,Theft,2020/21,11415,228,20
+1091,E05010890,Brislington East,Theft,2020/21,11785,93,7.9
+1092,E05010891,Brislington West,Theft,2020/21,11456,172,15
+1093,E05010892,Central,Theft,2020/21,21762,1558,71.6
+1094,E05010893,Clifton,Theft,2020/21,13454,129,9.6
+1095,E05010894,Clifton Down,Theft,2020/21,11507,136,11.8
+1096,E05010895,Cotham,Theft,2020/21,11693,81,6.9
+1097,E05010896,Easton,Theft,2020/21,14153,171,12.1
+1098,E05010897,Eastville,Theft,2020/21,14561,234,16.1
+1099,E05010898,Filwood,Theft,2020/21,13855,128,9.2
+1100,E05010899,Frome Vale,Theft,2020/21,13592,289,21.3
+1101,E05010900,Hartcliffe & Withywood,Theft,2020/21,18883,205,10.9
+1102,E05010901,Henbury & Brentry,Theft,2020/21,12470,122,9.8
+1103,E05010902,Hengrove & Whitchurch Park,Theft,2020/21,17003,136,8
+1104,E05010903,Hillfields,Theft,2020/21,12830,110,8.6
+1105,E05010904,Horfield,Theft,2020/21,13375,175,13.1
+1106,E05010905,Hotwells & Harbourside,Theft,2020/21,6392,337,52.7
+1107,E05010906,Knowle,Theft,2020/21,13276,109,8.2
+1108,E05010907,Lawrence Hill,Theft,2020/21,19626,462,23.5
+1109,E05010908,Lockleaze,Theft,2020/21,13324,260,19.5
+1110,E05010909,Redland,Theft,2020/21,13036,115,8.8
+1111,E05010910,St George Central,Theft,2020/21,12865,100,7.8
+1112,E05010911,St George Troopers Hill,Theft,2020/21,5773,92,15.9
+1113,E05010912,St George West,Theft,2020/21,6593,114,17.3
+1114,E05010913,Southmead,Theft,2020/21,12583,139,11
+1115,E05010914,Southville,Theft,2020/21,12869,446,34.7
+1116,E05010915,Stockwood,Theft,2020/21,11350,84,7.4
+1117,E05010916,Stoke Bishop,Theft,2020/21,12001,61,5.1
+1118,E05010917,Westbury-on-Trym & Henleaze,Theft,2020/21,19806,173,8.7
+1119,E05010918,Windmill Hill,Theft,2020/21,13751,101,7.3
+1120,E06000023,Bristol Average,Theft,2020/21,463377,7545,16.3
+1121,E05010885,Ashley,Vehicle Offences,2020/21,19075,214,11.2
+1122,E05010886,Avonmouth & Lawrence Weston,Vehicle Offences,2020/21,21408,164,7.7
+1123,E05010887,Bedminster,Vehicle Offences,2020/21,12517,100,8
+1124,E05010888,Bishopston & Ashley Down,Vehicle Offences,2020/21,13338,87,6.5
+1125,E05010889,Bishopsworth,Vehicle Offences,2020/21,11415,66,5.8
+1126,E05010890,Brislington East,Vehicle Offences,2020/21,11785,53,4.5
+1127,E05010891,Brislington West,Vehicle Offences,2020/21,11456,93,8.1
+1128,E05010892,Central,Vehicle Offences,2020/21,21762,191,8.8
+1129,E05010893,Clifton,Vehicle Offences,2020/21,13454,147,10.9
+1130,E05010894,Clifton Down,Vehicle Offences,2020/21,11507,110,9.6
+1131,E05010895,Cotham,Vehicle Offences,2020/21,11693,126,10.8
+1132,E05010896,Easton,Vehicle Offences,2020/21,14153,136,9.6
+1133,E05010897,Eastville,Vehicle Offences,2020/21,14561,154,10.6
+1134,E05010898,Filwood,Vehicle Offences,2020/21,13855,132,9.5
+1135,E05010899,Frome Vale,Vehicle Offences,2020/21,13592,77,5.7
+1136,E05010900,Hartcliffe & Withywood,Vehicle Offences,2020/21,18883,84,4.4
+1137,E05010901,Henbury & Brentry,Vehicle Offences,2020/21,12470,75,6
+1138,E05010902,Hengrove & Whitchurch Park,Vehicle Offences,2020/21,17003,137,8.1
+1139,E05010903,Hillfields,Vehicle Offences,2020/21,12830,79,6.2
+1140,E05010904,Horfield,Vehicle Offences,2020/21,13375,129,9.6
+1141,E05010905,Hotwells & Harbourside,Vehicle Offences,2020/21,6392,61,9.5
+1142,E05010906,Knowle,Vehicle Offences,2020/21,13276,105,7.9
+1143,E05010907,Lawrence Hill,Vehicle Offences,2020/21,19626,213,10.9
+1144,E05010908,Lockleaze,Vehicle Offences,2020/21,13324,89,6.7
+1145,E05010909,Redland,Vehicle Offences,2020/21,13036,98,7.5
+1146,E05010910,St George Central,Vehicle Offences,2020/21,12865,81,6.3
+1147,E05010911,St George Troopers Hill,Vehicle Offences,2020/21,5773,30,5.2
+1148,E05010912,St George West,Vehicle Offences,2020/21,6593,74,11.2
+1149,E05010913,Southmead,Vehicle Offences,2020/21,12583,116,9.2
+1150,E05010914,Southville,Vehicle Offences,2020/21,12869,208,16.2
+1151,E05010915,Stockwood,Vehicle Offences,2020/21,11350,66,5.8
+1152,E05010916,Stoke Bishop,Vehicle Offences,2020/21,12001,87,7.2
+1153,E05010917,Westbury-on-Trym & Henleaze,Vehicle Offences,2020/21,19806,195,9.8
+1154,E05010918,Windmill Hill,Vehicle Offences,2020/21,13751,181,13.2
+1155,E06000023,Bristol Average,Vehicle Offences,2020/21,463377,3958,8.5
+1156,E05010885,Ashley,Violence Against The Person,2020/21,19075,759,39.8
+1157,E05010886,Avonmouth & Lawrence Weston,Violence Against The Person,2020/21,21408,805,37.6
+1158,E05010887,Bedminster,Violence Against The Person,2020/21,12517,307,24.5
+1159,E05010888,Bishopston & Ashley Down,Violence Against The Person,2020/21,13338,285,21.4
+1160,E05010889,Bishopsworth,Violence Against The Person,2020/21,11415,383,33.6
+1161,E05010890,Brislington East,Violence Against The Person,2020/21,11785,310,26.3
+1162,E05010891,Brislington West,Violence Against The Person,2020/21,11456,429,37.4
+1163,E05010892,Central,Violence Against The Person,2020/21,21762,1283,59
+1164,E05010893,Clifton,Violence Against The Person,2020/21,13454,161,12
+1165,E05010894,Clifton Down,Violence Against The Person,2020/21,11507,113,9.8
+1166,E05010895,Cotham,Violence Against The Person,2020/21,11693,116,9.9
+1167,E05010896,Easton,Violence Against The Person,2020/21,14153,535,37.8
+1168,E05010897,Eastville,Violence Against The Person,2020/21,14561,575,39.5
+1169,E05010898,Filwood,Violence Against The Person,2020/21,13855,685,49.4
+1170,E05010899,Frome Vale,Violence Against The Person,2020/21,13592,431,31.7
+1171,E05010900,Hartcliffe & Withywood,Violence Against The Person,2020/21,18883,1152,61
+1172,E05010901,Henbury & Brentry,Violence Against The Person,2020/21,12470,506,40.6
+1173,E05010902,Hengrove & Whitchurch Park,Violence Against The Person,2020/21,17003,571,33.6
+1174,E05010903,Hillfields,Violence Against The Person,2020/21,12830,412,32.1
+1175,E05010904,Horfield,Violence Against The Person,2020/21,13375,555,41.5
+1176,E05010905,Hotwells & Harbourside,Violence Against The Person,2020/21,6392,267,41.8
+1177,E05010906,Knowle,Violence Against The Person,2020/21,13276,352,26.5
+1178,E05010907,Lawrence Hill,Violence Against The Person,2020/21,19626,1122,57.2
+1179,E05010908,Lockleaze,Violence Against The Person,2020/21,13324,447,33.5
+1180,E05010909,Redland,Violence Against The Person,2020/21,13036,116,8.9
+1181,E05010910,St George Central,Violence Against The Person,2020/21,12865,425,33
+1182,E05010911,St George Troopers Hill,Violence Against The Person,2020/21,5773,75,13
+1183,E05010912,St George West,Violence Against The Person,2020/21,6593,246,37.3
+1184,E05010913,Southmead,Violence Against The Person,2020/21,12583,494,39.3
+1185,E05010914,Southville,Violence Against The Person,2020/21,12869,425,33
+1186,E05010915,Stockwood,Violence Against The Person,2020/21,11350,368,32.4
+1187,E05010916,Stoke Bishop,Violence Against The Person,2020/21,12001,178,14.8
+1188,E05010917,Westbury-on-Trym & Henleaze,Violence Against The Person,2020/21,19806,155,7.8
+1189,E05010918,Windmill Hill,Violence Against The Person,2020/21,13751,335,24.4
+1190,E06000023,Bristol Average,Violence Against The Person,2020/21,463377,15378,33.2
+1191,E05010885,Ashley,Violent & Sexual Offences,2020/21,19075,845,44.3
+1192,E05010886,Avonmouth & Lawrence Weston,Violent & Sexual Offences,2020/21,21408,880,41.1
+1193,E05010887,Bedminster,Violent & Sexual Offences,2020/21,12517,329,26.3
+1194,E05010888,Bishopston & Ashley Down,Violent & Sexual Offences,2020/21,13338,297,22.3
+1195,E05010889,Bishopsworth,Violent & Sexual Offences,2020/21,11415,409,35.8
+1196,E05010890,Brislington East,Violent & Sexual Offences,2020/21,11785,328,27.8
+1197,E05010891,Brislington West,Violent & Sexual Offences,2020/21,11456,458,40
+1198,E05010892,Central,Violent & Sexual Offences,2020/21,21762,1409,64.7
+1199,E05010893,Clifton,Violent & Sexual Offences,2020/21,13454,176,13.1
+1200,E05010894,Clifton Down,Violent & Sexual Offences,2020/21,11507,125,10.9
+1201,E05010895,Cotham,Violent & Sexual Offences,2020/21,11693,130,11.1
+1202,E05010896,Easton,Violent & Sexual Offences,2020/21,14153,577,40.8
+1203,E05010897,Eastville,Violent & Sexual Offences,2020/21,14561,641,44
+1204,E05010898,Filwood,Violent & Sexual Offences,2020/21,13855,726,52.4
+1205,E05010899,Frome Vale,Violent & Sexual Offences,2020/21,13592,478,35.2
+1206,E05010900,Hartcliffe & Withywood,Violent & Sexual Offences,2020/21,18883,1218,64.5
+1207,E05010901,Henbury & Brentry,Violent & Sexual Offences,2020/21,12470,540,43.3
+1208,E05010902,Hengrove & Whitchurch Park,Violent & Sexual Offences,2020/21,17003,623,36.6
+1209,E05010903,Hillfields,Violent & Sexual Offences,2020/21,12830,451,35.2
+1210,E05010904,Horfield,Violent & Sexual Offences,2020/21,13375,595,44.5
+1211,E05010905,Hotwells & Harbourside,Violent & Sexual Offences,2020/21,6392,304,47.6
+1212,E05010906,Knowle,Violent & Sexual Offences,2020/21,13276,389,29.3
+1213,E05010907,Lawrence Hill,Violent & Sexual Offences,2020/21,19626,1210,61.7
+1214,E05010908,Lockleaze,Violent & Sexual Offences,2020/21,13324,475,35.6
+1215,E05010909,Redland,Violent & Sexual Offences,2020/21,13036,135,10.4
+1216,E05010910,St George Central,Violent & Sexual Offences,2020/21,12865,469,36.5
+1217,E05010911,St George Troopers Hill,Violent & Sexual Offences,2020/21,5773,82,14.2
+1218,E05010912,St George West,Violent & Sexual Offences,2020/21,6593,272,41.3
+1219,E05010913,Southmead,Violent & Sexual Offences,2020/21,12583,531,42.2
+1220,E05010914,Southville,Violent & Sexual Offences,2020/21,12869,473,36.8
+1221,E05010915,Stockwood,Violent & Sexual Offences,2020/21,11350,396,34.9
+1222,E05010916,Stoke Bishop,Violent & Sexual Offences,2020/21,12001,204,17
+1223,E05010917,Westbury-on-Trym & Henleaze,Violent & Sexual Offences,2020/21,19806,165,8.3
+1224,E05010918,Windmill Hill,Violent & Sexual Offences,2020/21,13751,361,26.3
+1225,E06000023,Bristol Average,Violent & Sexual Offences,2020/21,463377,16703,36
+1226,E05010885,Ashley,All Crimes,2021/22,19002,2350,123.7
+1227,E05010886,Avonmouth & Lawrence Weston,All Crimes,2021/22,21361,2554,119.6
+1228,E05010887,Bedminster,All Crimes,2021/22,12568,1116,88.8
+1229,E05010888,Bishopston & Ashley Down,All Crimes,2021/22,13290,851,64
+1230,E05010889,Bishopsworth,All Crimes,2021/22,11442,1189,103.9
+1231,E05010890,Brislington East,All Crimes,2021/22,11767,883,75
+1232,E05010891,Brislington West,All Crimes,2021/22,11563,1304,112.8
+1233,E05010892,Central,All Crimes,2021/22,23066,7961,345.1
+1234,E05010893,Clifton,All Crimes,2021/22,13337,758,56.8
+1235,E05010894,Clifton Down,All Crimes,2021/22,11296,656,58.1
+1236,E05010895,Cotham,All Crimes,2021/22,11720,661,56.4
+1237,E05010896,Easton,All Crimes,2021/22,14340,1562,108.9
+1238,E05010897,Eastville,All Crimes,2021/22,14756,1762,119.4
+1239,E05010898,Filwood,All Crimes,2021/22,13824,1808,130.8
+1240,E05010899,Frome Vale,All Crimes,2021/22,13654,1512,110.7
+1241,E05010900,Hartcliffe & Withywood,All Crimes,2021/22,18839,2616,138.9
+1242,E05010901,Henbury & Brentry,All Crimes,2021/22,12641,1413,111.8
+1243,E05010902,Hengrove & Whitchurch Park,All Crimes,2021/22,16948,1899,112
+1244,E05010903,Hillfields,All Crimes,2021/22,12906,1042,80.7
+1245,E05010904,Horfield,All Crimes,2021/22,13339,1428,107.1
+1246,E05010905,Hotwells & Harbourside,All Crimes,2021/22,7005,2403,343
+1247,E05010906,Knowle,All Crimes,2021/22,13252,1088,82.1
+1248,E05010907,Lawrence Hill,All Crimes,2021/22,20156,3803,188.7
+1249,E05010908,Lockleaze,All Crimes,2021/22,13278,1399,105.4
+1250,E05010909,Redland,All Crimes,2021/22,12949,702,54.2
+1251,E05010910,St George Central,All Crimes,2021/22,12876,1045,81.2
+1252,E05010911,St George Troopers Hill,All Crimes,2021/22,5740,258,44.9
+1253,E05010912,St George West,All Crimes,2021/22,6579,740,112.5
+1254,E05010913,Southmead,All Crimes,2021/22,12676,1332,105.1
+1255,E05010914,Southville,All Crimes,2021/22,12960,2030,156.6
+1256,E05010915,Stockwood,All Crimes,2021/22,11367,980,86.2
+1257,E05010916,Stoke Bishop,All Crimes,2021/22,11948,636,53.2
+1258,E05010917,Westbury-on-Trym & Henleaze,All Crimes,2021/22,19677,847,43
+1259,E05010918,Windmill Hill,All Crimes,2021/22,13744,1195,86.9
+1260,E06000023,Bristol Average,All Crimes,2021/22,465866,53783,115.4
+1261,E05010885,Ashley,Anti-Social Behaviour incidents (total),2021/22,19002,571,30
+1262,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour incidents (total),2021/22,21361,520,24.3
+1263,E05010887,Bedminster,Anti-Social Behaviour incidents (total),2021/22,12568,162,12.9
+1264,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour incidents (total),2021/22,13290,104,7.8
+1265,E05010889,Bishopsworth,Anti-Social Behaviour incidents (total),2021/22,11442,174,15.2
+1266,E05010890,Brislington East,Anti-Social Behaviour incidents (total),2021/22,11767,160,13.6
+1267,E05010891,Brislington West,Anti-Social Behaviour incidents (total),2021/22,11563,188,16.3
+1268,E05010892,Central,Anti-Social Behaviour incidents (total),2021/22,23066,1959,84.9
+1269,E05010893,Clifton,Anti-Social Behaviour incidents (total),2021/22,13337,144,10.8
+1270,E05010894,Clifton Down,Anti-Social Behaviour incidents (total),2021/22,11296,156,13.8
+1271,E05010895,Cotham,Anti-Social Behaviour incidents (total),2021/22,11720,104,8.9
+1272,E05010896,Easton,Anti-Social Behaviour incidents (total),2021/22,14340,330,23
+1273,E05010897,Eastville,Anti-Social Behaviour incidents (total),2021/22,14756,304,20.6
+1274,E05010898,Filwood,Anti-Social Behaviour incidents (total),2021/22,13824,560,40.5
+1275,E05010899,Frome Vale,Anti-Social Behaviour incidents (total),2021/22,13654,309,22.6
+1276,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour incidents (total),2021/22,18839,616,32.7
+1277,E05010901,Henbury & Brentry,Anti-Social Behaviour incidents (total),2021/22,12641,321,25.4
+1278,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour incidents (total),2021/22,16948,401,23.7
+1279,E05010903,Hillfields,Anti-Social Behaviour incidents (total),2021/22,12906,193,15
+1280,E05010904,Horfield,Anti-Social Behaviour incidents (total),2021/22,13339,247,18.5
+1281,E05010905,Hotwells & Harbourside,Anti-Social Behaviour incidents (total),2021/22,7005,423,60.4
+1282,E05010906,Knowle,Anti-Social Behaviour incidents (total),2021/22,13252,245,18.5
+1283,E05010907,Lawrence Hill,Anti-Social Behaviour incidents (total),2021/22,20156,737,36.6
+1284,E05010908,Lockleaze,Anti-Social Behaviour incidents (total),2021/22,13278,381,28.7
+1285,E05010909,Redland,Anti-Social Behaviour incidents (total),2021/22,12949,97,7.5
+1286,E05010910,St George Central,Anti-Social Behaviour incidents (total),2021/22,12876,208,16.2
+1287,E05010911,St George Troopers Hill,Anti-Social Behaviour incidents (total),2021/22,5740,72,12.5
+1288,E05010912,St George West,Anti-Social Behaviour incidents (total),2021/22,6579,145,22
+1289,E05010913,Southmead,Anti-Social Behaviour incidents (total),2021/22,12676,302,23.8
+1290,E05010914,Southville,Anti-Social Behaviour incidents (total),2021/22,12960,420,32.4
+1291,E05010915,Stockwood,Anti-Social Behaviour incidents (total),2021/22,11367,221,19.4
+1292,E05010916,Stoke Bishop,Anti-Social Behaviour incidents (total),2021/22,11948,145,12.1
+1293,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour incidents (total),2021/22,19677,141,7.2
+1294,E05010918,Windmill Hill,Anti-Social Behaviour incidents (total),2021/22,13744,212,15.4
+1295,E06000023,Bristol Average,Anti-Social Behaviour incidents (total),2021/22,465866,11272,24.2
+1296,E05010885,Ashley,Anti-Social Behaviour - Environmental incidents,2021/22,19002,21,1.1
+1297,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Environmental incidents,2021/22,21361,22,1
+1298,E05010887,Bedminster,Anti-Social Behaviour - Environmental incidents,2021/22,12568,10,0.8
+1299,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Environmental incidents,2021/22,13290,4,0.3
+1300,E05010889,Bishopsworth,Anti-Social Behaviour - Environmental incidents,2021/22,11442,10,0.9
+1301,E05010890,Brislington East,Anti-Social Behaviour - Environmental incidents,2021/22,11767,7,0.6
+1302,E05010891,Brislington West,Anti-Social Behaviour - Environmental incidents,2021/22,11563,5,0.4
+1303,E05010892,Central,Anti-Social Behaviour - Environmental incidents,2021/22,23066,41,1.8
+1304,E05010893,Clifton,Anti-Social Behaviour - Environmental incidents,2021/22,13337,9,0.7
+1305,E05010894,Clifton Down,Anti-Social Behaviour - Environmental incidents,2021/22,11296,4,0.4
+1306,E05010895,Cotham,Anti-Social Behaviour - Environmental incidents,2021/22,11720,3,0.3
+1307,E05010896,Easton,Anti-Social Behaviour - Environmental incidents,2021/22,14340,14,1
+1308,E05010897,Eastville,Anti-Social Behaviour - Environmental incidents,2021/22,14756,10,0.7
+1309,E05010898,Filwood,Anti-Social Behaviour - Environmental incidents,2021/22,13824,9,0.7
+1310,E05010899,Frome Vale,Anti-Social Behaviour - Environmental incidents,2021/22,13654,13,1
+1311,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Environmental incidents,2021/22,18839,23,1.2
+1312,E05010901,Henbury & Brentry,Anti-Social Behaviour - Environmental incidents,2021/22,12641,10,0.8
+1313,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Environmental incidents,2021/22,16948,10,0.6
+1314,E05010903,Hillfields,Anti-Social Behaviour - Environmental incidents,2021/22,12906,14,1.1
+1315,E05010904,Horfield,Anti-Social Behaviour - Environmental incidents,2021/22,13339,7,0.5
+1316,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Environmental incidents,2021/22,7005,4,0.6
+1317,E05010906,Knowle,Anti-Social Behaviour - Environmental incidents,2021/22,13252,6,0.5
+1318,E05010907,Lawrence Hill,Anti-Social Behaviour - Environmental incidents,2021/22,20156,29,1.4
+1319,E05010908,Lockleaze,Anti-Social Behaviour - Environmental incidents,2021/22,13278,13,1
+1320,E05010909,Redland,Anti-Social Behaviour - Environmental incidents,2021/22,12949,2,0.2
+1321,E05010910,St George Central,Anti-Social Behaviour - Environmental incidents,2021/22,12876,6,0.5
+1322,E05010911,St George Troopers Hill,Anti-Social Behaviour - Environmental incidents,2021/22,5740,4,0.7
+1323,E05010912,St George West,Anti-Social Behaviour - Environmental incidents,2021/22,6579,3,0.5
+1324,E05010913,Southmead,Anti-Social Behaviour - Environmental incidents,2021/22,12676,6,0.5
+1325,E05010914,Southville,Anti-Social Behaviour - Environmental incidents,2021/22,12960,6,0.5
+1326,E05010915,Stockwood,Anti-Social Behaviour - Environmental incidents,2021/22,11367,7,0.6
+1327,E05010916,Stoke Bishop,Anti-Social Behaviour - Environmental incidents,2021/22,11948,8,0.7
+1328,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Environmental incidents,2021/22,19677,1,0.1
+1329,E05010918,Windmill Hill,Anti-Social Behaviour - Environmental incidents,2021/22,13744,4,0.3
+1330,E06000023,Bristol Average,Anti-Social Behaviour - Environmental incidents,2021/22,465866,341,0.7
+1331,E05010885,Ashley,Anti-Social Behaviour - Nuisance incidents,2021/22,19002,512,26.9
+1332,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Nuisance incidents,2021/22,21361,432,20.2
+1333,E05010887,Bedminster,Anti-Social Behaviour - Nuisance incidents,2021/22,12568,130,10.3
+1334,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Nuisance incidents,2021/22,13290,91,6.8
+1335,E05010889,Bishopsworth,Anti-Social Behaviour - Nuisance incidents,2021/22,11442,135,11.8
+1336,E05010890,Brislington East,Anti-Social Behaviour - Nuisance incidents,2021/22,11767,127,10.8
+1337,E05010891,Brislington West,Anti-Social Behaviour - Nuisance incidents,2021/22,11563,162,14
+1338,E05010892,Central,Anti-Social Behaviour - Nuisance incidents,2021/22,23066,1875,81.3
+1339,E05010893,Clifton,Anti-Social Behaviour - Nuisance incidents,2021/22,13337,119,8.9
+1340,E05010894,Clifton Down,Anti-Social Behaviour - Nuisance incidents,2021/22,11296,136,12
+1341,E05010895,Cotham,Anti-Social Behaviour - Nuisance incidents,2021/22,11720,78,6.7
+1342,E05010896,Easton,Anti-Social Behaviour - Nuisance incidents,2021/22,14340,282,19.7
+1343,E05010897,Eastville,Anti-Social Behaviour - Nuisance incidents,2021/22,14756,267,18.1
+1344,E05010898,Filwood,Anti-Social Behaviour - Nuisance incidents,2021/22,13824,504,36.5
+1345,E05010899,Frome Vale,Anti-Social Behaviour - Nuisance incidents,2021/22,13654,263,19.3
+1346,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Nuisance incidents,2021/22,18839,493,26.2
+1347,E05010901,Henbury & Brentry,Anti-Social Behaviour - Nuisance incidents,2021/22,12641,262,20.7
+1348,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Nuisance incidents,2021/22,16948,317,18.7
+1349,E05010903,Hillfields,Anti-Social Behaviour - Nuisance incidents,2021/22,12906,164,12.7
+1350,E05010904,Horfield,Anti-Social Behaviour - Nuisance incidents,2021/22,13339,213,16
+1351,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Nuisance incidents,2021/22,7005,399,57
+1352,E05010906,Knowle,Anti-Social Behaviour - Nuisance incidents,2021/22,13252,197,14.9
+1353,E05010907,Lawrence Hill,Anti-Social Behaviour - Nuisance incidents,2021/22,20156,638,31.7
+1354,E05010908,Lockleaze,Anti-Social Behaviour - Nuisance incidents,2021/22,13278,330,24.9
+1355,E05010909,Redland,Anti-Social Behaviour - Nuisance incidents,2021/22,12949,90,7
+1356,E05010910,St George Central,Anti-Social Behaviour - Nuisance incidents,2021/22,12876,163,12.7
+1357,E05010911,St George Troopers Hill,Anti-Social Behaviour - Nuisance incidents,2021/22,5740,58,10.1
+1358,E05010912,St George West,Anti-Social Behaviour - Nuisance incidents,2021/22,6579,134,20.4
+1359,E05010913,Southmead,Anti-Social Behaviour - Nuisance incidents,2021/22,12676,261,20.6
+1360,E05010914,Southville,Anti-Social Behaviour - Nuisance incidents,2021/22,12960,374,28.9
+1361,E05010915,Stockwood,Anti-Social Behaviour - Nuisance incidents,2021/22,11367,181,15.9
+1362,E05010916,Stoke Bishop,Anti-Social Behaviour - Nuisance incidents,2021/22,11948,122,10.2
+1363,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Nuisance incidents,2021/22,19677,124,6.3
+1364,E05010918,Windmill Hill,Anti-Social Behaviour - Nuisance incidents,2021/22,13744,167,12.2
+1365,E06000023,Bristol Average,Anti-Social Behaviour - Nuisance incidents,2021/22,465866,9633,20.7
+1366,E05010885,Ashley,Anti-Social Behaviour - Personal incidents,2021/22,19002,36,1.9
+1367,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Personal incidents,2021/22,21361,66,3.1
+1368,E05010887,Bedminster,Anti-Social Behaviour - Personal incidents,2021/22,12568,22,1.8
+1369,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Personal incidents,2021/22,13290,9,0.7
+1370,E05010889,Bishopsworth,Anti-Social Behaviour - Personal incidents,2021/22,11442,29,2.5
+1371,E05010890,Brislington East,Anti-Social Behaviour - Personal incidents,2021/22,11767,26,2.2
+1372,E05010891,Brislington West,Anti-Social Behaviour - Personal incidents,2021/22,11563,21,1.8
+1373,E05010892,Central,Anti-Social Behaviour - Personal incidents,2021/22,23066,40,1.7
+1374,E05010893,Clifton,Anti-Social Behaviour - Personal incidents,2021/22,13337,15,1.1
+1375,E05010894,Clifton Down,Anti-Social Behaviour - Personal incidents,2021/22,11296,16,1.4
+1376,E05010895,Cotham,Anti-Social Behaviour - Personal incidents,2021/22,11720,22,1.9
+1377,E05010896,Easton,Anti-Social Behaviour - Personal incidents,2021/22,14340,32,2.2
+1378,E05010897,Eastville,Anti-Social Behaviour - Personal incidents,2021/22,14756,26,1.8
+1379,E05010898,Filwood,Anti-Social Behaviour - Personal incidents,2021/22,13824,47,3.4
+1380,E05010899,Frome Vale,Anti-Social Behaviour - Personal incidents,2021/22,13654,32,2.3
+1381,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Personal incidents,2021/22,18839,97,5.1
+1382,E05010901,Henbury & Brentry,Anti-Social Behaviour - Personal incidents,2021/22,12641,49,3.9
+1383,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Personal incidents,2021/22,16948,74,4.4
+1384,E05010903,Hillfields,Anti-Social Behaviour - Personal incidents,2021/22,12906,15,1.2
+1385,E05010904,Horfield,Anti-Social Behaviour - Personal incidents,2021/22,13339,26,1.9
+1386,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Personal incidents,2021/22,7005,17,2.4
+1387,E05010906,Knowle,Anti-Social Behaviour - Personal incidents,2021/22,13252,40,3
+1388,E05010907,Lawrence Hill,Anti-Social Behaviour - Personal incidents,2021/22,20156,65,3.2
+1389,E05010908,Lockleaze,Anti-Social Behaviour - Personal incidents,2021/22,13278,37,2.8
+1390,E05010909,Redland,Anti-Social Behaviour - Personal incidents,2021/22,12949,5,0.4
+1391,E05010910,St George Central,Anti-Social Behaviour - Personal incidents,2021/22,12876,38,3
+1392,E05010911,St George Troopers Hill,Anti-Social Behaviour - Personal incidents,2021/22,5740,10,1.7
+1393,E05010912,St George West,Anti-Social Behaviour - Personal incidents,2021/22,6579,8,1.2
+1394,E05010913,Southmead,Anti-Social Behaviour - Personal incidents,2021/22,12676,34,2.7
+1395,E05010914,Southville,Anti-Social Behaviour - Personal incidents,2021/22,12960,38,2.9
+1396,E05010915,Stockwood,Anti-Social Behaviour - Personal incidents,2021/22,11367,32,2.8
+1397,E05010916,Stoke Bishop,Anti-Social Behaviour - Personal incidents,2021/22,11948,15,1.3
+1398,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Personal incidents,2021/22,19677,16,0.8
+1399,E05010918,Windmill Hill,Anti-Social Behaviour - Personal incidents,2021/22,13744,41,3
+1400,E06000023,Bristol Average,Anti-Social Behaviour - Personal incidents,2021/22,465866,1055,2.3
+1401,E05010885,Ashley,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,19002,2,0.1
+1402,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,21361,0,0
+1403,E05010887,Bedminster,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,12568,0,0
+1404,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13290,0,0
+1405,E05010889,Bishopsworth,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,11442,0,0
+1406,E05010890,Brislington East,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,11767,0,0
+1407,E05010891,Brislington West,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,11563,0,0
+1408,E05010892,Central,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,23066,3,0.1
+1409,E05010893,Clifton,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13337,1,0.1
+1410,E05010894,Clifton Down,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,11296,0,0
+1411,E05010895,Cotham,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,11720,1,0.1
+1412,E05010896,Easton,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,14340,2,0.1
+1413,E05010897,Eastville,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,14756,1,0.1
+1414,E05010898,Filwood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13824,,
+1415,E05010899,Frome Vale,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13654,1,0.1
+1416,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,18839,3,0.2
+1417,E05010901,Henbury & Brentry,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,12641,0,0
+1418,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,16948,0,0
+1419,E05010903,Hillfields,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,12906,0,0
+1420,E05010904,Horfield,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13339,1,0.1
+1421,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,7005,3,0.4
+1422,E05010906,Knowle,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13252,2,0.2
+1423,E05010907,Lawrence Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,20156,5,0.2
+1424,E05010908,Lockleaze,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13278,1,0.1
+1425,E05010909,Redland,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,12949,1,0.1
+1426,E05010910,St George Central,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,12876,0,0
+1427,E05010911,St George Troopers Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,5740,0,0
+1428,E05010912,St George West,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,6579,0,0
+1429,E05010913,Southmead,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,12676,1,0.1
+1430,E05010914,Southville,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,12960,2,0.2
+1431,E05010915,Stockwood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,11367,1,0.1
+1432,E05010916,Stoke Bishop,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,11948,0,0
+1433,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,19677,0,0
+1434,E05010918,Windmill Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,13744,0,0
+1435,E06000023,Bristol Average,Anti-Social Behaviour - Hoax Calls to Emergency Services,2021/22,465866,31,0.1
+1436,E05010885,Ashley,Arson and Criminal Damage,2021/22,19002,298,15.7
+1437,E05010886,Avonmouth & Lawrence Weston,Arson and Criminal Damage,2021/22,21361,291,13.6
+1438,E05010887,Bedminster,Arson and Criminal Damage,2021/22,12568,111,8.8
+1439,E05010888,Bishopston & Ashley Down,Arson and Criminal Damage,2021/22,13290,75,5.6
+1440,E05010889,Bishopsworth,Arson and Criminal Damage,2021/22,11442,126,11
+1441,E05010890,Brislington East,Arson and Criminal Damage,2021/22,11767,81,6.9
+1442,E05010891,Brislington West,Arson and Criminal Damage,2021/22,11563,127,11
+1443,E05010892,Central,Arson and Criminal Damage,2021/22,23066,739,32
+1444,E05010893,Clifton,Arson and Criminal Damage,2021/22,13337,103,7.7
+1445,E05010894,Clifton Down,Arson and Criminal Damage,2021/22,11296,63,5.6
+1446,E05010895,Cotham,Arson and Criminal Damage,2021/22,11720,82,7
+1447,E05010896,Easton,Arson and Criminal Damage,2021/22,14340,160,11.2
+1448,E05010897,Eastville,Arson and Criminal Damage,2021/22,14756,153,10.4
+1449,E05010898,Filwood,Arson and Criminal Damage,2021/22,13824,287,20.8
+1450,E05010899,Frome Vale,Arson and Criminal Damage,2021/22,13654,165,12.1
+1451,E05010900,Hartcliffe & Withywood,Arson and Criminal Damage,2021/22,18839,294,15.6
+1452,E05010901,Henbury & Brentry,Arson and Criminal Damage,2021/22,12641,208,16.5
+1453,E05010902,Hengrove & Whitchurch Park,Arson and Criminal Damage,2021/22,16948,232,13.7
+1454,E05010903,Hillfields,Arson and Criminal Damage,2021/22,12906,87,6.7
+1455,E05010904,Horfield,Arson and Criminal Damage,2021/22,13339,146,10.9
+1456,E05010905,Hotwells & Harbourside,Arson and Criminal Damage,2021/22,7005,179,25.6
+1457,E05010906,Knowle,Arson and Criminal Damage,2021/22,13252,145,10.9
+1458,E05010907,Lawrence Hill,Arson and Criminal Damage,2021/22,20156,363,18
+1459,E05010908,Lockleaze,Arson and Criminal Damage,2021/22,13278,139,10.5
+1460,E05010909,Redland,Arson and Criminal Damage,2021/22,12949,75,5.8
+1461,E05010910,St George Central,Arson and Criminal Damage,2021/22,12876,117,9.1
+1462,E05010911,St George Troopers Hill,Arson and Criminal Damage,2021/22,5740,22,3.8
+1463,E05010912,St George West,Arson and Criminal Damage,2021/22,6579,85,12.9
+1464,E05010913,Southmead,Arson and Criminal Damage,2021/22,12676,212,16.7
+1465,E05010914,Southville,Arson and Criminal Damage,2021/22,12960,166,12.8
+1466,E05010915,Stockwood,Arson and Criminal Damage,2021/22,11367,100,8.8
+1467,E05010916,Stoke Bishop,Arson and Criminal Damage,2021/22,11948,89,7.4
+1468,E05010917,Westbury-on-Trym & Henleaze,Arson and Criminal Damage,2021/22,19677,76,3.9
+1469,E05010918,Windmill Hill,Arson and Criminal Damage,2021/22,13744,140,10.2
+1470,E06000023,Bristol Average,Arson and Criminal Damage,2021/22,465866,5736,12.3
+1471,E05010885,Ashley,Burglary,2021/22,19002,139,7.3
+1472,E05010886,Avonmouth & Lawrence Weston,Burglary,2021/22,21361,94,4.4
+1473,E05010887,Bedminster,Burglary,2021/22,12568,64,5.1
+1474,E05010888,Bishopston & Ashley Down,Burglary,2021/22,13290,74,5.6
+1475,E05010889,Bishopsworth,Burglary,2021/22,11442,85,7.4
+1476,E05010890,Brislington East,Burglary,2021/22,11767,71,6
+1477,E05010891,Brislington West,Burglary,2021/22,11563,71,6.1
+1478,E05010892,Central,Burglary,2021/22,23066,237,10.3
+1479,E05010893,Clifton,Burglary,2021/22,13337,61,4.6
+1480,E05010894,Clifton Down,Burglary,2021/22,11296,56,5
+1481,E05010895,Cotham,Burglary,2021/22,11720,58,4.9
+1482,E05010896,Easton,Burglary,2021/22,14340,67,4.7
+1483,E05010897,Eastville,Burglary,2021/22,14756,98,6.6
+1484,E05010898,Filwood,Burglary,2021/22,13824,69,5
+1485,E05010899,Frome Vale,Burglary,2021/22,13654,78,5.7
+1486,E05010900,Hartcliffe & Withywood,Burglary,2021/22,18839,119,6.3
+1487,E05010901,Henbury & Brentry,Burglary,2021/22,12641,52,4.1
+1488,E05010902,Hengrove & Whitchurch Park,Burglary,2021/22,16948,117,6.9
+1489,E05010903,Hillfields,Burglary,2021/22,12906,65,5
+1490,E05010904,Horfield,Burglary,2021/22,13339,100,7.5
+1491,E05010905,Hotwells & Harbourside,Burglary,2021/22,7005,56,8
+1492,E05010906,Knowle,Burglary,2021/22,13252,52,3.9
+1493,E05010907,Lawrence Hill,Burglary,2021/22,20156,183,9.1
+1494,E05010908,Lockleaze,Burglary,2021/22,13278,67,5
+1495,E05010909,Redland,Burglary,2021/22,12949,77,5.9
+1496,E05010910,St George Central,Burglary,2021/22,12876,66,5.1
+1497,E05010911,St George Troopers Hill,Burglary,2021/22,5740,17,3
+1498,E05010912,St George West,Burglary,2021/22,6579,41,6.2
+1499,E05010913,Southmead,Burglary,2021/22,12676,62,4.9
+1500,E05010914,Southville,Burglary,2021/22,12960,98,7.6
+1501,E05010915,Stockwood,Burglary,2021/22,11367,73,6.4
+1502,E05010916,Stoke Bishop,Burglary,2021/22,11948,76,6.4
+1503,E05010917,Westbury-on-Trym & Henleaze,Burglary,2021/22,19677,158,8
+1504,E05010918,Windmill Hill,Burglary,2021/22,13744,72,5.2
+1505,E06000023,Bristol Average,Burglary,2021/22,465866,2873,6.2
+1506,E05010885,Ashley,Drug Offences,2021/22,19002,72,3.8
+1507,E05010886,Avonmouth & Lawrence Weston,Drug Offences,2021/22,21361,33,1.5
+1508,E05010887,Bedminster,Drug Offences,2021/22,12568,22,1.8
+1509,E05010888,Bishopston & Ashley Down,Drug Offences,2021/22,13290,13,1
+1510,E05010889,Bishopsworth,Drug Offences,2021/22,11442,18,1.6
+1511,E05010890,Brislington East,Drug Offences,2021/22,11767,9,0.8
+1512,E05010891,Brislington West,Drug Offences,2021/22,11563,13,1.1
+1513,E05010892,Central,Drug Offences,2021/22,23066,191,8.3
+1514,E05010893,Clifton,Drug Offences,2021/22,13337,3,0.2
+1515,E05010894,Clifton Down,Drug Offences,2021/22,11296,6,0.5
+1516,E05010895,Cotham,Drug Offences,2021/22,11720,6,0.5
+1517,E05010896,Easton,Drug Offences,2021/22,14340,48,3.3
+1518,E05010897,Eastville,Drug Offences,2021/22,14756,32,2.2
+1519,E05010898,Filwood,Drug Offences,2021/22,13824,38,2.7
+1520,E05010899,Frome Vale,Drug Offences,2021/22,13654,22,1.6
+1521,E05010900,Hartcliffe & Withywood,Drug Offences,2021/22,18839,43,2.3
+1522,E05010901,Henbury & Brentry,Drug Offences,2021/22,12641,27,2.1
+1523,E05010902,Hengrove & Whitchurch Park,Drug Offences,2021/22,16948,28,1.7
+1524,E05010903,Hillfields,Drug Offences,2021/22,12906,19,1.5
+1525,E05010904,Horfield,Drug Offences,2021/22,13339,23,1.7
+1526,E05010905,Hotwells & Harbourside,Drug Offences,2021/22,7005,61,8.7
+1527,E05010906,Knowle,Drug Offences,2021/22,13252,16,1.2
+1528,E05010907,Lawrence Hill,Drug Offences,2021/22,20156,114,5.7
+1529,E05010908,Lockleaze,Drug Offences,2021/22,13278,19,1.4
+1530,E05010909,Redland,Drug Offences,2021/22,12949,5,0.4
+1531,E05010910,St George Central,Drug Offences,2021/22,12876,28,2.2
+1532,E05010911,St George Troopers Hill,Drug Offences,2021/22,5740,5,0.9
+1533,E05010912,St George West,Drug Offences,2021/22,6579,21,3.2
+1534,E05010913,Southmead,Drug Offences,2021/22,12676,48,3.8
+1535,E05010914,Southville,Drug Offences,2021/22,12960,36,2.8
+1536,E05010915,Stockwood,Drug Offences,2021/22,11367,19,1.7
+1537,E05010916,Stoke Bishop,Drug Offences,2021/22,11948,25,2.1
+1538,E05010917,Westbury-on-Trym & Henleaze,Drug Offences,2021/22,19677,9,0.5
+1539,E05010918,Windmill Hill,Drug Offences,2021/22,13744,26,1.9
+1540,E06000023,Bristol Average,Drug Offences,2021/22,465866,1098,2.4
+1541,E05010885,Ashley,Fraud,2021/22,19002,,0
+1542,E05010886,Avonmouth & Lawrence Weston,Fraud,2021/22,21361,,0
+1543,E05010887,Bedminster,Fraud,2021/22,12568,,0
+1544,E05010888,Bishopston & Ashley Down,Fraud,2021/22,13290,,0
+1545,E05010889,Bishopsworth,Fraud,2021/22,11442,1,0.1
+1546,E05010890,Brislington East,Fraud,2021/22,11767,,0
+1547,E05010891,Brislington West,Fraud,2021/22,11563,,0
+1548,E05010892,Central,Fraud,2021/22,23066,,0
+1549,E05010893,Clifton,Fraud,2021/22,13337,,0
+1550,E05010894,Clifton Down,Fraud,2021/22,11296,,0
+1551,E05010895,Cotham,Fraud,2021/22,11720,,0
+1552,E05010896,Easton,Fraud,2021/22,14340,,0
+1553,E05010897,Eastville,Fraud,2021/22,14756,,0
+1554,E05010898,Filwood,Fraud,2021/22,13824,,0
+1555,E05010899,Frome Vale,Fraud,2021/22,13654,,0
+1556,E05010900,Hartcliffe & Withywood,Fraud,2021/22,18839,1,0.1
+1557,E05010901,Henbury & Brentry,Fraud,2021/22,12641,,0
+1558,E05010902,Hengrove & Whitchurch Park,Fraud,2021/22,16948,,0
+1559,E05010903,Hillfields,Fraud,2021/22,12906,,0
+1560,E05010904,Horfield,Fraud,2021/22,13339,,0
+1561,E05010905,Hotwells & Harbourside,Fraud,2021/22,7005,,0
+1562,E05010906,Knowle,Fraud,2021/22,13252,,0
+1563,E05010907,Lawrence Hill,Fraud,2021/22,20156,,0
+1564,E05010908,Lockleaze,Fraud,2021/22,13278,,0
+1565,E05010909,Redland,Fraud,2021/22,12949,,0
+1566,E05010910,St George Central,Fraud,2021/22,12876,,0
+1567,E05010911,St George Troopers Hill,Fraud,2021/22,5740,1,0.2
+1568,E05010912,St George West,Fraud,2021/22,6579,,0
+1569,E05010913,Southmead,Fraud,2021/22,12676,,0
+1570,E05010914,Southville,Fraud,2021/22,12960,,0
+1571,E05010915,Stockwood,Fraud,2021/22,11367,,0
+1572,E05010916,Stoke Bishop,Fraud,2021/22,11948,,0
+1573,E05010917,Westbury-on-Trym & Henleaze,Fraud,2021/22,19677,,0
+1574,E05010918,Windmill Hill,Fraud,2021/22,13744,,0
+1575,E06000023,Bristol Average,Fraud,2021/22,465866,3,0
+1576,E05010885,Ashley,Miscellaneous Crimes Against Society,2021/22,19002,34,1.8
+1577,E05010886,Avonmouth & Lawrence Weston,Miscellaneous Crimes Against Society,2021/22,21361,55,2.6
+1578,E05010887,Bedminster,Miscellaneous Crimes Against Society,2021/22,12568,17,1.4
+1579,E05010888,Bishopston & Ashley Down,Miscellaneous Crimes Against Society,2021/22,13290,87,6.5
+1580,E05010889,Bishopsworth,Miscellaneous Crimes Against Society,2021/22,11442,13,1.1
+1581,E05010890,Brislington East,Miscellaneous Crimes Against Society,2021/22,11767,16,1.4
+1582,E05010891,Brislington West,Miscellaneous Crimes Against Society,2021/22,11563,19,1.6
+1583,E05010892,Central,Miscellaneous Crimes Against Society,2021/22,23066,54,2.3
+1584,E05010893,Clifton,Miscellaneous Crimes Against Society,2021/22,13337,6,0.4
+1585,E05010894,Clifton Down,Miscellaneous Crimes Against Society,2021/22,11296,5,0.4
+1586,E05010895,Cotham,Miscellaneous Crimes Against Society,2021/22,11720,3,0.3
+1587,E05010896,Easton,Miscellaneous Crimes Against Society,2021/22,14340,22,1.5
+1588,E05010897,Eastville,Miscellaneous Crimes Against Society,2021/22,14756,53,3.6
+1589,E05010898,Filwood,Miscellaneous Crimes Against Society,2021/22,13824,36,2.6
+1590,E05010899,Frome Vale,Miscellaneous Crimes Against Society,2021/22,13654,18,1.3
+1591,E05010900,Hartcliffe & Withywood,Miscellaneous Crimes Against Society,2021/22,18839,58,3.1
+1592,E05010901,Henbury & Brentry,Miscellaneous Crimes Against Society,2021/22,12641,26,2.1
+1593,E05010902,Hengrove & Whitchurch Park,Miscellaneous Crimes Against Society,2021/22,16948,39,2.3
+1594,E05010903,Hillfields,Miscellaneous Crimes Against Society,2021/22,12906,15,1.2
+1595,E05010904,Horfield,Miscellaneous Crimes Against Society,2021/22,13339,24,1.8
+1596,E05010905,Hotwells & Harbourside,Miscellaneous Crimes Against Society,2021/22,7005,10,1.4
+1597,E05010906,Knowle,Miscellaneous Crimes Against Society,2021/22,13252,16,1.2
+1598,E05010907,Lawrence Hill,Miscellaneous Crimes Against Society,2021/22,20156,57,2.8
+1599,E05010908,Lockleaze,Miscellaneous Crimes Against Society,2021/22,13278,30,2.3
+1600,E05010909,Redland,Miscellaneous Crimes Against Society,2021/22,12949,13,1
+1601,E05010910,St George Central,Miscellaneous Crimes Against Society,2021/22,12876,21,1.6
+1602,E05010911,St George Troopers Hill,Miscellaneous Crimes Against Society,2021/22,5740,3,0.5
+1603,E05010912,St George West,Miscellaneous Crimes Against Society,2021/22,6579,11,1.7
+1604,E05010913,Southmead,Miscellaneous Crimes Against Society,2021/22,12676,21,1.7
+1605,E05010914,Southville,Miscellaneous Crimes Against Society,2021/22,12960,16,1.2
+1606,E05010915,Stockwood,Miscellaneous Crimes Against Society,2021/22,11367,15,1.3
+1607,E05010916,Stoke Bishop,Miscellaneous Crimes Against Society,2021/22,11948,9,0.8
+1608,E05010917,Westbury-on-Trym & Henleaze,Miscellaneous Crimes Against Society,2021/22,19677,10,0.5
+1609,E05010918,Windmill Hill,Miscellaneous Crimes Against Society,2021/22,13744,20,1.5
+1610,E06000023,Bristol Average,Miscellaneous Crimes Against Society,2021/22,465866,852,1.8
+1611,E05010885,Ashley,Possession of Weapons,2021/22,19002,15,0.8
+1612,E05010886,Avonmouth & Lawrence Weston,Possession of Weapons,2021/22,21361,13,0.6
+1613,E05010887,Bedminster,Possession of Weapons,2021/22,12568,5,0.4
+1614,E05010888,Bishopston & Ashley Down,Possession of Weapons,2021/22,13290,2,0.2
+1615,E05010889,Bishopsworth,Possession of Weapons,2021/22,11442,10,0.9
+1616,E05010890,Brislington East,Possession of Weapons,2021/22,11767,4,0.3
+1617,E05010891,Brislington West,Possession of Weapons,2021/22,11563,3,0.3
+1618,E05010892,Central,Possession of Weapons,2021/22,23066,56,2.4
+1619,E05010893,Clifton,Possession of Weapons,2021/22,13337,1,0.1
+1620,E05010894,Clifton Down,Possession of Weapons,2021/22,11296,4,0.4
+1621,E05010895,Cotham,Possession of Weapons,2021/22,11720,7,0.6
+1622,E05010896,Easton,Possession of Weapons,2021/22,14340,16,1.1
+1623,E05010897,Eastville,Possession of Weapons,2021/22,14756,13,0.9
+1624,E05010898,Filwood,Possession of Weapons,2021/22,13824,11,0.8
+1625,E05010899,Frome Vale,Possession of Weapons,2021/22,13654,5,0.4
+1626,E05010900,Hartcliffe & Withywood,Possession of Weapons,2021/22,18839,13,0.7
+1627,E05010901,Henbury & Brentry,Possession of Weapons,2021/22,12641,9,0.7
+1628,E05010902,Hengrove & Whitchurch Park,Possession of Weapons,2021/22,16948,16,0.9
+1629,E05010903,Hillfields,Possession of Weapons,2021/22,12906,6,0.5
+1630,E05010904,Horfield,Possession of Weapons,2021/22,13339,11,0.8
+1631,E05010905,Hotwells & Harbourside,Possession of Weapons,2021/22,7005,15,2.1
+1632,E05010906,Knowle,Possession of Weapons,2021/22,13252,9,0.7
+1633,E05010907,Lawrence Hill,Possession of Weapons,2021/22,20156,20,1
+1634,E05010908,Lockleaze,Possession of Weapons,2021/22,13278,6,0.5
+1635,E05010909,Redland,Possession of Weapons,2021/22,12949,2,0.2
+1636,E05010910,St George Central,Possession of Weapons,2021/22,12876,5,0.4
+1637,E05010911,St George Troopers Hill,Possession of Weapons,2021/22,5740,,0
+1638,E05010912,St George West,Possession of Weapons,2021/22,6579,3,0.5
+1639,E05010913,Southmead,Possession of Weapons,2021/22,12676,9,0.7
+1640,E05010914,Southville,Possession of Weapons,2021/22,12960,6,0.5
+1641,E05010915,Stockwood,Possession of Weapons,2021/22,11367,7,0.6
+1642,E05010916,Stoke Bishop,Possession of Weapons,2021/22,11948,7,0.6
+1643,E05010917,Westbury-on-Trym & Henleaze,Possession of Weapons,2021/22,19677,,0
+1644,E05010918,Windmill Hill,Possession of Weapons,2021/22,13744,7,0.5
+1645,E06000023,Bristol Average,Possession of Weapons,2021/22,465866,316,0.7
+1646,E05010885,Ashley,Public Order Offences,2021/22,19002,373,19.6
+1647,E05010886,Avonmouth & Lawrence Weston,Public Order Offences,2021/22,21361,362,16.9
+1648,E05010887,Bedminster,Public Order Offences,2021/22,12568,134,10.7
+1649,E05010888,Bishopston & Ashley Down,Public Order Offences,2021/22,13290,111,8.4
+1650,E05010889,Bishopsworth,Public Order Offences,2021/22,11442,153,13.4
+1651,E05010890,Brislington East,Public Order Offences,2021/22,11767,107,9.1
+1652,E05010891,Brislington West,Public Order Offences,2021/22,11563,219,18.9
+1653,E05010892,Central,Public Order Offences,2021/22,23066,1262,54.7
+1654,E05010893,Clifton,Public Order Offences,2021/22,13337,82,6.1
+1655,E05010894,Clifton Down,Public Order Offences,2021/22,11296,89,7.9
+1656,E05010895,Cotham,Public Order Offences,2021/22,11720,66,5.6
+1657,E05010896,Easton,Public Order Offences,2021/22,14340,239,16.7
+1658,E05010897,Eastville,Public Order Offences,2021/22,14756,289,19.6
+1659,E05010898,Filwood,Public Order Offences,2021/22,13824,264,19.1
+1660,E05010899,Frome Vale,Public Order Offences,2021/22,13654,201,14.7
+1661,E05010900,Hartcliffe & Withywood,Public Order Offences,2021/22,18839,392,20.8
+1662,E05010901,Henbury & Brentry,Public Order Offences,2021/22,12641,250,19.8
+1663,E05010902,Hengrove & Whitchurch Park,Public Order Offences,2021/22,16948,272,16
+1664,E05010903,Hillfields,Public Order Offences,2021/22,12906,166,12.9
+1665,E05010904,Horfield,Public Order Offences,2021/22,13339,205,15.4
+1666,E05010905,Hotwells & Harbourside,Public Order Offences,2021/22,7005,348,49.7
+1667,E05010906,Knowle,Public Order Offences,2021/22,13252,179,13.5
+1668,E05010907,Lawrence Hill,Public Order Offences,2021/22,20156,678,33.6
+1669,E05010908,Lockleaze,Public Order Offences,2021/22,13278,209,15.7
+1670,E05010909,Redland,Public Order Offences,2021/22,12949,79,6.1
+1671,E05010910,St George Central,Public Order Offences,2021/22,12876,164,12.7
+1672,E05010911,St George Troopers Hill,Public Order Offences,2021/22,5740,24,4.2
+1673,E05010912,St George West,Public Order Offences,2021/22,6579,132,20.1
+1674,E05010913,Southmead,Public Order Offences,2021/22,12676,187,14.8
+1675,E05010914,Southville,Public Order Offences,2021/22,12960,368,28.4
+1676,E05010915,Stockwood,Public Order Offences,2021/22,11367,157,13.8
+1677,E05010916,Stoke Bishop,Public Order Offences,2021/22,11948,64,5.4
+1678,E05010917,Westbury-on-Trym & Henleaze,Public Order Offences,2021/22,19677,100,5.1
+1679,E05010918,Windmill Hill,Public Order Offences,2021/22,13744,145,10.6
+1680,E06000023,Bristol Average,Public Order Offences,2021/22,465866,8070,17.3
+1681,E05010885,Ashley,Robbery,2021/22,19002,49,2.6
+1682,E05010886,Avonmouth & Lawrence Weston,Robbery,2021/22,21361,17,0.8
+1683,E05010887,Bedminster,Robbery,2021/22,12568,9,0.7
+1684,E05010888,Bishopston & Ashley Down,Robbery,2021/22,13290,10,0.8
+1685,E05010889,Bishopsworth,Robbery,2021/22,11442,15,1.3
+1686,E05010890,Brislington East,Robbery,2021/22,11767,19,1.6
+1687,E05010891,Brislington West,Robbery,2021/22,11563,16,1.4
+1688,E05010892,Central,Robbery,2021/22,23066,238,10.3
+1689,E05010893,Clifton,Robbery,2021/22,13337,6,0.4
+1690,E05010894,Clifton Down,Robbery,2021/22,11296,6,0.5
+1691,E05010895,Cotham,Robbery,2021/22,11720,9,0.8
+1692,E05010896,Easton,Robbery,2021/22,14340,29,2
+1693,E05010897,Eastville,Robbery,2021/22,14756,20,1.4
+1694,E05010898,Filwood,Robbery,2021/22,13824,18,1.3
+1695,E05010899,Frome Vale,Robbery,2021/22,13654,28,2.1
+1696,E05010900,Hartcliffe & Withywood,Robbery,2021/22,18839,41,2.2
+1697,E05010901,Henbury & Brentry,Robbery,2021/22,12641,26,2.1
+1698,E05010902,Hengrove & Whitchurch Park,Robbery,2021/22,16948,20,1.2
+1699,E05010903,Hillfields,Robbery,2021/22,12906,20,1.5
+1700,E05010904,Horfield,Robbery,2021/22,13339,10,0.7
+1701,E05010905,Hotwells & Harbourside,Robbery,2021/22,7005,65,9.3
+1702,E05010906,Knowle,Robbery,2021/22,13252,7,0.5
+1703,E05010907,Lawrence Hill,Robbery,2021/22,20156,85,4.2
+1704,E05010908,Lockleaze,Robbery,2021/22,13278,26,2
+1705,E05010909,Redland,Robbery,2021/22,12949,2,0.2
+1706,E05010910,St George Central,Robbery,2021/22,12876,9,0.7
+1707,E05010911,St George Troopers Hill,Robbery,2021/22,5740,4,0.7
+1708,E05010912,St George West,Robbery,2021/22,6579,16,2.4
+1709,E05010913,Southmead,Robbery,2021/22,12676,20,1.6
+1710,E05010914,Southville,Robbery,2021/22,12960,29,2.2
+1711,E05010915,Stockwood,Robbery,2021/22,11367,7,0.6
+1712,E05010916,Stoke Bishop,Robbery,2021/22,11948,5,0.4
+1713,E05010917,Westbury-on-Trym & Henleaze,Robbery,2021/22,19677,9,0.5
+1714,E05010918,Windmill Hill,Robbery,2021/22,13744,15,1.1
+1715,E06000023,Bristol Average,Robbery,2021/22,465866,905,1.9
+1716,E05010885,Ashley,Sexual Offences,2021/22,19002,102,5.4
+1717,E05010886,Avonmouth & Lawrence Weston,Sexual Offences,2021/22,21361,87,4.1
+1718,E05010887,Bedminster,Sexual Offences,2021/22,12568,40,3.2
+1719,E05010888,Bishopston & Ashley Down,Sexual Offences,2021/22,13290,27,2
+1720,E05010889,Bishopsworth,Sexual Offences,2021/22,11442,29,2.5
+1721,E05010890,Brislington East,Sexual Offences,2021/22,11767,31,2.6
+1722,E05010891,Brislington West,Sexual Offences,2021/22,11563,45,3.9
+1723,E05010892,Central,Sexual Offences,2021/22,23066,237,10.3
+1724,E05010893,Clifton,Sexual Offences,2021/22,13337,26,1.9
+1725,E05010894,Clifton Down,Sexual Offences,2021/22,11296,25,2.2
+1726,E05010895,Cotham,Sexual Offences,2021/22,11720,24,2
+1727,E05010896,Easton,Sexual Offences,2021/22,14340,56,3.9
+1728,E05010897,Eastville,Sexual Offences,2021/22,14756,56,3.8
+1729,E05010898,Filwood,Sexual Offences,2021/22,13824,48,3.5
+1730,E05010899,Frome Vale,Sexual Offences,2021/22,13654,50,3.7
+1731,E05010900,Hartcliffe & Withywood,Sexual Offences,2021/22,18839,85,4.5
+1732,E05010901,Henbury & Brentry,Sexual Offences,2021/22,12641,40,3.2
+1733,E05010902,Hengrove & Whitchurch Park,Sexual Offences,2021/22,16948,67,4
+1734,E05010903,Hillfields,Sexual Offences,2021/22,12906,46,3.6
+1735,E05010904,Horfield,Sexual Offences,2021/22,13339,57,4.3
+1736,E05010905,Hotwells & Harbourside,Sexual Offences,2021/22,7005,113,16.1
+1737,E05010906,Knowle,Sexual Offences,2021/22,13252,24,1.8
+1738,E05010907,Lawrence Hill,Sexual Offences,2021/22,20156,116,5.8
+1739,E05010908,Lockleaze,Sexual Offences,2021/22,13278,63,4.7
+1740,E05010909,Redland,Sexual Offences,2021/22,12949,25,1.9
+1741,E05010910,St George Central,Sexual Offences,2021/22,12876,29,2.3
+1742,E05010911,St George Troopers Hill,Sexual Offences,2021/22,5740,6,1
+1743,E05010912,St George West,Sexual Offences,2021/22,6579,24,3.6
+1744,E05010913,Southmead,Sexual Offences,2021/22,12676,53,4.2
+1745,E05010914,Southville,Sexual Offences,2021/22,12960,46,3.5
+1746,E05010915,Stockwood,Sexual Offences,2021/22,11367,29,2.6
+1747,E05010916,Stoke Bishop,Sexual Offences,2021/22,11948,26,2.2
+1748,E05010917,Westbury-on-Trym & Henleaze,Sexual Offences,2021/22,19677,20,1
+1749,E05010918,Windmill Hill,Sexual Offences,2021/22,13744,29,2.1
+1750,E06000023,Bristol Average,Sexual Offences,2021/22,465866,1781,3.8
+1751,E05010885,Ashley,Theft,2021/22,19002,306,16.1
+1752,E05010886,Avonmouth & Lawrence Weston,Theft,2021/22,21361,367,17.2
+1753,E05010887,Bedminster,Theft,2021/22,12568,160,12.7
+1754,E05010888,Bishopston & Ashley Down,Theft,2021/22,13290,109,8.2
+1755,E05010889,Bishopsworth,Theft,2021/22,11442,226,19.8
+1756,E05010890,Brislington East,Theft,2021/22,11767,91,7.7
+1757,E05010891,Brislington West,Theft,2021/22,11563,203,17.6
+1758,E05010892,Central,Theft,2021/22,23066,2166,93.9
+1759,E05010893,Clifton,Theft,2021/22,13337,133,10
+1760,E05010894,Clifton Down,Theft,2021/22,11296,138,12.2
+1761,E05010895,Cotham,Theft,2021/22,11720,93,7.9
+1762,E05010896,Easton,Theft,2021/22,14340,221,15.4
+1763,E05010897,Eastville,Theft,2021/22,14756,268,18.2
+1764,E05010898,Filwood,Theft,2021/22,13824,103,7.5
+1765,E05010899,Frome Vale,Theft,2021/22,13654,264,19.3
+1766,E05010900,Hartcliffe & Withywood,Theft,2021/22,18839,238,12.6
+1767,E05010901,Henbury & Brentry,Theft,2021/22,12641,129,10.2
+1768,E05010902,Hengrove & Whitchurch Park,Theft,2021/22,16948,182,10.7
+1769,E05010903,Hillfields,Theft,2021/22,12906,108,8.4
+1770,E05010904,Horfield,Theft,2021/22,13339,188,14.1
+1771,E05010905,Hotwells & Harbourside,Theft,2021/22,7005,493,70.4
+1772,E05010906,Knowle,Theft,2021/22,13252,107,8.1
+1773,E05010907,Lawrence Hill,Theft,2021/22,20156,580,28.8
+1774,E05010908,Lockleaze,Theft,2021/22,13278,258,19.4
+1775,E05010909,Redland,Theft,2021/22,12949,100,7.7
+1776,E05010910,St George Central,Theft,2021/22,12876,131,10.2
+1777,E05010911,St George Troopers Hill,Theft,2021/22,5740,51,8.9
+1778,E05010912,St George West,Theft,2021/22,6579,108,16.4
+1779,E05010913,Southmead,Theft,2021/22,12676,128,10.1
+1780,E05010914,Southville,Theft,2021/22,12960,445,34.3
+1781,E05010915,Stockwood,Theft,2021/22,11367,79,6.9
+1782,E05010916,Stoke Bishop,Theft,2021/22,11948,61,5.1
+1783,E05010917,Westbury-on-Trym & Henleaze,Theft,2021/22,19677,156,7.9
+1784,E05010918,Windmill Hill,Theft,2021/22,13744,123,8.9
+1785,E06000023,Bristol Average,Theft,2021/22,465866,8513,18.3
+1786,E05010885,Ashley,Vehicle Offences,2021/22,19002,139,7.3
+1787,E05010886,Avonmouth & Lawrence Weston,Vehicle Offences,2021/22,21361,160,7.5
+1788,E05010887,Bedminster,Vehicle Offences,2021/22,12568,132,10.5
+1789,E05010888,Bishopston & Ashley Down,Vehicle Offences,2021/22,13290,81,6.1
+1790,E05010889,Bishopsworth,Vehicle Offences,2021/22,11442,77,6.7
+1791,E05010890,Brislington East,Vehicle Offences,2021/22,11767,88,7.5
+1792,E05010891,Brislington West,Vehicle Offences,2021/22,11563,94,8.1
+1793,E05010892,Central,Vehicle Offences,2021/22,23066,443,19.2
+1794,E05010893,Clifton,Vehicle Offences,2021/22,13337,145,10.9
+1795,E05010894,Clifton Down,Vehicle Offences,2021/22,11296,103,9.1
+1796,E05010895,Cotham,Vehicle Offences,2021/22,11720,130,11.1
+1797,E05010896,Easton,Vehicle Offences,2021/22,14340,107,7.5
+1798,E05010897,Eastville,Vehicle Offences,2021/22,14756,167,11.3
+1799,E05010898,Filwood,Vehicle Offences,2021/22,13824,174,12.6
+1800,E05010899,Frome Vale,Vehicle Offences,2021/22,13654,102,7.5
+1801,E05010900,Hartcliffe & Withywood,Vehicle Offences,2021/22,18839,117,6.2
+1802,E05010901,Henbury & Brentry,Vehicle Offences,2021/22,12641,56,4.4
+1803,E05010902,Hengrove & Whitchurch Park,Vehicle Offences,2021/22,16948,162,9.6
+1804,E05010903,Hillfields,Vehicle Offences,2021/22,12906,142,11
+1805,E05010904,Horfield,Vehicle Offences,2021/22,13339,100,7.5
+1806,E05010905,Hotwells & Harbourside,Vehicle Offences,2021/22,7005,98,14
+1807,E05010906,Knowle,Vehicle Offences,2021/22,13252,131,9.9
+1808,E05010907,Lawrence Hill,Vehicle Offences,2021/22,20156,297,14.7
+1809,E05010908,Lockleaze,Vehicle Offences,2021/22,13278,85,6.4
+1810,E05010909,Redland,Vehicle Offences,2021/22,12949,108,8.3
+1811,E05010910,St George Central,Vehicle Offences,2021/22,12876,80,6.2
+1812,E05010911,St George Troopers Hill,Vehicle Offences,2021/22,5740,19,3.3
+1813,E05010912,St George West,Vehicle Offences,2021/22,6579,47,7.1
+1814,E05010913,Southmead,Vehicle Offences,2021/22,12676,63,5
+1815,E05010914,Southville,Vehicle Offences,2021/22,12960,227,17.5
+1816,E05010915,Stockwood,Vehicle Offences,2021/22,11367,66,5.8
+1817,E05010916,Stoke Bishop,Vehicle Offences,2021/22,11948,55,4.6
+1818,E05010917,Westbury-on-Trym & Henleaze,Vehicle Offences,2021/22,19677,111,5.6
+1819,E05010918,Windmill Hill,Vehicle Offences,2021/22,13744,217,15.8
+1820,E06000023,Bristol Average,Vehicle Offences,2021/22,465866,4323,9.3
+1821,E05010885,Ashley,Violence Against The Person,2021/22,19002,823,43.3
+1822,E05010886,Avonmouth & Lawrence Weston,Violence Against The Person,2021/22,21361,1075,50.3
+1823,E05010887,Bedminster,Violence Against The Person,2021/22,12568,422,33.6
+1824,E05010888,Bishopston & Ashley Down,Violence Against The Person,2021/22,13290,262,19.7
+1825,E05010889,Bishopsworth,Violence Against The Person,2021/22,11442,436,38.1
+1826,E05010890,Brislington East,Violence Against The Person,2021/22,11767,366,31.1
+1827,E05010891,Brislington West,Violence Against The Person,2021/22,11563,494,42.7
+1828,E05010892,Central,Violence Against The Person,2021/22,23066,2338,101.4
+1829,E05010893,Clifton,Violence Against The Person,2021/22,13337,192,14.4
+1830,E05010894,Clifton Down,Violence Against The Person,2021/22,11296,161,14.3
+1831,E05010895,Cotham,Violence Against The Person,2021/22,11720,183,15.6
+1832,E05010896,Easton,Violence Against The Person,2021/22,14340,597,41.6
+1833,E05010897,Eastville,Violence Against The Person,2021/22,14756,613,41.5
+1834,E05010898,Filwood,Violence Against The Person,2021/22,13824,760,55
+1835,E05010899,Frome Vale,Violence Against The Person,2021/22,13654,579,42.4
+1836,E05010900,Hartcliffe & Withywood,Violence Against The Person,2021/22,18839,1215,64.5
+1837,E05010901,Henbury & Brentry,Violence Against The Person,2021/22,12641,590,46.7
+1838,E05010902,Hengrove & Whitchurch Park,Violence Against The Person,2021/22,16948,764,45.1
+1839,E05010903,Hillfields,Violence Against The Person,2021/22,12906,368,28.5
+1840,E05010904,Horfield,Violence Against The Person,2021/22,13339,564,42.3
+1841,E05010905,Hotwells & Harbourside,Violence Against The Person,2021/22,7005,965,137.8
+1842,E05010906,Knowle,Violence Against The Person,2021/22,13252,402,30.3
+1843,E05010907,Lawrence Hill,Violence Against The Person,2021/22,20156,1310,65
+1844,E05010908,Lockleaze,Violence Against The Person,2021/22,13278,497,37.4
+1845,E05010909,Redland,Violence Against The Person,2021/22,12949,216,16.7
+1846,E05010910,St George Central,Violence Against The Person,2021/22,12876,395,30.7
+1847,E05010911,St George Troopers Hill,Violence Against The Person,2021/22,5740,106,18.5
+1848,E05010912,St George West,Violence Against The Person,2021/22,6579,252,38.3
+1849,E05010913,Southmead,Violence Against The Person,2021/22,12676,529,41.7
+1850,E05010914,Southville,Violence Against The Person,2021/22,12960,593,45.8
+1851,E05010915,Stockwood,Violence Against The Person,2021/22,11367,428,37.7
+1852,E05010916,Stoke Bishop,Violence Against The Person,2021/22,11948,219,18.3
+1853,E05010917,Westbury-on-Trym & Henleaze,Violence Against The Person,2021/22,19677,198,10.1
+1854,E05010918,Windmill Hill,Violence Against The Person,2021/22,13744,401,29.2
+1855,E06000023,Bristol Average,Violence Against The Person,2021/22,465866,19313,41.5
+1856,E05010885,Ashley,Violent & Sexual Offences,2021/22,19002,925,48.7
+1857,E05010886,Avonmouth & Lawrence Weston,Violent & Sexual Offences,2021/22,21361,1162,54.4
+1858,E05010887,Bedminster,Violent & Sexual Offences,2021/22,12568,462,36.8
+1859,E05010888,Bishopston & Ashley Down,Violent & Sexual Offences,2021/22,13290,289,21.7
+1860,E05010889,Bishopsworth,Violent & Sexual Offences,2021/22,11442,465,40.6
+1861,E05010890,Brislington East,Violent & Sexual Offences,2021/22,11767,397,33.7
+1862,E05010891,Brislington West,Violent & Sexual Offences,2021/22,11563,539,46.6
+1863,E05010892,Central,Violent & Sexual Offences,2021/22,23066,2575,111.6
+1864,E05010893,Clifton,Violent & Sexual Offences,2021/22,13337,218,16.3
+1865,E05010894,Clifton Down,Violent & Sexual Offences,2021/22,11296,186,16.5
+1866,E05010895,Cotham,Violent & Sexual Offences,2021/22,11720,207,17.7
+1867,E05010896,Easton,Violent & Sexual Offences,2021/22,14340,653,45.5
+1868,E05010897,Eastville,Violent & Sexual Offences,2021/22,14756,669,45.3
+1869,E05010898,Filwood,Violent & Sexual Offences,2021/22,13824,808,58.4
+1870,E05010899,Frome Vale,Violent & Sexual Offences,2021/22,13654,629,46.1
+1871,E05010900,Hartcliffe & Withywood,Violent & Sexual Offences,2021/22,18839,1300,69
+1872,E05010901,Henbury & Brentry,Violent & Sexual Offences,2021/22,12641,630,49.8
+1873,E05010902,Hengrove & Whitchurch Park,Violent & Sexual Offences,2021/22,16948,831,49
+1874,E05010903,Hillfields,Violent & Sexual Offences,2021/22,12906,414,32.1
+1875,E05010904,Horfield,Violent & Sexual Offences,2021/22,13339,621,46.6
+1876,E05010905,Hotwells & Harbourside,Violent & Sexual Offences,2021/22,7005,1078,153.9
+1877,E05010906,Knowle,Violent & Sexual Offences,2021/22,13252,426,32.1
+1878,E05010907,Lawrence Hill,Violent & Sexual Offences,2021/22,20156,1426,70.7
+1879,E05010908,Lockleaze,Violent & Sexual Offences,2021/22,13278,560,42.2
+1880,E05010909,Redland,Violent & Sexual Offences,2021/22,12949,241,18.6
+1881,E05010910,St George Central,Violent & Sexual Offences,2021/22,12876,424,32.9
+1882,E05010911,St George Troopers Hill,Violent & Sexual Offences,2021/22,5740,112,19.5
+1883,E05010912,St George West,Violent & Sexual Offences,2021/22,6579,276,42
+1884,E05010913,Southmead,Violent & Sexual Offences,2021/22,12676,582,45.9
+1885,E05010914,Southville,Violent & Sexual Offences,2021/22,12960,639,49.3
+1886,E05010915,Stockwood,Violent & Sexual Offences,2021/22,11367,457,40.2
+1887,E05010916,Stoke Bishop,Violent & Sexual Offences,2021/22,11948,245,20.5
+1888,E05010917,Westbury-on-Trym & Henleaze,Violent & Sexual Offences,2021/22,19677,218,11.1
+1889,E05010918,Windmill Hill,Violent & Sexual Offences,2021/22,13744,430,31.3
+1890,E06000023,Bristol Average,Violent & Sexual Offences,2021/22,465866,21094,45.3
+1891,E05010885,Ashley,All Crimes,2022/23,20002,2693,134.6
+1892,E05010886,Avonmouth & Lawrence Weston,All Crimes,2022/23,22169,2311,104.2
+1893,E05010887,Bedminster,All Crimes,2022/23,12916,1102,85.3
+1894,E05010888,Bishopston & Ashley Down,All Crimes,2022/23,13304,708,53.2
+1895,E05010889,Bishopsworth,All Crimes,2022/23,12274,1138,92.7
+1896,E05010890,Brislington East,All Crimes,2022/23,12146,990,81.5
+1897,E05010891,Brislington West,All Crimes,2022/23,11880,1400,117.8
+1898,E05010892,Central,All Crimes,2022/23,18391,8765,476.6
+1899,E05010893,Clifton,All Crimes,2022/23,13022,825,63.4
+1900,E05010894,Clifton Down,All Crimes,2022/23,11419,725,63.5
+1901,E05010895,Cotham,All Crimes,2022/23,11522,641,55.6
+1902,E05010896,Easton,All Crimes,2022/23,14167,1586,112
+1903,E05010897,Eastville,All Crimes,2022/23,14863,1920,129.2
+1904,E05010898,Filwood,All Crimes,2022/23,14299,1631,114.1
+1905,E05010899,Frome Vale,All Crimes,2022/23,14057,1285,91.4
+1906,E05010900,Hartcliffe & Withywood,All Crimes,2022/23,19056,2500,131.2
+1907,E05010901,Henbury & Brentry,All Crimes,2022/23,13208,1285,97.3
+1908,E05010902,Hengrove & Whitchurch Park,All Crimes,2022/23,18711,1834,98
+1909,E05010903,Hillfields,All Crimes,2022/23,13153,869,66.1
+1910,E05010904,Horfield,All Crimes,2022/23,13838,1505,108.8
+1911,E05010905,Hotwells & Harbourside,All Crimes,2022/23,6037,2215,366.9
+1912,E05010906,Knowle,All Crimes,2022/23,14047,1009,71.8
+1913,E05010907,Lawrence Hill,All Crimes,2022/23,19604,3978,202.9
+1914,E05010908,Lockleaze,All Crimes,2022/23,13396,1591,118.8
+1915,E05010909,Redland,All Crimes,2022/23,13251,605,45.7
+1916,E05010910,St George Central,All Crimes,2022/23,12984,986,75.9
+1917,E05010911,St George Troopers Hill,All Crimes,2022/23,6459,234,36.2
+1918,E05010912,St George West,All Crimes,2022/23,6891,860,124.8
+1919,E05010913,Southmead,All Crimes,2022/23,13194,1268,96.1
+1920,E05010914,Southville,All Crimes,2022/23,12882,1870,145.2
+1921,E05010915,Stockwood,All Crimes,2022/23,11880,873,73.5
+1922,E05010916,Stoke Bishop,All Crimes,2022/23,13067,587,44.9
+1923,E05010917,Westbury-on-Trym & Henleaze,All Crimes,2022/23,20423,980,48
+1924,E05010918,Windmill Hill,All Crimes,2022/23,13958,986,70.6
+1925,E06000023,Bristol Average,All Crimes,2022/23,472470,53755,113.8
+1926,E05010885,Ashley,Anti-Social Behaviour incidents (total),2022/23,20002,469,23.4
+1927,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour incidents (total),2022/23,22169,428,19.3
+1928,E05010887,Bedminster,Anti-Social Behaviour incidents (total),2022/23,12916,162,12.5
+1929,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour incidents (total),2022/23,13304,78,5.9
+1930,E05010889,Bishopsworth,Anti-Social Behaviour incidents (total),2022/23,12274,156,12.7
+1931,E05010890,Brislington East,Anti-Social Behaviour incidents (total),2022/23,12146,170,14
+1932,E05010891,Brislington West,Anti-Social Behaviour incidents (total),2022/23,11880,193,16.2
+1933,E05010892,Central,Anti-Social Behaviour incidents (total),2022/23,18391,1629,88.6
+1934,E05010893,Clifton,Anti-Social Behaviour incidents (total),2022/23,13022,117,9
+1935,E05010894,Clifton Down,Anti-Social Behaviour incidents (total),2022/23,11419,88,7.7
+1936,E05010895,Cotham,Anti-Social Behaviour incidents (total),2022/23,11522,79,6.9
+1937,E05010896,Easton,Anti-Social Behaviour incidents (total),2022/23,14167,233,16.4
+1938,E05010897,Eastville,Anti-Social Behaviour incidents (total),2022/23,14863,270,18.2
+1939,E05010898,Filwood,Anti-Social Behaviour incidents (total),2022/23,14299,327,22.9
+1940,E05010899,Frome Vale,Anti-Social Behaviour incidents (total),2022/23,14057,220,15.7
+1941,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour incidents (total),2022/23,19056,632,33.2
+1942,E05010901,Henbury & Brentry,Anti-Social Behaviour incidents (total),2022/23,13208,278,21
+1943,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour incidents (total),2022/23,18711,392,21
+1944,E05010903,Hillfields,Anti-Social Behaviour incidents (total),2022/23,13153,154,11.7
+1945,E05010904,Horfield,Anti-Social Behaviour incidents (total),2022/23,13838,166,12
+1946,E05010905,Hotwells & Harbourside,Anti-Social Behaviour incidents (total),2022/23,6037,268,44.4
+1947,E05010906,Knowle,Anti-Social Behaviour incidents (total),2022/23,14047,201,14.3
+1948,E05010907,Lawrence Hill,Anti-Social Behaviour incidents (total),2022/23,19604,730,37.2
+1949,E05010908,Lockleaze,Anti-Social Behaviour incidents (total),2022/23,13396,262,19.6
+1950,E05010909,Redland,Anti-Social Behaviour incidents (total),2022/23,13251,57,4.3
+1951,E05010910,St George Central,Anti-Social Behaviour incidents (total),2022/23,12984,168,12.9
+1952,E05010911,St George Troopers Hill,Anti-Social Behaviour incidents (total),2022/23,6459,29,4.5
+1953,E05010912,St George West,Anti-Social Behaviour incidents (total),2022/23,6891,137,19.9
+1954,E05010913,Southmead,Anti-Social Behaviour incidents (total),2022/23,13194,218,16.5
+1955,E05010914,Southville,Anti-Social Behaviour incidents (total),2022/23,12882,316,24.5
+1956,E05010915,Stockwood,Anti-Social Behaviour incidents (total),2022/23,11880,138,11.6
+1957,E05010916,Stoke Bishop,Anti-Social Behaviour incidents (total),2022/23,13067,136,10.4
+1958,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour incidents (total),2022/23,20423,98,4.8
+1959,E05010918,Windmill Hill,Anti-Social Behaviour incidents (total),2022/23,13958,108,7.7
+1960,E06000023,Bristol Average,Anti-Social Behaviour incidents (total),2022/23,472470,9107,19.3
+1961,E05010885,Ashley,Anti-Social Behaviour - Environmental incidents,2022/23,20002,29,1.4
+1962,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Environmental incidents,2022/23,22169,15,0.7
+1963,E05010887,Bedminster,Anti-Social Behaviour - Environmental incidents,2022/23,12916,9,0.7
+1964,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Environmental incidents,2022/23,13304,4,0.3
+1965,E05010889,Bishopsworth,Anti-Social Behaviour - Environmental incidents,2022/23,12274,7,0.6
+1966,E05010890,Brislington East,Anti-Social Behaviour - Environmental incidents,2022/23,12146,7,0.6
+1967,E05010891,Brislington West,Anti-Social Behaviour - Environmental incidents,2022/23,11880,6,0.5
+1968,E05010892,Central,Anti-Social Behaviour - Environmental incidents,2022/23,18391,43,2.3
+1969,E05010893,Clifton,Anti-Social Behaviour - Environmental incidents,2022/23,13022,5,0.4
+1970,E05010894,Clifton Down,Anti-Social Behaviour - Environmental incidents,2022/23,11419,5,0.4
+1971,E05010895,Cotham,Anti-Social Behaviour - Environmental incidents,2022/23,11522,6,0.5
+1972,E05010896,Easton,Anti-Social Behaviour - Environmental incidents,2022/23,14167,12,0.8
+1973,E05010897,Eastville,Anti-Social Behaviour - Environmental incidents,2022/23,14863,14,0.9
+1974,E05010898,Filwood,Anti-Social Behaviour - Environmental incidents,2022/23,14299,8,0.6
+1975,E05010899,Frome Vale,Anti-Social Behaviour - Environmental incidents,2022/23,14057,7,0.5
+1976,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Environmental incidents,2022/23,19056,22,1.2
+1977,E05010901,Henbury & Brentry,Anti-Social Behaviour - Environmental incidents,2022/23,13208,6,0.5
+1978,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Environmental incidents,2022/23,18711,8,0.4
+1979,E05010903,Hillfields,Anti-Social Behaviour - Environmental incidents,2022/23,13153,8,0.6
+1980,E05010904,Horfield,Anti-Social Behaviour - Environmental incidents,2022/23,13838,4,0.3
+1981,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Environmental incidents,2022/23,6037,7,1.2
+1982,E05010906,Knowle,Anti-Social Behaviour - Environmental incidents,2022/23,14047,7,0.5
+1983,E05010907,Lawrence Hill,Anti-Social Behaviour - Environmental incidents,2022/23,19604,44,2.2
+1984,E05010908,Lockleaze,Anti-Social Behaviour - Environmental incidents,2022/23,13396,9,0.7
+1985,E05010909,Redland,Anti-Social Behaviour - Environmental incidents,2022/23,13251,1,0.1
+1986,E05010910,St George Central,Anti-Social Behaviour - Environmental incidents,2022/23,12984,4,0.3
+1987,E05010911,St George Troopers Hill,Anti-Social Behaviour - Environmental incidents,2022/23,6459,1,0.2
+1988,E05010912,St George West,Anti-Social Behaviour - Environmental incidents,2022/23,6891,3,0.4
+1989,E05010913,Southmead,Anti-Social Behaviour - Environmental incidents,2022/23,13194,6,0.5
+1990,E05010914,Southville,Anti-Social Behaviour - Environmental incidents,2022/23,12882,9,0.7
+1991,E05010915,Stockwood,Anti-Social Behaviour - Environmental incidents,2022/23,11880,8,0.7
+1992,E05010916,Stoke Bishop,Anti-Social Behaviour - Environmental incidents,2022/23,13067,5,0.4
+1993,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Environmental incidents,2022/23,20423,0,0
+1994,E05010918,Windmill Hill,Anti-Social Behaviour - Environmental incidents,2022/23,13958,3,0.2
+1995,E06000023,Bristol Average,Anti-Social Behaviour - Environmental incidents,2022/23,472470,332,0.7
+1996,E05010885,Ashley,Anti-Social Behaviour - Nuisance incidents,2022/23,20002,398,19.9
+1997,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Nuisance incidents,2022/23,22169,328,14.8
+1998,E05010887,Bedminster,Anti-Social Behaviour - Nuisance incidents,2022/23,12916,111,8.6
+1999,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Nuisance incidents,2022/23,13304,64,4.8
+2000,E05010889,Bishopsworth,Anti-Social Behaviour - Nuisance incidents,2022/23,12274,130,10.6
+2001,E05010890,Brislington East,Anti-Social Behaviour - Nuisance incidents,2022/23,12146,135,11.1
+2002,E05010891,Brislington West,Anti-Social Behaviour - Nuisance incidents,2022/23,11880,160,13.5
+2003,E05010892,Central,Anti-Social Behaviour - Nuisance incidents,2022/23,18391,1518,82.5
+2004,E05010893,Clifton,Anti-Social Behaviour - Nuisance incidents,2022/23,13022,90,6.9
+2005,E05010894,Clifton Down,Anti-Social Behaviour - Nuisance incidents,2022/23,11419,72,6.3
+2006,E05010895,Cotham,Anti-Social Behaviour - Nuisance incidents,2022/23,11522,58,5
+2007,E05010896,Easton,Anti-Social Behaviour - Nuisance incidents,2022/23,14167,187,13.2
+2008,E05010897,Eastville,Anti-Social Behaviour - Nuisance incidents,2022/23,14863,199,13.4
+2009,E05010898,Filwood,Anti-Social Behaviour - Nuisance incidents,2022/23,14299,270,18.9
+2010,E05010899,Frome Vale,Anti-Social Behaviour - Nuisance incidents,2022/23,14057,167,11.9
+2011,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Nuisance incidents,2022/23,19056,491,25.8
+2012,E05010901,Henbury & Brentry,Anti-Social Behaviour - Nuisance incidents,2022/23,13208,226,17.1
+2013,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Nuisance incidents,2022/23,18711,324,17.3
+2014,E05010903,Hillfields,Anti-Social Behaviour - Nuisance incidents,2022/23,13153,115,8.7
+2015,E05010904,Horfield,Anti-Social Behaviour - Nuisance incidents,2022/23,13838,130,9.4
+2016,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Nuisance incidents,2022/23,6037,247,40.9
+2017,E05010906,Knowle,Anti-Social Behaviour - Nuisance incidents,2022/23,14047,164,11.7
+2018,E05010907,Lawrence Hill,Anti-Social Behaviour - Nuisance incidents,2022/23,19604,615,31.4
+2019,E05010908,Lockleaze,Anti-Social Behaviour - Nuisance incidents,2022/23,13396,215,16
+2020,E05010909,Redland,Anti-Social Behaviour - Nuisance incidents,2022/23,13251,49,3.7
+2021,E05010910,St George Central,Anti-Social Behaviour - Nuisance incidents,2022/23,12984,126,9.7
+2022,E05010911,St George Troopers Hill,Anti-Social Behaviour - Nuisance incidents,2022/23,6459,24,3.7
+2023,E05010912,St George West,Anti-Social Behaviour - Nuisance incidents,2022/23,6891,122,17.7
+2024,E05010913,Southmead,Anti-Social Behaviour - Nuisance incidents,2022/23,13194,154,11.7
+2025,E05010914,Southville,Anti-Social Behaviour - Nuisance incidents,2022/23,12882,264,20.5
+2026,E05010915,Stockwood,Anti-Social Behaviour - Nuisance incidents,2022/23,11880,95,8
+2027,E05010916,Stoke Bishop,Anti-Social Behaviour - Nuisance incidents,2022/23,13067,106,8.1
+2028,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Nuisance incidents,2022/23,20423,88,4.3
+2029,E05010918,Windmill Hill,Anti-Social Behaviour - Nuisance incidents,2022/23,13958,87,6.2
+2030,E06000023,Bristol Average,Anti-Social Behaviour - Nuisance incidents,2022/23,472470,7529,15.9
+2031,E05010885,Ashley,Anti-Social Behaviour - Personal incidents,2022/23,20002,41,2
+2032,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Personal incidents,2022/23,22169,84,3.8
+2033,E05010887,Bedminster,Anti-Social Behaviour - Personal incidents,2022/23,12916,42,3.3
+2034,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Personal incidents,2022/23,13304,10,0.8
+2035,E05010889,Bishopsworth,Anti-Social Behaviour - Personal incidents,2022/23,12274,19,1.5
+2036,E05010890,Brislington East,Anti-Social Behaviour - Personal incidents,2022/23,12146,26,2.1
+2037,E05010891,Brislington West,Anti-Social Behaviour - Personal incidents,2022/23,11880,26,2.2
+2038,E05010892,Central,Anti-Social Behaviour - Personal incidents,2022/23,18391,64,3.5
+2039,E05010893,Clifton,Anti-Social Behaviour - Personal incidents,2022/23,13022,20,1.5
+2040,E05010894,Clifton Down,Anti-Social Behaviour - Personal incidents,2022/23,11419,10,0.9
+2041,E05010895,Cotham,Anti-Social Behaviour - Personal incidents,2022/23,11522,15,1.3
+2042,E05010896,Easton,Anti-Social Behaviour - Personal incidents,2022/23,14167,33,2.3
+2043,E05010897,Eastville,Anti-Social Behaviour - Personal incidents,2022/23,14863,56,3.8
+2044,E05010898,Filwood,Anti-Social Behaviour - Personal incidents,2022/23,14299,47,3.3
+2045,E05010899,Frome Vale,Anti-Social Behaviour - Personal incidents,2022/23,14057,46,3.3
+2046,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Personal incidents,2022/23,19056,117,6.1
+2047,E05010901,Henbury & Brentry,Anti-Social Behaviour - Personal incidents,2022/23,13208,45,3.4
+2048,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Personal incidents,2022/23,18711,58,3.1
+2049,E05010903,Hillfields,Anti-Social Behaviour - Personal incidents,2022/23,13153,31,2.4
+2050,E05010904,Horfield,Anti-Social Behaviour - Personal incidents,2022/23,13838,30,2.2
+2051,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Personal incidents,2022/23,6037,12,2
+2052,E05010906,Knowle,Anti-Social Behaviour - Personal incidents,2022/23,14047,30,2.1
+2053,E05010907,Lawrence Hill,Anti-Social Behaviour - Personal incidents,2022/23,19604,69,3.5
+2054,E05010908,Lockleaze,Anti-Social Behaviour - Personal incidents,2022/23,13396,38,2.8
+2055,E05010909,Redland,Anti-Social Behaviour - Personal incidents,2022/23,13251,7,0.5
+2056,E05010910,St George Central,Anti-Social Behaviour - Personal incidents,2022/23,12984,38,2.9
+2057,E05010911,St George Troopers Hill,Anti-Social Behaviour - Personal incidents,2022/23,6459,4,0.6
+2058,E05010912,St George West,Anti-Social Behaviour - Personal incidents,2022/23,6891,12,1.7
+2059,E05010913,Southmead,Anti-Social Behaviour - Personal incidents,2022/23,13194,58,4.4
+2060,E05010914,Southville,Anti-Social Behaviour - Personal incidents,2022/23,12882,43,3.3
+2061,E05010915,Stockwood,Anti-Social Behaviour - Personal incidents,2022/23,11880,35,2.9
+2062,E05010916,Stoke Bishop,Anti-Social Behaviour - Personal incidents,2022/23,13067,25,1.9
+2063,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Personal incidents,2022/23,20423,8,0.4
+2064,E05010918,Windmill Hill,Anti-Social Behaviour - Personal incidents,2022/23,13958,18,1.3
+2065,E06000023,Bristol Average,Anti-Social Behaviour - Personal incidents,2022/23,472470,1217,2.6
+2066,E05010885,Ashley,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,20002,1,0
+2067,E05010886,Avonmouth & Lawrence Weston,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,22169,1,0
+2068,E05010887,Bedminster,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,12916,0,0
+2069,E05010888,Bishopston & Ashley Down,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13304,0,0
+2070,E05010889,Bishopsworth,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,12274,0,0
+2071,E05010890,Brislington East,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,12146,2,0.2
+2072,E05010891,Brislington West,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,11880,1,0.1
+2073,E05010892,Central,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,18391,4,0.2
+2074,E05010893,Clifton,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13022,2,0.2
+2075,E05010894,Clifton Down,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,11419,1,0.1
+2076,E05010895,Cotham,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,11522,0,0
+2077,E05010896,Easton,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,14167,1,0.1
+2078,E05010897,Eastville,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,14863,1,0.1
+2079,E05010898,Filwood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,14299,2,0.1
+2080,E05010899,Frome Vale,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,14057,0,0
+2081,E05010900,Hartcliffe & Withywood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,19056,2,0.1
+2082,E05010901,Henbury & Brentry,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13208,1,0.1
+2083,E05010902,Hengrove & Whitchurch Park,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,18711,2,0.1
+2084,E05010903,Hillfields,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13153,0,0
+2085,E05010904,Horfield,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13838,2,0.1
+2086,E05010905,Hotwells & Harbourside,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,6037,2,0.3
+2087,E05010906,Knowle,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,14047,0,0
+2088,E05010907,Lawrence Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,19604,2,0.1
+2089,E05010908,Lockleaze,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13396,0,0
+2090,E05010909,Redland,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13251,0,0
+2091,E05010910,St George Central,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,12984,0,0
+2092,E05010911,St George Troopers Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,6459,0,0
+2093,E05010912,St George West,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,6891,0,0
+2094,E05010913,Southmead,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13194,0,0
+2095,E05010914,Southville,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,12882,0,0
+2096,E05010915,Stockwood,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,11880,0,0
+2097,E05010916,Stoke Bishop,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13067,0,0
+2098,E05010917,Westbury-on-Trym & Henleaze,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,20423,2,0.1
+2099,E05010918,Windmill Hill,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,13958,0,0
+2100,E06000023,Bristol Average,Anti-Social Behaviour - Hoax Calls to Emergency Services,2022/23,472470,29,0.1
+2101,E05010885,Ashley,Arson and Criminal Damage,2022/23,20002,290,14.5
+2102,E05010886,Avonmouth & Lawrence Weston,Arson and Criminal Damage,2022/23,22169,283,12.8
+2103,E05010887,Bedminster,Arson and Criminal Damage,2022/23,12916,106,8.2
+2104,E05010888,Bishopston & Ashley Down,Arson and Criminal Damage,2022/23,13304,55,4.1
+2105,E05010889,Bishopsworth,Arson and Criminal Damage,2022/23,12274,118,9.6
+2106,E05010890,Brislington East,Arson and Criminal Damage,2022/23,12146,122,10
+2107,E05010891,Brislington West,Arson and Criminal Damage,2022/23,11880,108,9.1
+2108,E05010892,Central,Arson and Criminal Damage,2022/23,18391,671,36.5
+2109,E05010893,Clifton,Arson and Criminal Damage,2022/23,13022,99,7.6
+2110,E05010894,Clifton Down,Arson and Criminal Damage,2022/23,11419,93,8.1
+2111,E05010895,Cotham,Arson and Criminal Damage,2022/23,11522,76,6.6
+2112,E05010896,Easton,Arson and Criminal Damage,2022/23,14167,175,12.4
+2113,E05010897,Eastville,Arson and Criminal Damage,2022/23,14863,170,11.4
+2114,E05010898,Filwood,Arson and Criminal Damage,2022/23,14299,242,16.9
+2115,E05010899,Frome Vale,Arson and Criminal Damage,2022/23,14057,85,6
+2116,E05010900,Hartcliffe & Withywood,Arson and Criminal Damage,2022/23,19056,287,15.1
+2117,E05010901,Henbury & Brentry,Arson and Criminal Damage,2022/23,13208,158,12
+2118,E05010902,Hengrove & Whitchurch Park,Arson and Criminal Damage,2022/23,18711,209,11.2
+2119,E05010903,Hillfields,Arson and Criminal Damage,2022/23,13153,65,4.9
+2120,E05010904,Horfield,Arson and Criminal Damage,2022/23,13838,137,9.9
+2121,E05010905,Hotwells & Harbourside,Arson and Criminal Damage,2022/23,6037,130,21.5
+2122,E05010906,Knowle,Arson and Criminal Damage,2022/23,14047,106,7.5
+2123,E05010907,Lawrence Hill,Arson and Criminal Damage,2022/23,19604,422,21.5
+2124,E05010908,Lockleaze,Arson and Criminal Damage,2022/23,13396,133,9.9
+2125,E05010909,Redland,Arson and Criminal Damage,2022/23,13251,56,4.2
+2126,E05010910,St George Central,Arson and Criminal Damage,2022/23,12984,85,6.5
+2127,E05010911,St George Troopers Hill,Arson and Criminal Damage,2022/23,6459,19,2.9
+2128,E05010912,St George West,Arson and Criminal Damage,2022/23,6891,50,7.3
+2129,E05010913,Southmead,Arson and Criminal Damage,2022/23,13194,137,10.4
+2130,E05010914,Southville,Arson and Criminal Damage,2022/23,12882,181,14.1
+2131,E05010915,Stockwood,Arson and Criminal Damage,2022/23,11880,84,7.1
+2132,E05010916,Stoke Bishop,Arson and Criminal Damage,2022/23,13067,85,6.5
+2133,E05010917,Westbury-on-Trym & Henleaze,Arson and Criminal Damage,2022/23,20423,64,3.1
+2134,E05010918,Windmill Hill,Arson and Criminal Damage,2022/23,13958,108,7.7
+2135,E06000023,Bristol Average,Arson and Criminal Damage,2022/23,472470,5209,11
+2136,E05010885,Ashley,Burglary,2022/23,20002,127,6.3
+2137,E05010886,Avonmouth & Lawrence Weston,Burglary,2022/23,22169,87,3.9
+2138,E05010887,Bedminster,Burglary,2022/23,12916,54,4.2
+2139,E05010888,Bishopston & Ashley Down,Burglary,2022/23,13304,49,3.7
+2140,E05010889,Bishopsworth,Burglary,2022/23,12274,66,5.4
+2141,E05010890,Brislington East,Burglary,2022/23,12146,61,5
+2142,E05010891,Brislington West,Burglary,2022/23,11880,36,3
+2143,E05010892,Central,Burglary,2022/23,18391,295,16
+2144,E05010893,Clifton,Burglary,2022/23,13022,46,3.5
+2145,E05010894,Clifton Down,Burglary,2022/23,11419,47,4.1
+2146,E05010895,Cotham,Burglary,2022/23,11522,66,5.7
+2147,E05010896,Easton,Burglary,2022/23,14167,80,5.6
+2148,E05010897,Eastville,Burglary,2022/23,14863,109,7.3
+2149,E05010898,Filwood,Burglary,2022/23,14299,62,4.3
+2150,E05010899,Frome Vale,Burglary,2022/23,14057,73,5.2
+2151,E05010900,Hartcliffe & Withywood,Burglary,2022/23,19056,101,5.3
+2152,E05010901,Henbury & Brentry,Burglary,2022/23,13208,36,2.7
+2153,E05010902,Hengrove & Whitchurch Park,Burglary,2022/23,18711,78,4.2
+2154,E05010903,Hillfields,Burglary,2022/23,13153,39,3
+2155,E05010904,Horfield,Burglary,2022/23,13838,79,5.7
+2156,E05010905,Hotwells & Harbourside,Burglary,2022/23,6037,80,13.3
+2157,E05010906,Knowle,Burglary,2022/23,14047,35,2.5
+2158,E05010907,Lawrence Hill,Burglary,2022/23,19604,184,9.4
+2159,E05010908,Lockleaze,Burglary,2022/23,13396,49,3.7
+2160,E05010909,Redland,Burglary,2022/23,13251,80,6
+2161,E05010910,St George Central,Burglary,2022/23,12984,71,5.5
+2162,E05010911,St George Troopers Hill,Burglary,2022/23,6459,14,2.2
+2163,E05010912,St George West,Burglary,2022/23,6891,39,5.7
+2164,E05010913,Southmead,Burglary,2022/23,13194,54,4.1
+2165,E05010914,Southville,Burglary,2022/23,12882,106,8.2
+2166,E05010915,Stockwood,Burglary,2022/23,11880,50,4.2
+2167,E05010916,Stoke Bishop,Burglary,2022/23,13067,42,3.2
+2168,E05010917,Westbury-on-Trym & Henleaze,Burglary,2022/23,20423,70,3.4
+2169,E05010918,Windmill Hill,Burglary,2022/23,13958,52,3.7
+2170,E06000023,Bristol Average,Burglary,2022/23,472470,2517,5.3
+2171,E05010885,Ashley,Drug Offences,2022/23,20002,88,4.4
+2172,E05010886,Avonmouth & Lawrence Weston,Drug Offences,2022/23,22169,23,1
+2173,E05010887,Bedminster,Drug Offences,2022/23,12916,10,0.8
+2174,E05010888,Bishopston & Ashley Down,Drug Offences,2022/23,13304,16,1.2
+2175,E05010889,Bishopsworth,Drug Offences,2022/23,12274,15,1.2
+2176,E05010890,Brislington East,Drug Offences,2022/23,12146,15,1.2
+2177,E05010891,Brislington West,Drug Offences,2022/23,11880,18,1.5
+2178,E05010892,Central,Drug Offences,2022/23,18391,228,12.4
+2179,E05010893,Clifton,Drug Offences,2022/23,13022,8,0.6
+2180,E05010894,Clifton Down,Drug Offences,2022/23,11419,6,0.5
+2181,E05010895,Cotham,Drug Offences,2022/23,11522,8,0.7
+2182,E05010896,Easton,Drug Offences,2022/23,14167,29,2
+2183,E05010897,Eastville,Drug Offences,2022/23,14863,33,2.2
+2184,E05010898,Filwood,Drug Offences,2022/23,14299,33,2.3
+2185,E05010899,Frome Vale,Drug Offences,2022/23,14057,20,1.4
+2186,E05010900,Hartcliffe & Withywood,Drug Offences,2022/23,19056,50,2.6
+2187,E05010901,Henbury & Brentry,Drug Offences,2022/23,13208,17,1.3
+2188,E05010902,Hengrove & Whitchurch Park,Drug Offences,2022/23,18711,30,1.6
+2189,E05010903,Hillfields,Drug Offences,2022/23,13153,19,1.4
+2190,E05010904,Horfield,Drug Offences,2022/23,13838,20,1.4
+2191,E05010905,Hotwells & Harbourside,Drug Offences,2022/23,6037,56,9.3
+2192,E05010906,Knowle,Drug Offences,2022/23,14047,21,1.5
+2193,E05010907,Lawrence Hill,Drug Offences,2022/23,19604,135,6.9
+2194,E05010908,Lockleaze,Drug Offences,2022/23,13396,33,2.5
+2195,E05010909,Redland,Drug Offences,2022/23,13251,6,0.5
+2196,E05010910,St George Central,Drug Offences,2022/23,12984,19,1.5
+2197,E05010911,St George Troopers Hill,Drug Offences,2022/23,6459,3,0.5
+2198,E05010912,St George West,Drug Offences,2022/23,6891,11,1.6
+2199,E05010913,Southmead,Drug Offences,2022/23,13194,50,3.8
+2200,E05010914,Southville,Drug Offences,2022/23,12882,33,2.6
+2201,E05010915,Stockwood,Drug Offences,2022/23,11880,8,0.7
+2202,E05010916,Stoke Bishop,Drug Offences,2022/23,13067,14,1.1
+2203,E05010917,Westbury-on-Trym & Henleaze,Drug Offences,2022/23,20423,11,0.5
+2204,E05010918,Windmill Hill,Drug Offences,2022/23,13958,21,1.5
+2205,E06000023,Bristol Average,Drug Offences,2022/23,472470,1107,2.3
+2206,E05010885,Ashley,Fraud,2022/23,20002,1,0
+2207,E05010886,Avonmouth & Lawrence Weston,Fraud,2022/23,22169,0,0
+2208,E05010887,Bedminster,Fraud,2022/23,12916,0,0
+2209,E05010888,Bishopston & Ashley Down,Fraud,2022/23,13304,0,0
+2210,E05010889,Bishopsworth,Fraud,2022/23,12274,1,0.1
+2211,E05010890,Brislington East,Fraud,2022/23,12146,0,0
+2212,E05010891,Brislington West,Fraud,2022/23,11880,0,0
+2213,E05010892,Central,Fraud,2022/23,18391,0,0
+2214,E05010893,Clifton,Fraud,2022/23,13022,0,0
+2215,E05010894,Clifton Down,Fraud,2022/23,11419,0,0
+2216,E05010895,Cotham,Fraud,2022/23,11522,0,0
+2217,E05010896,Easton,Fraud,2022/23,14167,0,0
+2218,E05010897,Eastville,Fraud,2022/23,14863,0,0
+2219,E05010898,Filwood,Fraud,2022/23,14299,0,0
+2220,E05010899,Frome Vale,Fraud,2022/23,14057,0,0
+2221,E05010900,Hartcliffe & Withywood,Fraud,2022/23,19056,0,0
+2222,E05010901,Henbury & Brentry,Fraud,2022/23,13208,0,0
+2223,E05010902,Hengrove & Whitchurch Park,Fraud,2022/23,18711,1,0.1
+2224,E05010903,Hillfields,Fraud,2022/23,13153,0,0
+2225,E05010904,Horfield,Fraud,2022/23,13838,0,0
+2226,E05010905,Hotwells & Harbourside,Fraud,2022/23,6037,1,0.2
+2227,E05010906,Knowle,Fraud,2022/23,14047,0,0
+2228,E05010907,Lawrence Hill,Fraud,2022/23,19604,1,0.1
+2229,E05010908,Lockleaze,Fraud,2022/23,13396,0,0
+2230,E05010909,Redland,Fraud,2022/23,13251,0,0
+2231,E05010910,St George Central,Fraud,2022/23,12984,0,0
+2232,E05010911,St George Troopers Hill,Fraud,2022/23,6459,0,0
+2233,E05010912,St George West,Fraud,2022/23,6891,0,0
+2234,E05010913,Southmead,Fraud,2022/23,13194,0,0
+2235,E05010914,Southville,Fraud,2022/23,12882,1,0.1
+2236,E05010915,Stockwood,Fraud,2022/23,11880,0,0
+2237,E05010916,Stoke Bishop,Fraud,2022/23,13067,0,0
+2238,E05010917,Westbury-on-Trym & Henleaze,Fraud,2022/23,20423,0,0
+2239,E05010918,Windmill Hill,Fraud,2022/23,13958,0,0
+2240,E06000023,Bristol Average,Fraud,2022/23,472470,6,0
+2241,E05010885,Ashley,Miscellaneous Crimes Against Society,2022/23,20002,38,1.9
+2242,E05010886,Avonmouth & Lawrence Weston,Miscellaneous Crimes Against Society,2022/23,22169,41,1.8
+2243,E05010887,Bedminster,Miscellaneous Crimes Against Society,2022/23,12916,19,1.5
+2244,E05010888,Bishopston & Ashley Down,Miscellaneous Crimes Against Society,2022/23,13304,68,5.1
+2245,E05010889,Bishopsworth,Miscellaneous Crimes Against Society,2022/23,12274,12,1
+2246,E05010890,Brislington East,Miscellaneous Crimes Against Society,2022/23,12146,14,1.2
+2247,E05010891,Brislington West,Miscellaneous Crimes Against Society,2022/23,11880,22,1.9
+2248,E05010892,Central,Miscellaneous Crimes Against Society,2022/23,18391,44,2.4
+2249,E05010893,Clifton,Miscellaneous Crimes Against Society,2022/23,13022,1,0.1
+2250,E05010894,Clifton Down,Miscellaneous Crimes Against Society,2022/23,11419,4,0.4
+2251,E05010895,Cotham,Miscellaneous Crimes Against Society,2022/23,11522,3,0.3
+2252,E05010896,Easton,Miscellaneous Crimes Against Society,2022/23,14167,22,1.6
+2253,E05010897,Eastville,Miscellaneous Crimes Against Society,2022/23,14863,53,3.6
+2254,E05010898,Filwood,Miscellaneous Crimes Against Society,2022/23,14299,57,4
+2255,E05010899,Frome Vale,Miscellaneous Crimes Against Society,2022/23,14057,12,0.9
+2256,E05010900,Hartcliffe & Withywood,Miscellaneous Crimes Against Society,2022/23,19056,63,3.3
+2257,E05010901,Henbury & Brentry,Miscellaneous Crimes Against Society,2022/23,13208,19,1.4
+2258,E05010902,Hengrove & Whitchurch Park,Miscellaneous Crimes Against Society,2022/23,18711,41,2.2
+2259,E05010903,Hillfields,Miscellaneous Crimes Against Society,2022/23,13153,13,1
+2260,E05010904,Horfield,Miscellaneous Crimes Against Society,2022/23,13838,19,1.4
+2261,E05010905,Hotwells & Harbourside,Miscellaneous Crimes Against Society,2022/23,6037,8,1.3
+2262,E05010906,Knowle,Miscellaneous Crimes Against Society,2022/23,14047,24,1.7
+2263,E05010907,Lawrence Hill,Miscellaneous Crimes Against Society,2022/23,19604,55,2.8
+2264,E05010908,Lockleaze,Miscellaneous Crimes Against Society,2022/23,13396,18,1.3
+2265,E05010909,Redland,Miscellaneous Crimes Against Society,2022/23,13251,10,0.8
+2266,E05010910,St George Central,Miscellaneous Crimes Against Society,2022/23,12984,17,1.3
+2267,E05010911,St George Troopers Hill,Miscellaneous Crimes Against Society,2022/23,6459,2,0.3
+2268,E05010912,St George West,Miscellaneous Crimes Against Society,2022/23,6891,5,0.7
+2269,E05010913,Southmead,Miscellaneous Crimes Against Society,2022/23,13194,29,2.2
+2270,E05010914,Southville,Miscellaneous Crimes Against Society,2022/23,12882,12,0.9
+2271,E05010915,Stockwood,Miscellaneous Crimes Against Society,2022/23,11880,20,1.7
+2272,E05010916,Stoke Bishop,Miscellaneous Crimes Against Society,2022/23,13067,14,1.1
+2273,E05010917,Westbury-on-Trym & Henleaze,Miscellaneous Crimes Against Society,2022/23,20423,2,0.1
+2274,E05010918,Windmill Hill,Miscellaneous Crimes Against Society,2022/23,13958,14,1
+2275,E06000023,Bristol Average,Miscellaneous Crimes Against Society,2022/23,472470,795,1.7
+2276,E05010885,Ashley,Possession of Weapons,2022/23,20002,28,1.4
+2277,E05010886,Avonmouth & Lawrence Weston,Possession of Weapons,2022/23,22169,12,0.5
+2278,E05010887,Bedminster,Possession of Weapons,2022/23,12916,6,0.5
+2279,E05010888,Bishopston & Ashley Down,Possession of Weapons,2022/23,13304,5,0.4
+2280,E05010889,Bishopsworth,Possession of Weapons,2022/23,12274,9,0.7
+2281,E05010890,Brislington East,Possession of Weapons,2022/23,12146,5,0.4
+2282,E05010891,Brislington West,Possession of Weapons,2022/23,11880,8,0.7
+2283,E05010892,Central,Possession of Weapons,2022/23,18391,75,4.1
+2284,E05010893,Clifton,Possession of Weapons,2022/23,13022,5,0.4
+2285,E05010894,Clifton Down,Possession of Weapons,2022/23,11419,2,0.2
+2286,E05010895,Cotham,Possession of Weapons,2022/23,11522,3,0.3
+2287,E05010896,Easton,Possession of Weapons,2022/23,14167,13,0.9
+2288,E05010897,Eastville,Possession of Weapons,2022/23,14863,18,1.2
+2289,E05010898,Filwood,Possession of Weapons,2022/23,14299,15,1
+2290,E05010899,Frome Vale,Possession of Weapons,2022/23,14057,6,0.4
+2291,E05010900,Hartcliffe & Withywood,Possession of Weapons,2022/23,19056,16,0.8
+2292,E05010901,Henbury & Brentry,Possession of Weapons,2022/23,13208,9,0.7
+2293,E05010902,Hengrove & Whitchurch Park,Possession of Weapons,2022/23,18711,21,1.1
+2294,E05010903,Hillfields,Possession of Weapons,2022/23,13153,4,0.3
+2295,E05010904,Horfield,Possession of Weapons,2022/23,13838,7,0.5
+2296,E05010905,Hotwells & Harbourside,Possession of Weapons,2022/23,6037,14,2.3
+2297,E05010906,Knowle,Possession of Weapons,2022/23,14047,4,0.3
+2298,E05010907,Lawrence Hill,Possession of Weapons,2022/23,19604,38,1.9
+2299,E05010908,Lockleaze,Possession of Weapons,2022/23,13396,7,0.5
+2300,E05010909,Redland,Possession of Weapons,2022/23,13251,2,0.2
+2301,E05010910,St George Central,Possession of Weapons,2022/23,12984,7,0.5
+2302,E05010911,St George Troopers Hill,Possession of Weapons,2022/23,6459,2,0.3
+2303,E05010912,St George West,Possession of Weapons,2022/23,6891,4,0.6
+2304,E05010913,Southmead,Possession of Weapons,2022/23,13194,10,0.8
+2305,E05010914,Southville,Possession of Weapons,2022/23,12882,11,0.9
+2306,E05010915,Stockwood,Possession of Weapons,2022/23,11880,3,0.3
+2307,E05010916,Stoke Bishop,Possession of Weapons,2022/23,13067,2,0.2
+2308,E05010917,Westbury-on-Trym & Henleaze,Possession of Weapons,2022/23,20423,3,0.1
+2309,E05010918,Windmill Hill,Possession of Weapons,2022/23,13958,6,0.4
+2310,E06000023,Bristol Average,Possession of Weapons,2022/23,472470,380,0.8
+2311,E05010885,Ashley,Public Order Offences,2022/23,20002,382,19.1
+2312,E05010886,Avonmouth & Lawrence Weston,Public Order Offences,2022/23,22169,309,13.9
+2313,E05010887,Bedminster,Public Order Offences,2022/23,12916,142,11
+2314,E05010888,Bishopston & Ashley Down,Public Order Offences,2022/23,13304,73,5.5
+2315,E05010889,Bishopsworth,Public Order Offences,2022/23,12274,129,10.5
+2316,E05010890,Brislington East,Public Order Offences,2022/23,12146,126,10.4
+2317,E05010891,Brislington West,Public Order Offences,2022/23,11880,278,23.4
+2318,E05010892,Central,Public Order Offences,2022/23,18391,1292,70.3
+2319,E05010893,Clifton,Public Order Offences,2022/23,13022,59,4.5
+2320,E05010894,Clifton Down,Public Order Offences,2022/23,11419,80,7
+2321,E05010895,Cotham,Public Order Offences,2022/23,11522,59,5.1
+2322,E05010896,Easton,Public Order Offences,2022/23,14167,225,15.9
+2323,E05010897,Eastville,Public Order Offences,2022/23,14863,242,16.3
+2324,E05010898,Filwood,Public Order Offences,2022/23,14299,221,15.5
+2325,E05010899,Frome Vale,Public Order Offences,2022/23,14057,179,12.7
+2326,E05010900,Hartcliffe & Withywood,Public Order Offences,2022/23,19056,402,21.1
+2327,E05010901,Henbury & Brentry,Public Order Offences,2022/23,13208,187,14.2
+2328,E05010902,Hengrove & Whitchurch Park,Public Order Offences,2022/23,18711,241,12.9
+2329,E05010903,Hillfields,Public Order Offences,2022/23,13153,123,9.4
+2330,E05010904,Horfield,Public Order Offences,2022/23,13838,239,17.3
+2331,E05010905,Hotwells & Harbourside,Public Order Offences,2022/23,6037,248,41.1
+2332,E05010906,Knowle,Public Order Offences,2022/23,14047,166,11.8
+2333,E05010907,Lawrence Hill,Public Order Offences,2022/23,19604,564,28.8
+2334,E05010908,Lockleaze,Public Order Offences,2022/23,13396,223,16.6
+2335,E05010909,Redland,Public Order Offences,2022/23,13251,47,3.5
+2336,E05010910,St George Central,Public Order Offences,2022/23,12984,134,10.3
+2337,E05010911,St George Troopers Hill,Public Order Offences,2022/23,6459,22,3.4
+2338,E05010912,St George West,Public Order Offences,2022/23,6891,101,14.7
+2339,E05010913,Southmead,Public Order Offences,2022/23,13194,188,14.2
+2340,E05010914,Southville,Public Order Offences,2022/23,12882,291,22.6
+2341,E05010915,Stockwood,Public Order Offences,2022/23,11880,132,11.1
+2342,E05010916,Stoke Bishop,Public Order Offences,2022/23,13067,84,6.4
+2343,E05010917,Westbury-on-Trym & Henleaze,Public Order Offences,2022/23,20423,82,4
+2344,E05010918,Windmill Hill,Public Order Offences,2022/23,13958,117,8.4
+2345,E06000023,Bristol Average,Public Order Offences,2022/23,472470,7387,15.6
+2346,E05010885,Ashley,Robbery,2022/23,20002,73,3.6
+2347,E05010886,Avonmouth & Lawrence Weston,Robbery,2022/23,22169,23,1
+2348,E05010887,Bedminster,Robbery,2022/23,12916,14,1.1
+2349,E05010888,Bishopston & Ashley Down,Robbery,2022/23,13304,9,0.7
+2350,E05010889,Bishopsworth,Robbery,2022/23,12274,17,1.4
+2351,E05010890,Brislington East,Robbery,2022/23,12146,12,1
+2352,E05010891,Brislington West,Robbery,2022/23,11880,13,1.1
+2353,E05010892,Central,Robbery,2022/23,18391,214,11.6
+2354,E05010893,Clifton,Robbery,2022/23,13022,4,0.3
+2355,E05010894,Clifton Down,Robbery,2022/23,11419,8,0.7
+2356,E05010895,Cotham,Robbery,2022/23,11522,7,0.6
+2357,E05010896,Easton,Robbery,2022/23,14167,28,2
+2358,E05010897,Eastville,Robbery,2022/23,14863,30,2
+2359,E05010898,Filwood,Robbery,2022/23,14299,18,1.3
+2360,E05010899,Frome Vale,Robbery,2022/23,14057,27,1.9
+2361,E05010900,Hartcliffe & Withywood,Robbery,2022/23,19056,32,1.7
+2362,E05010901,Henbury & Brentry,Robbery,2022/23,13208,21,1.6
+2363,E05010902,Hengrove & Whitchurch Park,Robbery,2022/23,18711,24,1.3
+2364,E05010903,Hillfields,Robbery,2022/23,13153,12,0.9
+2365,E05010904,Horfield,Robbery,2022/23,13838,11,0.8
+2366,E05010905,Hotwells & Harbourside,Robbery,2022/23,6037,41,6.8
+2367,E05010906,Knowle,Robbery,2022/23,14047,8,0.6
+2368,E05010907,Lawrence Hill,Robbery,2022/23,19604,113,5.8
+2369,E05010908,Lockleaze,Robbery,2022/23,13396,31,2.3
+2370,E05010909,Redland,Robbery,2022/23,13251,2,0.2
+2371,E05010910,St George Central,Robbery,2022/23,12984,20,1.5
+2372,E05010911,St George Troopers Hill,Robbery,2022/23,6459,6,0.9
+2373,E05010912,St George West,Robbery,2022/23,6891,19,2.8
+2374,E05010913,Southmead,Robbery,2022/23,13194,8,0.6
+2375,E05010914,Southville,Robbery,2022/23,12882,37,2.9
+2376,E05010915,Stockwood,Robbery,2022/23,11880,7,0.6
+2377,E05010916,Stoke Bishop,Robbery,2022/23,13067,6,0.5
+2378,E05010917,Westbury-on-Trym & Henleaze,Robbery,2022/23,20423,7,0.3
+2379,E05010918,Windmill Hill,Robbery,2022/23,13958,15,1.1
+2380,E06000023,Bristol Average,Robbery,2022/23,472470,917,1.9
+2381,E05010885,Ashley,Sexual Offences,2022/23,20002,84,4.2
+2382,E05010886,Avonmouth & Lawrence Weston,Sexual Offences,2022/23,22169,77,3.5
+2383,E05010887,Bedminster,Sexual Offences,2022/23,12916,29,2.2
+2384,E05010888,Bishopston & Ashley Down,Sexual Offences,2022/23,13304,23,1.7
+2385,E05010889,Bishopsworth,Sexual Offences,2022/23,12274,29,2.4
+2386,E05010890,Brislington East,Sexual Offences,2022/23,12146,33,2.7
+2387,E05010891,Brislington West,Sexual Offences,2022/23,11880,42,3.5
+2388,E05010892,Central,Sexual Offences,2022/23,18391,290,15.8
+2389,E05010893,Clifton,Sexual Offences,2022/23,13022,24,1.8
+2390,E05010894,Clifton Down,Sexual Offences,2022/23,11419,25,2.2
+2391,E05010895,Cotham,Sexual Offences,2022/23,11522,32,2.8
+2392,E05010896,Easton,Sexual Offences,2022/23,14167,53,3.7
+2393,E05010897,Eastville,Sexual Offences,2022/23,14863,66,4.4
+2394,E05010898,Filwood,Sexual Offences,2022/23,14299,73,5.1
+2395,E05010899,Frome Vale,Sexual Offences,2022/23,14057,43,3.1
+2396,E05010900,Hartcliffe & Withywood,Sexual Offences,2022/23,19056,69,3.6
+2397,E05010901,Henbury & Brentry,Sexual Offences,2022/23,13208,49,3.7
+2398,E05010902,Hengrove & Whitchurch Park,Sexual Offences,2022/23,18711,55,2.9
+2399,E05010903,Hillfields,Sexual Offences,2022/23,13153,30,2.3
+2400,E05010904,Horfield,Sexual Offences,2022/23,13838,42,3
+2401,E05010905,Hotwells & Harbourside,Sexual Offences,2022/23,6037,116,19.2
+2402,E05010906,Knowle,Sexual Offences,2022/23,14047,35,2.5
+2403,E05010907,Lawrence Hill,Sexual Offences,2022/23,19604,93,4.7
+2404,E05010908,Lockleaze,Sexual Offences,2022/23,13396,51,3.8
+2405,E05010909,Redland,Sexual Offences,2022/23,13251,23,1.7
+2406,E05010910,St George Central,Sexual Offences,2022/23,12984,43,3.3
+2407,E05010911,St George Troopers Hill,Sexual Offences,2022/23,6459,6,0.9
+2408,E05010912,St George West,Sexual Offences,2022/23,6891,26,3.8
+2409,E05010913,Southmead,Sexual Offences,2022/23,13194,36,2.7
+2410,E05010914,Southville,Sexual Offences,2022/23,12882,41,3.2
+2411,E05010915,Stockwood,Sexual Offences,2022/23,11880,34,2.9
+2412,E05010916,Stoke Bishop,Sexual Offences,2022/23,13067,23,1.8
+2413,E05010917,Westbury-on-Trym & Henleaze,Sexual Offences,2022/23,20423,25,1.2
+2414,E05010918,Windmill Hill,Sexual Offences,2022/23,13958,36,2.6
+2415,E06000023,Bristol Average,Sexual Offences,2022/23,472470,1756,3.7
+2416,E05010885,Ashley,Theft,2022/23,20002,421,21
+2417,E05010886,Avonmouth & Lawrence Weston,Theft,2022/23,22169,318,14.3
+2418,E05010887,Bedminster,Theft,2022/23,12916,209,16.2
+2419,E05010888,Bishopston & Ashley Down,Theft,2022/23,13304,108,8.1
+2420,E05010889,Bishopsworth,Theft,2022/23,12274,290,23.6
+2421,E05010890,Brislington East,Theft,2022/23,12146,133,11
+2422,E05010891,Brislington West,Theft,2022/23,11880,204,17.2
+2423,E05010892,Central,Theft,2022/23,18391,2659,144.6
+2424,E05010893,Clifton,Theft,2022/23,13022,160,12.3
+2425,E05010894,Clifton Down,Theft,2022/23,11419,177,15.5
+2426,E05010895,Cotham,Theft,2022/23,11522,85,7.4
+2427,E05010896,Easton,Theft,2022/23,14167,177,12.5
+2428,E05010897,Eastville,Theft,2022/23,14863,368,24.8
+2429,E05010898,Filwood,Theft,2022/23,14299,137,9.6
+2430,E05010899,Frome Vale,Theft,2022/23,14057,323,23
+2431,E05010900,Hartcliffe & Withywood,Theft,2022/23,19056,248,13
+2432,E05010901,Henbury & Brentry,Theft,2022/23,13208,196,14.8
+2433,E05010902,Hengrove & Whitchurch Park,Theft,2022/23,18711,237,12.7
+2434,E05010903,Hillfields,Theft,2022/23,13153,104,7.9
+2435,E05010904,Horfield,Theft,2022/23,13838,172,12.4
+2436,E05010905,Hotwells & Harbourside,Theft,2022/23,6037,664,110
+2437,E05010906,Knowle,Theft,2022/23,14047,114,8.1
+2438,E05010907,Lawrence Hill,Theft,2022/23,19604,702,35.8
+2439,E05010908,Lockleaze,Theft,2022/23,13396,422,31.5
+2440,E05010909,Redland,Theft,2022/23,13251,116,8.8
+2441,E05010910,St George Central,Theft,2022/23,12984,123,9.5
+2442,E05010911,St George Troopers Hill,Theft,2022/23,6459,57,8.8
+2443,E05010912,St George West,Theft,2022/23,6891,272,39.5
+2444,E05010913,Southmead,Theft,2022/23,13194,179,13.6
+2445,E05010914,Southville,Theft,2022/23,12882,473,36.7
+2446,E05010915,Stockwood,Theft,2022/23,11880,113,9.5
+2447,E05010916,Stoke Bishop,Theft,2022/23,13067,56,4.3
+2448,E05010917,Westbury-on-Trym & Henleaze,Theft,2022/23,20423,416,20.4
+2449,E05010918,Windmill Hill,Theft,2022/23,13958,95,6.8
+2450,E06000023,Bristol Average,Theft,2022/23,472470,10528,22.3
+2451,E05010885,Ashley,Vehicle Offences,2022/23,20002,301,15
+2452,E05010886,Avonmouth & Lawrence Weston,Vehicle Offences,2022/23,22169,151,6.8
+2453,E05010887,Bedminster,Vehicle Offences,2022/23,12916,141,10.9
+2454,E05010888,Bishopston & Ashley Down,Vehicle Offences,2022/23,13304,80,6
+2455,E05010889,Bishopsworth,Vehicle Offences,2022/23,12274,105,8.6
+2456,E05010890,Brislington East,Vehicle Offences,2022/23,12146,111,9.1
+2457,E05010891,Brislington West,Vehicle Offences,2022/23,11880,123,10.4
+2458,E05010892,Central,Vehicle Offences,2022/23,18391,751,40.8
+2459,E05010893,Clifton,Vehicle Offences,2022/23,13022,186,14.3
+2460,E05010894,Clifton Down,Vehicle Offences,2022/23,11419,116,10.2
+2461,E05010895,Cotham,Vehicle Offences,2022/23,11522,128,11.1
+2462,E05010896,Easton,Vehicle Offences,2022/23,14167,183,12.9
+2463,E05010897,Eastville,Vehicle Offences,2022/23,14863,161,10.8
+2464,E05010898,Filwood,Vehicle Offences,2022/23,14299,126,8.8
+2465,E05010899,Frome Vale,Vehicle Offences,2022/23,14057,108,7.7
+2466,E05010900,Hartcliffe & Withywood,Vehicle Offences,2022/23,19056,108,5.7
+2467,E05010901,Henbury & Brentry,Vehicle Offences,2022/23,13208,54,4.1
+2468,E05010902,Hengrove & Whitchurch Park,Vehicle Offences,2022/23,18711,132,7.1
+2469,E05010903,Hillfields,Vehicle Offences,2022/23,13153,116,8.8
+2470,E05010904,Horfield,Vehicle Offences,2022/23,13838,184,13.3
+2471,E05010905,Hotwells & Harbourside,Vehicle Offences,2022/23,6037,136,22.5
+2472,E05010906,Knowle,Vehicle Offences,2022/23,14047,118,8.4
+2473,E05010907,Lawrence Hill,Vehicle Offences,2022/23,19604,398,20.3
+2474,E05010908,Lockleaze,Vehicle Offences,2022/23,13396,135,10.1
+2475,E05010909,Redland,Vehicle Offences,2022/23,13251,119,9
+2476,E05010910,St George Central,Vehicle Offences,2022/23,12984,81,6.2
+2477,E05010911,St George Troopers Hill,Vehicle Offences,2022/23,6459,26,4
+2478,E05010912,St George West,Vehicle Offences,2022/23,6891,66,9.6
+2479,E05010913,Southmead,Vehicle Offences,2022/23,13194,69,5.2
+2480,E05010914,Southville,Vehicle Offences,2022/23,12882,221,17.2
+2481,E05010915,Stockwood,Vehicle Offences,2022/23,11880,46,3.9
+2482,E05010916,Stoke Bishop,Vehicle Offences,2022/23,13067,63,4.8
+2483,E05010917,Westbury-on-Trym & Henleaze,Vehicle Offences,2022/23,20423,149,7.3
+2484,E05010918,Windmill Hill,Vehicle Offences,2022/23,13958,163,11.7
+2485,E06000023,Bristol Average,Vehicle Offences,2022/23,472470,5155,10.9
+2486,E05010885,Ashley,Violence Against The Person,2022/23,20002,860,43
+2487,E05010886,Avonmouth & Lawrence Weston,Violence Against The Person,2022/23,22169,987,44.5
+2488,E05010887,Bedminster,Violence Against The Person,2022/23,12916,372,28.8
+2489,E05010888,Bishopston & Ashley Down,Violence Against The Person,2022/23,13304,222,16.7
+2490,E05010889,Bishopsworth,Violence Against The Person,2022/23,12274,347,28.3
+2491,E05010890,Brislington East,Violence Against The Person,2022/23,12146,358,29.5
+2492,E05010891,Brislington West,Violence Against The Person,2022/23,11880,548,46.1
+2493,E05010892,Central,Violence Against The Person,2022/23,18391,2246,122.1
+2494,E05010893,Clifton,Violence Against The Person,2022/23,13022,233,17.9
+2495,E05010894,Clifton Down,Violence Against The Person,2022/23,11419,167,14.6
+2496,E05010895,Cotham,Violence Against The Person,2022/23,11522,174,15.1
+2497,E05010896,Easton,Violence Against The Person,2022/23,14167,601,42.4
+2498,E05010897,Eastville,Violence Against The Person,2022/23,14863,670,45.1
+2499,E05010898,Filwood,Violence Against The Person,2022/23,14299,647,45.2
+2500,E05010899,Frome Vale,Violence Against The Person,2022/23,14057,409,29.1
+2501,E05010900,Hartcliffe & Withywood,Violence Against The Person,2022/23,19056,1124,59
+2502,E05010901,Henbury & Brentry,Violence Against The Person,2022/23,13208,539,40.8
+2503,E05010902,Hengrove & Whitchurch Park,Violence Against The Person,2022/23,18711,765,40.9
+2504,E05010903,Hillfields,Violence Against The Person,2022/23,13153,344,26.2
+2505,E05010904,Horfield,Violence Against The Person,2022/23,13838,595,43
+2506,E05010905,Hotwells & Harbourside,Violence Against The Person,2022/23,6037,721,119.4
+2507,E05010906,Knowle,Violence Against The Person,2022/23,14047,378,26.9
+2508,E05010907,Lawrence Hill,Violence Against The Person,2022/23,19604,1273,64.9
+2509,E05010908,Lockleaze,Violence Against The Person,2022/23,13396,489,36.5
+2510,E05010909,Redland,Violence Against The Person,2022/23,13251,144,10.9
+2511,E05010910,St George Central,Violence Against The Person,2022/23,12984,386,29.7
+2512,E05010911,St George Troopers Hill,Violence Against The Person,2022/23,6459,77,11.9
+2513,E05010912,St George West,Violence Against The Person,2022/23,6891,267,38.7
+2514,E05010913,Southmead,Violence Against The Person,2022/23,13194,508,38.5
+2515,E05010914,Southville,Violence Against The Person,2022/23,12882,463,35.9
+2516,E05010915,Stockwood,Violence Against The Person,2022/23,11880,376,31.6
+2517,E05010916,Stoke Bishop,Violence Against The Person,2022/23,13067,198,15.2
+2518,E05010917,Westbury-on-Trym & Henleaze,Violence Against The Person,2022/23,20423,151,7.4
+2519,E05010918,Windmill Hill,Violence Against The Person,2022/23,13958,359,25.7
+2520,E06000023,Bristol Average,Violence Against The Person,2022/23,472470,17998,38.1
+2521,E05010885,Ashley,Violent & Sexual Offences,2022/23,20002,944,47.2
+2522,E05010886,Avonmouth & Lawrence Weston,Violent & Sexual Offences,2022/23,22169,1064,48
+2523,E05010887,Bedminster,Violent & Sexual Offences,2022/23,12916,401,31
+2524,E05010888,Bishopston & Ashley Down,Violent & Sexual Offences,2022/23,13304,245,18.4
+2525,E05010889,Bishopsworth,Violent & Sexual Offences,2022/23,12274,376,30.6
+2526,E05010890,Brislington East,Violent & Sexual Offences,2022/23,12146,391,32.2
+2527,E05010891,Brislington West,Violent & Sexual Offences,2022/23,11880,590,49.7
+2528,E05010892,Central,Violent & Sexual Offences,2022/23,18391,2536,137.9
+2529,E05010893,Clifton,Violent & Sexual Offences,2022/23,13022,257,19.7
+2530,E05010894,Clifton Down,Violent & Sexual Offences,2022/23,11419,192,16.8
+2531,E05010895,Cotham,Violent & Sexual Offences,2022/23,11522,206,17.9
+2532,E05010896,Easton,Violent & Sexual Offences,2022/23,14167,654,46.2
+2533,E05010897,Eastville,Violent & Sexual Offences,2022/23,14863,736,49.5
+2534,E05010898,Filwood,Violent & Sexual Offences,2022/23,14299,720,50.4
+2535,E05010899,Frome Vale,Violent & Sexual Offences,2022/23,14057,452,32.2
+2536,E05010900,Hartcliffe & Withywood,Violent & Sexual Offences,2022/23,19056,1193,62.6
+2537,E05010901,Henbury & Brentry,Violent & Sexual Offences,2022/23,13208,588,44.5
+2538,E05010902,Hengrove & Whitchurch Park,Violent & Sexual Offences,2022/23,18711,820,43.8
+2539,E05010903,Hillfields,Violent & Sexual Offences,2022/23,13153,374,28.4
+2540,E05010904,Horfield,Violent & Sexual Offences,2022/23,13838,637,46
+2541,E05010905,Hotwells & Harbourside,Violent & Sexual Offences,2022/23,6037,837,138.6
+2542,E05010906,Knowle,Violent & Sexual Offences,2022/23,14047,413,29.4
+2543,E05010907,Lawrence Hill,Violent & Sexual Offences,2022/23,19604,1366,69.7
+2544,E05010908,Lockleaze,Violent & Sexual Offences,2022/23,13396,540,40.3
+2545,E05010909,Redland,Violent & Sexual Offences,2022/23,13251,167,12.6
+2546,E05010910,St George Central,Violent & Sexual Offences,2022/23,12984,429,33
+2547,E05010911,St George Troopers Hill,Violent & Sexual Offences,2022/23,6459,83,12.9
+2548,E05010912,St George West,Violent & Sexual Offences,2022/23,6891,293,42.5
+2549,E05010913,Southmead,Violent & Sexual Offences,2022/23,13194,544,41.2
+2550,E05010914,Southville,Violent & Sexual Offences,2022/23,12882,504,39.1
+2551,E05010915,Stockwood,Violent & Sexual Offences,2022/23,11880,410,34.5
+2552,E05010916,Stoke Bishop,Violent & Sexual Offences,2022/23,13067,221,16.9
+2553,E05010917,Westbury-on-Trym & Henleaze,Violent & Sexual Offences,2022/23,20423,176,8.6
+2554,E05010918,Windmill Hill,Violent & Sexual Offences,2022/23,13958,395,28.3
+2555,E06000023,Bristol Average,Violent & Sexual Offences,2022/23,472470,19754,41.8
