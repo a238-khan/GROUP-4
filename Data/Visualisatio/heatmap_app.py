@@ -9,7 +9,7 @@ from streamlit_folium import st_folium
 # -------------------------
 @st.cache_data
 def load_crime_data():
-    df = pd.read_excel("bristol_crime_sorted.xlsx")
+    df = pd.read_excel("Data/Visualisatio/bristol_crime_sorted.xlsx")
     df = df.rename(columns={'date ': 'month'})
     df['month'] = pd.to_datetime(df['month'], format='%Y-%m')
     df['year'] = df['month'].dt.year
