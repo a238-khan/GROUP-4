@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import folium
-from folium.plugins import HeatMap, MarkerCluster
+from folium.plugins import HeatMap
 from streamlit_folium import st_folium
 
 # -------------------------
@@ -12,104 +12,114 @@ def load_crime_data():
     df = pd.read_excel("Data/Visualisatio/bristol_crime_sorted.xlsx")
     df.columns = df.columns.str.strip()
 
-    if "date" in df.columns:
-        df.rename(columns={"date": "month"}, inplace=True)
-    elif "date " in df.columns:
-        df.rename(columns={"date ": "month"}, inplace=True)
+    if 'date ' in df.columns:
+        df = df.rename(columns={'date ': 'month'})
 
-    df["month"] = pd.to_datetime(df["month"], format="%Y-%m")
-    df["year"] = df["month"].dt.year
-    df["month_num"] = df["month"].dt.month
+    df['month'] = pd.to_datetime(df['month'], format='%Y-%m')
+    df['year'] = df['month'].dt.year
+    df['month_num'] = df['month'].dt.month
 
     def get_season(m):
-        if m in [12, 1, 2]: return "Winter"
-        elif m in [3, 4, 5]: return "Spring"
-        elif m in [6, 7, 8]: return "Summer"
-        else: return "Autumn"
+        if m in [12, 1, 2]: return 'Winter'
+        elif m in [3, 4, 5]: return 'Spring'
+        elif m in [6, 7, 8]: return 'Summer'
+        else: return 'Autumn'
 
-    df["season"] = df["month_num"].apply(get_season)
+    df['season'] = df['month_num'].apply(get_season)
 
-    if {"average_rent", "population_density", "deprivation_index"}.issubset(df.columns):
-        df["rent_range"] = df["average_rent"].apply(
+    if {'average_rent', 'population_density', 'deprivation_index'}.issubset(df.columns):
+        df['rent_range'] = df['average_rent'].apply(
             lambda r: "< £1000" if r < 1000 else
                       "£1000–£1500" if r < 1500 else
                       "£1500–£2000" if r < 2000 else "> £2000"
         )
-        df["population_level"] = df["population_density"].apply(
+        df['population_level'] = df['population_density'].apply(
             lambda p: "Low (<3000)" if p < 3000 else
                       "Medium (3000–7000)" if p < 7000 else "High (>7000)"
         )
-        df["deprivation_level"] = df["deprivation_index"].apply(
+        df['deprivation_level'] = df['deprivation_index'].apply(
             lambda d: "Low (0–0.3)" if d < 0.3 else
                       "Medium (0.3–0.6)" if d < 0.6 else "High (0.6–1.0)"
         )
 
-    return df.dropna(subset=["lat", "lng"])
+    return df.dropna(subset=['lat', 'lng'])
 
-df = load_crime_data()
+@st.cache_data
+def get_heat_data(df, max_points=5000):
+    if len(df) > max_points:
+        return df.sample(max_points)[['lat', 'lng']].values.tolist()
+    else:
+        return df[['lat', 'lng']].values.tolist()
+
+crime_df = load_crime_data()
 
 # -------------------------
-# Sidebar filters
+# Sidebar Filters
 # -------------------------
 st.sidebar.title("🔍 Filter Crime Data")
 
-year = st.sidebar.selectbox("Select Year", ["All"] + sorted(df["year"].unique()))
-season = st.sidebar.selectbox("Select Season", ["All", "Winter", "Spring", "Summer", "Autumn"])
-crime_type = st.sidebar.selectbox("Select Crime Type", ["All"] + sorted(df["category"].dropna().unique()))
-street = st.sidebar.selectbox("Select Street Name", ["All"] + sorted(df["street_name"].dropna().unique()))
+year_options = ['All'] + sorted(crime_df['year'].unique())
+selected_year = st.sidebar.selectbox("Select Year", year_options)
 
-rent = st.sidebar.selectbox("Select Rent Range", ["All"] + sorted(df["rent_range"].dropna().unique()) if "rent_range" in df else ["All"])
-pop = st.sidebar.selectbox("Select Population Level", ["All"] + sorted(df["population_level"].dropna().unique()) if "population_level" in df else ["All"])
-dep = st.sidebar.selectbox("Select Deprivation Level", ["All"] + sorted(df["deprivation_level"].dropna().unique()) if "deprivation_level" in df else ["All"])
+season_options = ['All', 'Winter', 'Spring', 'Summer', 'Autumn']
+selected_season = st.sidebar.selectbox("Select Season", season_options)
 
-# -------------------------
-# Apply filters
-# -------------------------
-filtered_df = df.copy()
+crime_types = ['All'] + sorted(crime_df['category'].dropna().unique())
+selected_crime = st.sidebar.selectbox("Select Crime Type", crime_types)
 
-if year != "All":
-    filtered_df = filtered_df[filtered_df["year"] == year]
-if season != "All":
-    filtered_df = filtered_df[filtered_df["season"] == season]
-if crime_type != "All":
-    filtered_df = filtered_df[filtered_df["category"] == crime_type]
-if street != "All":
-    filtered_df = filtered_df[filtered_df["street_name"] == street]
-if rent != "All" and "rent_range" in filtered_df:
-    filtered_df = filtered_df[filtered_df["rent_range"] == rent]
-if pop != "All" and "population_level" in filtered_df:
-    filtered_df = filtered_df[filtered_df["population_level"] == pop]
-if dep != "All" and "deprivation_level" in filtered_df:
-    filtered_df = filtered_df[filtered_df["deprivation_level"] == dep]
+street_names = ['All'] + sorted(crime_df['street_name'].dropna().unique())
+selected_street = st.sidebar.selectbox("Select Street Name", street_names)
+
+rent_ranges = ['All'] + sorted(crime_df['rent_range'].dropna().unique()) if 'rent_range' in crime_df else ['All']
+selected_rent = st.sidebar.selectbox("Select Rent Range", rent_ranges)
+
+population_levels = ['All'] + sorted(crime_df['population_level'].dropna().unique()) if 'population_level' in crime_df else ['All']
+selected_pop = st.sidebar.selectbox("Select Population Level", population_levels)
+
+deprivation_levels = ['All'] + sorted(crime_df['deprivation_level'].dropna().unique()) if 'deprivation_level' in crime_df else ['All']
+selected_dep = st.sidebar.selectbox("Select Deprivation Level", deprivation_levels)
 
 # -------------------------
-# Show results
+# Filter logic
 # -------------------------
-st.title("🔴 Bristol Crime Heatmap + Markers")
-st.markdown(f"**Total Crimes Displayed**: {len(filtered_df)}")
+filtered_df = crime_df.copy()
 
+if selected_year != 'All':
+    filtered_df = filtered_df[filtered_df['year'] == selected_year]
+if selected_season != 'All':
+    filtered_df = filtered_df[filtered_df['season'] == selected_season]
+if selected_crime != 'All':
+    filtered_df = filtered_df[filtered_df['category'] == selected_crime]
+if selected_street != 'All':
+    filtered_df = filtered_df[filtered_df['street_name'] == selected_street]
+if selected_rent != 'All' and 'rent_range' in filtered_df:
+    filtered_df = filtered_df[filtered_df['rent_range'] == selected_rent]
+if selected_pop != 'All' and 'population_level' in filtered_df:
+    filtered_df = filtered_df[filtered_df['population_level'] == selected_pop]
+if selected_dep != 'All' and 'deprivation_level' in filtered_df:
+    filtered_df = filtered_df[filtered_df['deprivation_level'] == selected_dep]
+
+# -------------------------
+# Main UI
+# -------------------------
+st.title("🔴 Bristol Crime Heatmap")
+st.markdown(f"**Crimes Displayed**: {len(filtered_df)}")
+
+heat_data = get_heat_data(filtered_df)
+
+# -------------------------
+# Create and Show Map
+# -------------------------
 m = folium.Map(location=[51.4545, -2.5879], zoom_start=12, tiles="OpenStreetMap")
 
-# Heatmap layer
-if not filtered_df.empty:
-    heat_data = (
-        filtered_df.sample(5000)[["lat", "lng"]].values.tolist()
-        if len(filtered_df) > 5000
-        else filtered_df[["lat", "lng"]].values.tolist()
-    )
-    HeatMap(heat_data, radius=7, blur=10, gradient={0.2: "orange", 0.5: "red", 1: "darkred"}).add_to(m)
-
-    # Cluster markers with popup counts
-    cluster = MarkerCluster().add_to(m)
-    location_counts = filtered_df.groupby(["lat", "lng"]).size()
-
-    for (lat, lng), count in location_counts.items():
-        folium.Marker(
-            location=[lat, lng],
-            popup=f"{count} crime(s) here",
-            icon=folium.Icon(color="blue", icon="info-sign")
-        ).add_to(cluster)
+if heat_data:
+    HeatMap(
+        heat_data,
+        radius=7,
+        blur=10,
+        gradient={0.2: 'orange', 0.5: 'red', 1: 'darkred'}
+    ).add_to(m)
 else:
-    st.warning("No data found for selected filters.")
+    st.warning("No crime data available for selected filters.")
 
 st_folium(m, width=800, height=600)
