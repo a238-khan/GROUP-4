@@ -9,16 +9,21 @@ from streamlit_folium import st_folium
 # -------------------------
 @st.cache_data
 def load_crime_data():
-    df = pd.read_excel("Data/Visualisatio/bristol_crime_sorted.xlsx")
+    df = pd.read_excel("Data/Visualisatio/bristol_crime_with_socioeconomic_data.xlsx")
     df.columns = df.columns.str.strip()
 
-    if 'date ' in df.columns:
-        df = df.rename(columns={'date ': 'month'})
+    # Rename if needed
+    if "date" in df.columns:
+        df.rename(columns={"date": "month"}, inplace=True)
+    elif "date " in df.columns:
+        df.rename(columns={"date ": "month"}, inplace=True)
 
+    # Date conversion
     df['month'] = pd.to_datetime(df['month'], format='%Y-%m')
     df['year'] = df['month'].dt.year
     df['month_num'] = df['month'].dt.month
 
+    # Add season
     def get_season(m):
         if m in [12, 1, 2]: return 'Winter'
         elif m in [3, 4, 5]: return 'Spring'
@@ -27,6 +32,7 @@ def load_crime_data():
 
     df['season'] = df['month_num'].apply(get_season)
 
+    # Socioeconomic categorization
     if {'average_rent', 'population_density', 'deprivation_index'}.issubset(df.columns):
         df['rent_range'] = df['average_rent'].apply(
             lambda r: "< £1000" if r < 1000 else
@@ -80,7 +86,7 @@ deprivation_levels = ['All'] + sorted(crime_df['deprivation_level'].dropna().uni
 selected_dep = st.sidebar.selectbox("Select Deprivation Level", deprivation_levels)
 
 # -------------------------
-# Filter logic
+# Apply Filters
 # -------------------------
 filtered_df = crime_df.copy()
 
@@ -108,7 +114,7 @@ st.markdown(f"**Crimes Displayed**: {len(filtered_df)}")
 heat_data = get_heat_data(filtered_df)
 
 # -------------------------
-# Create and Show Map
+# Show Heatmap
 # -------------------------
 m = folium.Map(location=[51.4545, -2.5879], zoom_start=12, tiles="OpenStreetMap")
 
